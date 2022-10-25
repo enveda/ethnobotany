@@ -1,0 +1,10 @@
+pandas
+obonet
+tqdm
+networkx
+itertools
+statannot
+rdkit
+numpy
+seaborn
+matplotlib_venn

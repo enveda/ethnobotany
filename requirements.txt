@@ -8,3 +8,5 @@ rdkit
 numpy
 seaborn
 matplotlib_venn
+pygal_maps_world
+cairosvg

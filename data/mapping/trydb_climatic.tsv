@@ -1,0 +1,1520 @@
+name	ncbi	Continental	Mediterranean	Mountains, NOT ALPINE, ARCTIC, SUBARCTIC, OR SUBALPINE	Arctic/Alpine	Subarctic/Subalpine/Boreal/Subantarctcic/Austral	Temperate	Subropical	Tropical	Humid	Arid/semi-arid?	Latitude_value	Climate type / Climate zone of sample site_value	Soil ph_value	Mean annual temperature (MAT)_value	Mean sum of annual precipitation (PPT / MAP / TAP)_value	Vegetation type / Biome_value	Mean annual VPD_value	Mean annual sum of potential evapotranspiration (PET)_value	Altitude_value	Mean temperature during growth season_value	Number of floristic zones_value	Annual precipitation_value	pH, Minimum_value	pH, Maximum_value	Growth temperature_value	Treatment light_value	Temperature of coldest month at origin (mean or max)_value	Temperature of warmest month at origin (mean or max)_value
+Acacia auriculiformis	ncbitaxon:205027	1	0	0	0	0	0	0	0	1	0	-12.366667	Continental	6.06	27.687679	1375.0246	TR	1.18	1459	31	27.30833333
+Macroptilium atropurpureum	ncbitaxon:90550	1	0	0	0	0	0	0	0	1	0	-12.366667	Continental	6.06	27.687679	1375.0246
+Eucalyptus tetrodonta	ncbitaxon:183856	1	0	0	0	0	0	0	0	1	0	-12.433333	Continental	6.06	27.687679	1375.0246	TR	1.18	1459	31	27.30833333
+Huperzia selago	ncbitaxon:70001	1	0	0	0	1	0	0	0	0	0	74.4666667	Continental	6.18499994	-9.8	223	Forest tundra					8	1472.352365
+Vaccinium uliginosum	ncbitaxon:190548	1	0	0	0	1	0	0	0	0	0	74.4666667	Continental	5.51000023	-9.8	223	GRASSLAND	0.1367970865	339.3775	360	10.03333333	4	1896.633095	4.5	5.7
+Agrostis stolonifera	ncbitaxon:63632	1	0	0	0	0	1	0	0	0	0	-45.8904	Continental	5.29	10.0083333	727	Floodplain meadow					5	1101.060143	5.1	7.5
+Acer saccharum	ncbitaxon:4024	1	0	0	0	0	1	0	0	1	0	47.05	Continental	5.14	3.3	1242	TEMP	0.2657642297	774.7	340	13.55082251			3.7	7.3	20	2	-4	22
+Bougainvillea spectabilis	ncbitaxon:146096	1	0	0	0	0	1	0	0	0	0	-22.816667	Continental	5.275	25	800		1.423939033	1313.525	76	25.94166667
+Pereskia aculeata	ncbitaxon:3597	1	0	0	0	0	1	0	0	0	0	-22.816667	Continental	5.275	25	800
+Picea abies	ncbitaxon:3329	1	0	0	0	0	1	0	0	0	0	64.2167	Continental	4.79799986	1	588	TEMP	0.29	657	150	13.8	3	1054.35731			21	2	-8.7	14.4
+Pinus sylvestris	ncbitaxon:3349	1	0	0	0	0	0	0	0	0	0	64.2167	Continental	4.79799986	1	588	GRASSLAND	0.29	657	360	11.225	3	1929.924808	5	7.5	21	2
+Dipteryx odorata	ncbitaxon:53873	1	0	0	0	0	0	0	0	1	0	-2.5	Continental	4.9289999	26.5	2250
+Pterocarpus officinalis	ncbitaxon:330896	1	0	0	0	0	0	0	0	1	0	-2.5	Continental	4.9289999	26.5	2250								6	8.5
+Pterocarpus rohrii	ncbitaxon:450040	1	0	0	0	0	0	0	0	1	0	-2.5	Continental	4.9289999	26.5	2250		0.8509415707	1302.975	340	24.6
+Simarouba amara	ncbitaxon:101569	1	0	0	0	0	0	0	0	1	0	-2.5	Continental	4.9289999	26.5	2250	TR	0.5066930615	1120.825	140	26.175
+Hymenaea parvifolia	ncbitaxon:327908	1	0	0	0	0	0	0	0	1	0	-2.5	Continental	4.9289999	26.5	2250
+Swartzia sp.	ncbitaxon:450117	1	0	0	0	0	0	0	0	1	0	-2.5	Continental	4.9289999	26.5	2250
+Copaifera multijuga	ncbitaxon:327897	1	0	0	0	0	0	0	0	1	0	-0.14	Continental	4.93200016	25	3500
+Simaba guianensis	ncbitaxon:459152	1	0	0	0	0	0	0	0	1	0	-2.85	Continental	4.95300007	24	2190
+Mimosa pudica	ncbitaxon:76306	1	0	0	0	0	0	0	0	1	0	-1.75	Continental	4.954	26.400888	2046.9666
+Agrostis tenuis	ncbitaxon:204232	1	0	0	0	0	1	0	0	0	0	-45.599883	Continental	5.03999996	6.5	958	Quercetum herbosum, Fagetum nudum and Abiegnetum pteridiosum communities	0.2112355084	745.725	2	11.42222222	3	1103.805869	4.9	7.5
+Abies balsamea	ncbitaxon:90345	1	0	0	0	0	1	0	0	1	0	45.3333	Continental	5.04300022	5.73	1010	temperate mixed forest			387						18	1
+Acer rubrum	ncbitaxon:45314	1	0	0	0	0	1	0	0	1	0	45.3333	Continental	5.04300022	5.73	1010	TEMP	0.3	763	387	13.55082251			5.4	7.1	20	2	-4	22
+Betula papyrifera	ncbitaxon:3507	1	0	0	0	0	1	0	0	1	0	45.3333	Continental	5.04300022	5.73	1010	Dfb	0.2657642297	774.7	387	13.55082251			4.5	7	20	2
+Picea rubens	ncbitaxon:3333	1	0	0	0	0	1	0	0	1	0	45.3333	Continental	5.04300022	5.73	1010								4	5.8	25	2
+Thuja occidentalis	ncbitaxon:3317	1	0	0	0	0	1	0	0	1	0	45.3333	Continental	5.04300022	5.73	1010	TEMP	0.3	763	275	16.27142857			5.2	7	20	2
+Acer pensylvanicum	ncbitaxon:66214	1	0	0	0	0	1	0	0	1	0	44.1526	Continental	5.07499981	3.99	1367		0.2657642297	774.7	340	13.55082251			4.4	6.5	20	2
+Fraxinus americana	ncbitaxon:38872	1	0	0	0	0	1	0	0	1	0	44.2172	Continental	5.07499981	5.96	1104	Experimental fields	0.2657642297	774.7	340	13.55082251			5	7.5	20	2
+Bidens pilosa	ncbitaxon:42337	1	0	0	0	0	1	0	0	1	0	-22.7167	Continental	5.08500004	20.501644	1055.0389
+Brachiaria decumbens	ncbitaxon:240449	1	0	0	0	0	1	0	0	1	0	-22.7167	Continental	5.08500004	20.501644	1055.0389
+Emilia sagittata	ncbitaxon:189213	1	0	0	0	0	1	0	0	1	0	-22.7167	Continental	5.08500004	20.501644	1055.0389
+Combretum molle	ncbitaxon:507414	1	0	0	0	0	0	0	0	0	0	-15.44	Continental	5.09899998	22.5658	970
+Hannoa chlorantha	ncbitaxon:459125	1	0	0	0	0	0	0	0	0	0	-15.44	Continental	5.09899998	22.5658	735.73
+Trema micrantha	ncbitaxon:28954	1	0	0	0	0	1	0	0	1	0	-24.528611	Continental	5.11899996	18	1800	TR	0.8509415707	1302.975	140	24.6
+Croton urucurana	ncbitaxon:518879	1	0	0	0	0	1	0	0	1	0	-22.283333	Continental	5.11899996	22	1345
+Protium heptaphyllum	ncbitaxon:246847	1	0	0	0	0	1	0	0	1	0	-22.283333	Continental	5.11899996	22	1345
+Copaifera langsdorffii	ncbitaxon:280048	1	0	0	0	0	1	0	0	1	0	-22.283333	Continental	5.11899996	22	1345
+Hymenaea coubaril	ncbitaxon:20676	1	0	0	0	0	1	0	0	1	0	-22.283333	Continental	5.11899996	22	1345				1230-1403				5.5	7.5	27.6	2
+Calophyllum brasiliense	ncbitaxon:280748	1	0	0	0	0	1	0	0	1	0	-22.383333	Continental	5.14400005	23	1164
+Pinus taeda	ncbitaxon:3352	1	0	0	0	0	1	0	0	1	0	35	Continental	5.14900017	17	1210	temperate needle leafed evergreen forest			60				4.5	7	25	2
+Juniperus virginiana	ncbitaxon:39584	1	0	0	0	0	1	0	0	1	0	41.791	Continental	5.17999983	9.1	1280	Cfa	0.3703975993	926.525	275	16.27142857			4.7	8
+Cassia occidentalis	ncbitaxon:126820	1	0	0	0	0	1	0	0	1	0	-22.9	Continental	5.1960001	22.4	1430
+Dimorphandra mollis	ncbitaxon:149691	1	0	0	0	0	1	0	0	1	0	-22.266667	Continental	5.21700001	19.3	1400
+Qualea grandiflora	ncbitaxon:178107	1	0	0	0	0	1	0	0	1	0	-22.266667	Continental	5.21700001	19.3	1400		0.811062801	1430.75	1100	21.94166667					22.5	2
+Bauhinia forticata	ncbitaxon:413686	1	0	0	0	0	1	0	0	1	0	-22.266667	Continental	5.21700001	19.3	1400
+Fluggea virosa	ncbitaxon:283121	1	0	0	0	0	0	0	0	0	0	8.15	Continental	5.23000002	27	950	Cwa			1238
+Maytenus senegalensis	ncbitaxon:256095	1	0	0	0	0	0	0	0	0	0	8.15	Continental	5.23000002	27	950
+Cassia spectabilis	ncbitaxon:347003	1	0	0	0	0	0	0	0	1	0	14	Continental	5.2329998	28.145449	1602.2595
+Pterocarpus indicus	ncbitaxon:100170	1	0	0	0	0	0	0	0	1	0	14	Continental	5.2329998	28.145449	1602.2595
+Acacia mangium	ncbitaxon:224085	1	0	0	0	0	0	0	0	1	0	14	Continental	5.2329998	28.145449	1602.2595	Cfa			860						25	2
+Pithecellobium dulce	ncbitaxon:404691	1	0	0	0	0	0	0	0	1	0	14	Continental	5.2329998	28.145449	1602.2595		0.6650012412	1541	400	24.61666667					25	2
+Sesbania grandiflora	ncbitaxon:206309	1	0	0	0	0	0	0	0	1	0	14	Continental	5.2329998	28.145449	1602.2595
+Quercus rubra	ncbitaxon:3512	1	0	0	0	0	1	0	0	1	0	42.2964	Continental	5.26999998	4.3	1530	TEMP	0.29	657	340	13.55082251	3		4.3	6.5	16	2	-5	21
+Davilla elliptica	ncbitaxon:640648	1	0	0	0	0	0	0	0	1	0	-15.944722	Continental	5.33699989	24.5	1500
+Miconia albicans	ncbitaxon:427218	1	0	0	0	0	0	0	0	1	0	-15.944722	Continental	5.33699989	24.5	1500		0.6903278134	1231.725	710	20.23333333
+Palicourea rigida	ncbitaxon:96266	1	0	0	0	0	0	0	0	1	0	-15.944722	Continental	5.33699989	24.5	1500
+Qualea parviflora	ncbitaxon:473048	1	0	0	0	0	0	0	0	1	0	-15.944722	Continental	5.33699989	24.5	1500				1100						22.5	2
+Andira humilis	ncbitaxon:588911	1	0	0	0	0	0	0	0	1	0	-15.944722	Continental	5.33699989	24.5	1500
+Stryphnodendron adstringens	ncbitaxon:397648	1	0	0	0	0	0	0	0	1	0	-15.944722	Continental	5.33699989	24.5	1500	Aw			102
+Delonix regia	ncbitaxon:72433	1	0	0	0	0	0	0	0	1	0	14.5	Continental	5.33799982	28.212528	1174.7996
+Psidium guajava	ncbitaxon:120290	1	0	0	0	0	0	0	0	1	0	14.5	Continental	5.33799982	28.212528	1174.7996		1.423939033	1313.525	252	25.94166667			5.5	7
+Acacia catechu	ncbitaxon:138017	1	0	0	0	0	0	0	0	1	0	14.5	Continental	5.33799982	28.212528	1174.7996
+Chamaescyparis obtusa	ncbitaxon:13415	1	0	0	0	0	0	0	0	1	0	14.1833333	Continental	5.33799982	28.36434	1081.3121	Cfa									0	0
+Cycas revoluta	ncbitaxon:3396	1	0	0	0	0	0	0	0	1	0	14.1833333	Continental	5.33799982	28.36434	1081.3121	Cfa			1230-1364						28	2
+Garcinia mangostana	ncbitaxon:58228	1	0	0	0	0	0	0	0	1	0	-11.767222	Continental	5.35099983	27.438057	1424.1588
+Terminalia catappa	ncbitaxon:39993	1	0	0	0	0	0	0	0	0	0	14.0333333	Continental	5.39900017	28.0623	948.977		0.5498615436	1393.775	18	26.675			6	7.5
+Ziziphus jujuba	ncbitaxon:326968	1	0	0	0	0	0	0	0	0	0	14.0333333	Continental	5.39900017	28.0623	948.977	Acer forest	1.423939033	1313.525	76	25.94166667
+Picea engelmannii	ncbitaxon:3334	1	0	0	0	0	1	0	0	1	0	48.1666667	Continental	5.42700005	1.7026008	1226.859		0.3789336181	505.586158	3360	7.825			6	8	15	2
+Dalbergia subcymosa	ncbitaxon:1544812	1	0	0	0	0	0	0	0	1	0	-3.1	Continental	5.45499992	27.476934	1885.354
+Liriodendron tulipifera	ncbitaxon:3415	1	0	0	0	0	1	0	0	1	0	39.0833	Continental	5.48000002	8.9	1458	Cfa	0.4100592861	943.22	250	15.54444444			4.5	6.5	23	2	-4	22
+Prunus serotina	ncbitaxon:23207	1	0	0	0	0	1	0	0	1	0	39.0833	Continental	5.48000002	8.9	1458		0.2657642297	774.7	340	13.55082251	4		5	7.5	20	2
+Cornus canadensis	ncbitaxon:4282	1	0	0	0	0	0	0	0	0	0	65.25	Continental	5.51000023	-4.9	404								5.5	6.9
+Ledum groenlandicum	ncbitaxon:49605	1	0	0	0	0	1	0	0	0	0	65.25	Continental	5.51000023	-4.9	404	TEMP	0.3	763	116	13.7	3		5	7
+Picea mariana	ncbitaxon:3335	1	0	0	0	0	1	0	0	0	0	65.25	Continental	5.51000023	-4.9	404	TEMP	0.3	763	275	16.27142857					20	2	-25	15.7
+Vaccinium vitis-idaea	ncbitaxon:180772	1	0	0	0	0	0	0	0	0	0	65.25	Continental	5.51000023	-4.9	404	GRASSLAND	0.14	461	360	11.225	4	1474.290548	4.5	6
+Pinus roxburghii	ncbitaxon:71650	1	0	0	0	0	1	0	0	1	0	27.75	Continental	5.57800007	17.6	1400	Cwa			1750
+Mimusops zeyheri	ncbitaxon:233716	1	0	0	0	0	0	0	0	0	0	-14.42	Continental	5.62699986	22.2984	970
+Syzygium guineense	ncbitaxon:334482	1	0	0	0	0	0	0	0	0	0	-14.42	Continental	5.62699986	22.2984	970	Cwa			1239
+Chrysophyllum cainito	ncbitaxon:221251	1	0	0	0	0	0	0	0	1	0	8.96666667	Continental	5.76599979	26	1800
+Spondias mombin	ncbitaxon:80338	1	0	0	0	0	0	0	0	1	0	8.96666667	Continental	5.76599979	26	1800	Af							7.5	7.9
+Cassia fistula	ncbitaxon:53852	1	0	0	0	0	0	0	0	1	0	13.8166667	Continental	5.77799988	28.398493	1018.5818		1.423939033	1313.525	76	25.94166667					0	1
+Annona squamosa	ncbitaxon:301693	1	0	0	0	0	0	0	0	0	0	13.8166667	Continental	5.77799988	28.356329	981.32988		1.423939033	1313.525	76	25.94166667
+Artocarpus altilis	ncbitaxon:194251	1	0	0	0	0	0	0	0	0	0	13.8166667	Continental	5.77799988	28.356329	981.32988
+Artocarpus heterophylla	ncbitaxon:3489	1	0	0	0	0	0	0	0	0	0	13.8166667	Continental	5.77799988	28.356329	981.32988		1.423939033	1313.525	76	25.94166667
+Erythrina indica	ncbitaxon:3845	1	0	0	0	0	0	0	0	0	0	13.8166667	Continental	5.77799988	28.356329	981.32988				1230-1377				4.5	7.5
+Pinus massoniana	ncbitaxon:88730	1	0	0	0	0	1	0	0	1	0	26.3	Continental	5.79899979	17.5	1875	Cwa											13.1	28.7
+Pinus pumila	ncbitaxon:71649	1	0	0	0	0	0	0	0	0	1	61.95	Continental	5.8039999	-16.3	131	Forests
+Eurya japonica	ncbitaxon:59671	1	0	0	0	0	1	0	0	1	0	35.2	Continental	5.9000001	15.1	1474.5		0.3261393639	1111.025	300	15.83
+Acacia coriacea	ncbitaxon:218783	1	0	0	0	0	1	0	0	0	0	-21.145278	Continental	5.90399981	24.081793	333.6776
+Bauhinia puchella	ncbitaxon:653077	1	0	0	0	0	0	0	0	1	0	-15.15	Continental	5.96799994	22.5	1432
+Bauhinia rufa	ncbitaxon:390785	1	0	0	0	0	0	0	0	1	0	-15.15	Continental	5.96799994	22.5	1432
+Centrosema bracteosum	ncbitaxon:1983287	1	0	0	0	0	0	0	0	1	0	-15.15	Continental	5.96799994	22.5	1432
+Vatairea macrocarpa	ncbitaxon:77050	1	0	0	0	0	0	0	0	1	0	-15.15	Continental	5.96799994	22.5	1432
+Hymenaea martiana	ncbitaxon:1902340	1	0	0	0	0	0	0	0	1	0	-15.15	Continental	5.96799994	22.5	1426
+Hymenaea stigonocarpa	ncbitaxon:327906	1	0	0	0	0	0	0	0	1	0	-15.15	Continental	5.96799994	22.5	1426
+Rhus pyroides	ncbitaxon:298680	1	0	0	0	0	1	0	0	1	0	-28.925178	Continental	6.01300001	17	1300
+Mimusops caffra	ncbitaxon:362720	1	0	0	0	0	1	0	0	0	0	-30.79746	Continental	6.04899979	22	980
+Lolium perenne	ncbitaxon:4522	1	0	0	0	0	1	0	0	0	0	-45.169233	Continental	6.11800003	8.83333333	782	Southern-temperate			880		4	1096.41598	5	8
+Salix reticulata	ncbitaxon:75717	1	0	0	0	0	0	0	0	0	0	68.35	Continental	6.18499994	-0.5	300	GRASSLAND	0.1367970865	339.3775	360	10.03333333	4	2081.3406	5.5	7.5
+Angelica archangelica	ncbitaxon:40949	1	0	0	0	1	0	0	0	0	0	68.35	Continental	6.18499994	-0.5	300	Forest tundra					5
+Juniperus communis	ncbitaxon:58039	1	0	0	0	0	0	0	0	0	0	68.35	Continental	6.18499994	-0.5	300	GRASSLAND	0.1367970865	339.3775	360	10.03333333	5	1379.681321	5.5	8
+Populus tremula	ncbitaxon:113636	1	0	0	0	0	0	0	0	0	0	68.35	Continental	6.18499994	-0.5	300	GRASSLAND	0.1367970865	339.3775	360	10.03333333	4	1102.092517
+Rumex acetosa	ncbitaxon:41241	1	0	0	0	0	0	0	0	0	0	68.35	Continental	6.18499994	-0.5	300	Meadow					5	1105.43885
+Silene dioica	ncbitaxon:39879	1	0	0	0	1	1	0	0	0	0	68.35	Continental	6.18499994	-0.5	300	Boreo-temperate					3	1065.385462
+Sorbus aucuparia	ncbitaxon:36599	1	0	0	0	0	0	0	0	0	0	68.35	Continental	6.18499994	-0.5	300	WOODLAND	0.1833110726	647.44	360	11.225	4	1128.188517
+Vaccinium myrtillus	ncbitaxon:180763	1	0	0	0	0	0	0	0	0	0	68.35	Continental	6.18499994	-0.5	300	GRASSLAND	0.1833110726	647.44	360	11.225	3	1242.53016			15	2
+Alnus incana	ncbitaxon:3516	1	0	0	0	0	0	0	0	0	0	68.35	Continental	6.18499994	-0.5	300	WOODLAND	0.1367970865	339.3775	360	10.03333333	3	983.7368981			25	2
+Pterocarpus angolensis	ncbitaxon:182271	1	0	0	0	0	0	0	0	0	0	-16.75	Continental	6.23400021	22.545	569.472	BSh			879
+Agave sisalana	ncbitaxon:442491	1	0	0	0	0	0	0	0	0	0	-8.25	Continental	6.26900005	24	668
+Commiphora leptophloeos	ncbitaxon:181239	1	0	0	0	0	0	0	0	0	0	-8.25	Continental	6.26900005	24	668
+Euphorbia tirucalli	ncbitaxon:142860	1	0	0	0	0	0	0	0	0	0	-8.25	Continental	6.26900005	24	668
+Arctostaphylos uva-ursi	ncbitaxon:84009	1	0	0	0	0	0	0	0	0	0	63.9166667	Continental	6.28200006	-5.1	395	Pine (Pinus) forest	0.3789336181	505.586158	3360	7.825	4	1614.591939			15	2
+Acacia karoo	ncbitaxon:138024	1	0	0	0	0	1	0	0	0	0	-30.403296	Continental	6.44799995	20	850		0.5436704473	1605.9	100	18.96666667
+Combretum collinum	ncbitaxon:493958	1	0	0	0	0	1	0	0	0	0	-25.091	Continental	6.46000004	20.7392	541.587	Cwb			2496
+Ziziphus mucronata	ncbitaxon:345811	1	0	0	0	0	1	0	0	0	0	-25.091	Continental	6.46000004	20.7392	541.587		0.5436704473	1605.9	100	18.96666667
+Chamaecrista absus	ncbitaxon:592576	1	0	0	0	0	1	0	0	0	0	-25.091	Continental	6.46000004	20.7392	541.587
+Peltophorum africanum	ncbitaxon:321567	1	0	0	0	0	1	0	0	0	0	-25.091	Continental	6.46000004	20.7392	541.587	BSh			962
+Vigna ungiculata subsp. stenophylla	ncbitaxon:3917	1	0	0	0	0	1	0	0	0	0	-25.091	Continental	6.46000004	20.7392	541.587	Experimental fields
+Euclea divinorum	ncbitaxon:413790	1	0	0	0	0	1	0	0	0	0	-25.1	Continental	6.46000004	21.2385	515.671		0.7189661617	1354.7	500	21.80833333
+Pelargonium zonale	ncbitaxon:4032	0	1	0	0	0	1	0	0	0	0	-34.4155	Mediterranean	6.47900009	16.8384	462.238
+Cenchrus ciliaris	ncbitaxon:35872	1	0	0	0	0	1	0	0	0	0	-24.297222	Continental	6.49100018	21	496
+Panicum coloratum	ncbitaxon:206014	1	0	0	0	0	1	0	0	0	0	-24.638139	Continental	6.60099983	21	686								6.5	8.5
+Panicum virgatum	ncbitaxon:38727	1	0	0	0	0	1	0	0	0	0	43.19935	Continental	6.63700008	7.33	922.5	Dfb	0.5977591586	1194	325	17.08888889			4.5	8			-10	25
+Acacia tortilis	ncbitaxon:138046	1	0	0	0	0	1	0	0	0	0	-24.4	Continental	6.68900013	22.1397	434.927	Aw			530						25	2
+Pelargonium capitatum	ncbitaxon:28967	0	1	0	0	0	1	0	0	0	0	-34.302	Mediterranean	6.69700003	16.9	495
+Pinus pinaster	ncbitaxon:71647	1	0	0	0	0	1	0	0	0	0	43.1167	Continental	6.73600006	15.4	787	Cfb	0.6568858955	1489.875	8	17.16666667
+Acacia mellifera	ncbitaxon:381101	1	0	0	0	0	1	0	0	0	0	-22.41	Continental	6.95200014	21.2785	970
+Cassia italica	ncbitaxon:346974	1	0	0	0	0	1	0	0	0	0	-27.299249	Continental	6.95200014	22	200
+Achillea millefolium	ncbitaxon:13329	1	0	0	0	0	1	0	0	0	0	45.4166667	Continental	6.98099995	6	790	GRASSLAND	0.1367970865	339.3775	360	10.03333333	4	1102.532794					-10	25
+Monarda fistulosa	ncbitaxon:39344	1	0	0	0	0	1	0	0	0	0	45.4166667	Continental	6.98099995	6	790
+Poa pratensis	ncbitaxon:4545	1	0	0	0	1	0	0	0	0	0	45.4166667	Continental	6.98099995	6	790	Forest tundra	0.5977591586	1194	325	17.08888889	4	1102.234381	5	8.4			-20.5	27.3
+Solidago rigida	ncbitaxon:199521	1	0	0	0	0	1	0	0	0	0	45.4166667	Continental	6.98099995	6	790	Dfb	0.4151654325	940.0525	300	15.22857143							-10	25
+Lespedeza capitata	ncbitaxon:571920	1	0	0	0	0	1	0	0	0	0	45.4166667	Continental	6.98099995	6	790	Dfb	0.4151654325	940.0525	300	15.22857143			5.7	8.2			-10	25
+Trifolium repens	ncbitaxon:3899	1	0	0	0	1	0	0	0	0	0	45.4166667	Continental	6.98099995	6	790	Forest tundra	0.3190022294	714.1525	260	14.88	7	1104.845671	6	7.5
+Arbutus unedo	ncbitaxon:84005	0	1	0	0	0	1	0	0	0	0	41.5611111	Mediterranean	7.0079999	12.5	658	Warmtemp	0.7242113726	1529.25	400	16.675		1334.98875			25	2
+Dodonaea viscosa spatulata	ncbitaxon:151065	1	0	0	0	0	1	1	0	0	0	-32.966667	Continental	7.01499987	17.6	387	subtropical forest in a context of forest-grassland mosaic	0.95	1390	311 m	11.99997854
+Panicum decompositum	ncbitaxon:206018	1	0	0	0	0	0	0	0	0	0	-17.062633	Continental	7.12400007	26	554
+Bursera simaruba	ncbitaxon:80326	1	0	0	0	0	1	0	0	0	0	21.0833333	Continental	7.15399981	26	740		0.8509415707	1302.975	340	24.6
+Taraxacum officinale	ncbitaxon:50225	1	0	0	0	0	1	0	0	0	0	35.35	Continental	7.21500015	4	790	Meadow							4.8	7.5
+Erica multiflora	ncbitaxon:270440	0	1	0	0	0	1	0	0	0	0	41.3	Mediterranean	7.36899996	16.7	548
+Lavandula latifolia	ncbitaxon:39331	0	1	0	0	0	1	0	0	0	0	41.3	Mediterranean	7.36899996	16.7	548		0.484949457	1258.755	425	14.30833333
+Rosmarinus officinalis	ncbitaxon:39367	0	1	0	0	0	1	0	0	0	0	41.3	Mediterranean	7.36899996	16.7	548		0.6568858955	1489.875	8	17.16666667			5	7.5
+Artemisia tridentata	ncbitaxon:55611	1	0	0	0	0	1	0	0	0	1	38.0833333	Continental	7.41699982	7.6	169	TEMP	0.66	1194	1932	13.36666667			6	8.2
+Larrea tridentata	ncbitaxon:66636	1	0	0	0	0	1	0	0	0	1	36.7736111	Continental	7.61299992	14.8	140	BWh	0.9601631867	1630.05	1620	15.57					27	2
+Helianthus annuus	ncbitaxon:4232	1	0	0	0	0	1	0	0	0	1	36.05	Continental	7.61899996	15.5	137						2	783.9641304	5.5	7.8
+Populus balsamifera ssp. Trichocarpa	ncbitaxon:73824	0	1	0	0	0	1	0	0	0	0	37.40806	Mediterranean		-2.8	652	Dfc	0.2760126239	740.49	120	13.94285714			4.5	7			-24.5	17.5
+Rhamnus californica ssp. californica	ncbitaxon:143678	0	1	0	0	0	1	0	0	0	0	37.40806	Mediterranean		14.6	652	Warmtemp	0.4434944943	1004.3	120	14.59166667					25	2
+Abutilon theophrasti	ncbitaxon:3631	0	0	0	0	0	1	0	0	0	0	-40.1	TMP		10.7333	981.591		0.4459777831	952.75	226	16.675	1
+Acer negundo	ncbitaxon:4023	0	0	0	0	1	0	0	0	0	0	44.57	boreal		6.5	883	Experimental fields	0.2760126239	740.49	167	13.94285714	3		5.2	7	25	2
+Acer platanoides	ncbitaxon:4025	0	0	0	0	0	1	0	0	0	0	51.23	temperate	5.2	7.5	514.3	TEMP	0.29	657	100	11.225	2	903.4771217	5.2	7.2
+Acer pseudoplatanus	ncbitaxon:4026	0	0	0	0	0	1	0	0	0	0	51.23	temperate		7.5	773	TEMP	0.29	657	100	11.225	3	1082.828391	5.8	7	17	2
+Achillea pannonica	ncbitaxon:282756	0	0	0	0	0	0	0	0	0	0											2
+Aconitum napellus	ncbitaxon:112591	0	0	0	0	0	1	0	0	0	0						Temperate					2	963.9439183
+Acorus calamus	ncbitaxon:4465	0	0	0	0	1	0	0	0	0	0	61.91152	Northern taiga									4	770.0903692	5.2	7.2
+Actaea spicata	ncbitaxon:64025	0	0	0	0	1	0	0	0	0	0	60.5138	Middle taiga				Spruce (Picea) forests					3	1054.022955
+Adonis aestivalis	ncbitaxon:113211	0	0	0	0	0	1	0	0	0	1	42.53151	Desert				Poa bulbosa dominated desert vegetation					3
+Adonis vernalis	ncbitaxon:46985	1	0	0	0	1	0	0	0	0	0	-56.5	BOR		2.38333	470.038	Small birch (Betula)  forest patches in steppe	0.3190022294	714.1525	260	14.88	2
+Aesculus hippocastanum	ncbitaxon:43364	0	0	0	0	0	1	0	0	0	0	53.4	temperate		8.7	773		0.1833110726	647.44	100	11.225	2	1014.273199
+Agrimonia eupatoria	ncbitaxon:57912	0	0	0	0	0	1	0	0	0	1		TEMP ARID				Southern-temperate					3	953.4478046
+Ajuga reptans	ncbitaxon:38596	0	0	0	0	0	1	0	0	0	0	48	temperate		9.7		Spruce (Picea) forests					4	1095.290107	5.5	7.5
+Alisma plantago-aquatica	ncbitaxon:15000	0	0	0	0	1	0	0	0	0	0	57.98871	Subtaiga (taiga vegetation mixed with broad-leaved forests)				Pine (Pinus) forest					5	949.9631587	6.3	7.5
+Allium cepa	ncbitaxon:4679	0	0	0	0	0	0	0	0	0	0											1	822.6619186
+Allium fistulosum	ncbitaxon:35875	0	0	0	0	0	0	0	0	0	0											1
+Allium paradoxum	ncbitaxon:166818	0	0	0	0	0	0	0	0	0	0											2	809.6337653
+Allium ampeloprasum	ncbitaxon:4681	0	1	0	0	1	1	0	0	0	0	61.91152	Northern taiga				Mediterranean-atlantic					1	1068.21879
+Allium sativum	ncbitaxon:4682	0	0	0	0	0	0	0	0	0	0											1
+Allium schoenoprasum	ncbitaxon:74900	0	0	0	0	1	0	0	0	0	0	67.49326	Southern subarctic tundra				Forest tundra					4	1052.396413
+Allium scorodoprasum	ncbitaxon:166823	0	0	0	0	1	1	0	0	0	0	61.91152	Northern taiga				Temperate					2	1000.421768
+Allium suaveolens	ncbitaxon:165663	0	0	0	0	0	0	0	0	0	0											2
+Allium ursinum	ncbitaxon:4684	0	0	0	0	0	1	0	0	0	0	53.4	temperate		9.3		Temperate					2	1065.296767
+Allium victorialis	ncbitaxon:88845	0	0	1	0	0	1	0	0	0	0	42.72459	Mountains				Birch (Betula) forest					3
+Alnus glutinosa	ncbitaxon:3517	0	0	0	0	0	1	0	0	0	0	58.3	temperate		5.5	533	Temperate	0.1833110726	647.44	100	11.225	4	1099.503928			21	2
+Alopecurus myosuroides	ncbitaxon:81473	0	0	0	0	0	1	0	0	0	0						Southern-temperate					3	765.2713945	4	7.5
+Alopecurus pratensis	ncbitaxon:15304	0	0	0	0	1	0	0	0	0	0	67.49326	Southern subarctic tundra		8.6	781	Forest tundra			880		4	1032.240422	5.8	8
+Althaea officinalis	ncbitaxon:145745	0	0	0	0	1	1	0	0	0	0	61.91152	Northern taiga				Temperate					3	773.7260433
+Amaranthus blitoides	ncbitaxon:124761	0	0	0	0	0	1	0	0	0	0	-39	TMP		16.8	514		0.6966245575	1244.35	130	16.83333333	3
+Amaranthus caudatus	ncbitaxon:3567	0	0	0	0	1	0	0	0	0	0	58.0142	Subtaiga (taiga vegetation mixed with broad-leaved forests)									2
+Amaranthus chlorostachys	ncbitaxon:117272	0	0	0	0	0	0	0	0	0	0											3
+Amaranthus retroflexus	ncbitaxon:124763	0	0	0	0	0	1	0	0	0	0	-39	TMP		16.8	514		0.6966245575	1244.35	130	16.83333333	1	786.7820511
+Ambrosia artemisiifolia	ncbitaxon:4212	0	0	0	0	0	1	0	0	0	0	-45.41	TMP		6.31667	729.738	Dfb	0.4151654325	940.0525	300	15.22857143	5						-10	25
+Ambrosia trifida	ncbitaxon:4214	0	0	0	0	0	1	0	0	0	0	-40.1	TMP		10.7333	981.591		0.4459777831	952.75	226	16.675	3
+Ammi majus	ncbitaxon:48026	0	0	0	0	0	0	0	0	0	0											3
+Anagallis arvensis	ncbitaxon:4337	0	0	0	0	0	1	1	0	1	0	30Â° 05' S	Cfa climate type in KoeppenÂ’s classification		19,3 Âº C	1322 mm	grassland	0.4468121068	1239.04	45 m	13.13	5	961.9011532
+Androsace septentrionalis	ncbitaxon:184985	0	0	0	0	1	0	0	0	0	0	67.49326	Southern subarctic tundra				Forest tundra					4
+Anemone narcissiflora	ncbitaxon:168002	0	0	1	0	0	0	0	0	0	0	54.59834	Mountains				Larix forest with Pinus and rich forb cover					4
+Anthriscus cerefolium	ncbitaxon:40888	0	0	0	0	0	0	0	0	0	0											3
+Anthriscus sylvestris	ncbitaxon:48027	0	0	0	0	0	1	0	0	0	0	53.4	temperate		9.3	445.784	GRASSLAND	0.1367970865	339.3775	360	10.03333333	6	1039.166882
+Aquilegia vulgaris	ncbitaxon:3451	0	0	0	0	1	1	0	0	0	0	-56.5	BOR		2.38333	470.038	Temperate	0.3190022294	714.1525	260	14.88	3	985.9266471
+Arctium lappa	ncbitaxon:4217	0	0	0	0	1	0	0	0	0	0	58.19873	Southern taiga				Meadow					3	768.8381115
+Arctium minus	ncbitaxon:143172	0	0	0	0	0	1	0	0	0	0						Temperate					4	1051.469461
+Aristolochia clematitis	ncbitaxon:158538	0	0	0	0	0	0	0	0	0	0											3
+Prunus armeniaca	ncbitaxon:36596	0	0	0	0	0	0	0	0	0	0											1
+Arnica montana	ncbitaxon:436207	0	0	0	0	1	0	0	0	0	0	61.91152	Northern taiga									2
+Artemisia abrotanum	ncbitaxon:86306	0	0	0	0	0	0	0	0	0	0											3
+Artemisia absinthium	ncbitaxon:72332	0	0	0	0	1	0	0	0	0	0	-56.5	BOR		2.38333	470.038	Mountain lowland complex with forests in the river valley	0.3190022294	714.1525	260	14.88	4	861.3360286
+Artemisia annua	ncbitaxon:35608	0	0	0	0	0	0	0	0	0	0											2
+Artemisia austriaca	ncbitaxon:205362	0	0	0	0	0	0	0	0	0	0											3
+Artemisia campestris	ncbitaxon:72337	0	0	0	0	0	1	0	0	0	0						Temperate					3	620.1133333
+Artemisia dracunculus	ncbitaxon:72341	1	0	0	0	0	0	0	0	0	0	54.08427	Forested steppe				Dry grassland					4
+Artemisia maritima	ncbitaxon:669130	1	0	0	0	0	0	0	0	0	0	54.07998	Forested steppe				Dry salt-marsh					3	783.4008781
+Artemisia rupestris	ncbitaxon:86317	1	0	0	0	0	0	0	0	0	0	54.09979	Forested steppe				Dry grassland					3
+Artemisia scoparia	ncbitaxon:72351	0	0	1	0	0	0	0	0	0	0	53.14919	Mountains									3
+Artemisia siversiana	ncbitaxon:205378	0	0	0	0	0	0	0	0	0	0											3
+Artemisia vulgaris	ncbitaxon:4220	0	0	0	0	1	0	0	0	0	0	-56.5	BOR		2.38333	470.038	Meadow	0.3190022294	714.1525	260	14.88	4	983.7006351
+Arum maculatum	ncbitaxon:4458	0	0	0	0	0	1	0	0	0	0	53.4	temperate		9.3		Temperate					2	930.9872482
+Asarum europaeum	ncbitaxon:49456	0	0	0	0	0	1	0	0	0	0	55.75	temperate		4.1		Spruce (Picea) forests					2
+Asparagus officinalis	ncbitaxon:4686	0	0	0	0	0	1	0	0	0	1	46.18022	Desert				Riverine shrubbery in desert (russian: tugay)					3	952.7466848
+Asplenium adiantum-nigrum	ncbitaxon:169373	0	0	0	0	0	1	0	0	0	0						Temperate					6	1109.898145
+Astragalus cicer	ncbitaxon:20410	0	0	0	0	0	0	0	0	0	0											2		6	8
+Astragalus glycyphyllos	ncbitaxon:83862	0	0	0	0	0	1	0	0	0	0						Temperate					2	711.3167017
+Astragalus penduliflorus	ncbitaxon:158323	0	0	0	0	0	0	0	0	0	0											5
+Atriplex prostrata	ncbitaxon:190330	0	0	0	0	0	1	0	0	0	0						Wide-temperate					4	954.8253555
+Atropa bella-donna	ncbitaxon:33113	0	0	0	0	1	1	0	0	0	0	61.91152	Northern taiga				Temperate					3	717.0839165
+Avena fatua	ncbitaxon:4499	0	0	0	0	0	1	0	0	0	0						Southern-temperate					1	848.5580896	6	7.5
+Barbarea intermedia	ncbitaxon:264400	0	0	0	0	0	0	0	0	0	0											3	974.8095285
+Barbarea vulgaris	ncbitaxon:50459	0	0	1	0	0	1	0	0	0	0	42.72359	Mountains				Mountain meadow					4	943.2768652
+Berberis vulgaris	ncbitaxon:258209	0	0	0	0	0	1	0	0	0	0	58.6	temperate		5.4	514.3	Temperate	0.1833110726	647.44	100	11.225	3	891.6588087
+Betula pendula	ncbitaxon:3505	0	0	0	0	0	1	0	0	0	0	51.23	temperate		7.5	773	TEMP	0.29	657	100	13.22894737	3	1073.009407	5	7.5	12	2
+Betula pubescens	ncbitaxon:38787	0	0	0	0	1	0	0	0	0	0	52.5	boreal		9.6	533.6	GRASSLAND	0.1367970865	339.3775	360	10.03333333	3	1123.346667			25	2
+Bidens tripartita	ncbitaxon:51276	0	0	0	0	1	0	0	0	0	0	58.21051	Southern taiga				Forest clearing					4	883.859415	5	7.2
+Botrychium lunaria	ncbitaxon:37231	0	0	0	0	1	0	0	0	0	0	67.49326	Southern subarctic tundra				Forest tundra					6	1258.961391
+Brachypodium pinnatum	ncbitaxon:29663	1	0	0	0	0	1	0	0	0	0	53.4	temperate		9.3	804.237	Small birch (Betula)  forest patches in steppe	0.2577089374	588.1	20	12.12222222	3	744.5940119
+Brassica nigra	ncbitaxon:3710	0	0	0	0	0	1	0	0	0	0						Temperate					3	821.7165499
+Brassica oleracea	ncbitaxon:3712	0	0	0	0	0	1	0	0	1	0	-45.4	TMP		4.525	1109.806	Southern-temperate	0.2557702197	730.75	170	13.68333333	3	922.2182031
+Brassica rapa	ncbitaxon:3711	0	0	0	0	0	1	0	0	0	0						Temperate					2	993.4316581	5	8
+Bromus catharticus	ncbitaxon:52150	0	0	0	0	1	0	0	0	0	0	58.0142	Subtaiga (taiga vegetation mixed with broad-leaved forests)									3	795.8989737	5.5	8
+Bromus inermis	ncbitaxon:15371	0	0	0	0	1	0	0	0	0	0	46	boreal		-0.4	729.738	Forest tundra	0.4151654325	940.0525	300	15.22857143	3	757.4007319	5.5	8
+Bromus tectorum	ncbitaxon:29667	1	0	0	0	0	0	0	0	0	0	54.08661	Forested steppe			381	Small birch (Betula)  forest patches in steppe			792.48		3
+Bryonia alba	ncbitaxon:243967	0	0	0	0	0	0	0	0	0	0											2
+Bryonia dioica	ncbitaxon:3652	0	1	0	0	0	1	0	0	0	0						Mediterranean-atlantic					3	726.2852979
+Buddleja davidii	ncbitaxon:28540	0	0	0	0	0	1	0	0	0	0	53.4	temperate	5.45	8.7	773	Cwb	0.1833110726	647.44	100	11.225	2	929.8640202					-1.4	18.7
+Bupleurum falcatum	ncbitaxon:46367	0	0	0	0	1	1	0	0	0	0	61.91152	Northern taiga				Southern-temperate					3	775.6996875
+Bupleurum rotundifolium	ncbitaxon:90446	0	0	0	0	0	0	0	0	0	0											3	752.9983854
+Buxus sempervirens	ncbitaxon:4002	0	0	0	0	0	1	0	0	0	0	43.53	temperate		13.6	773	Oak (Quercus) forest	0.1833110726	647.44	100	11.225	3	715.89
+Calendula arvensis	ncbitaxon:99035	0	0	0	0	0	0	0	0	0	0											3
+Calendula officinalis	ncbitaxon:41496	0	0	0	0	1	0	0	0	0	0	58.0142	Subtaiga (taiga vegetation mixed with broad-leaved forests)									1	822.1291112
+Cardamine flexuosa	ncbitaxon:50462	0	0	0	0	0	1	0	0	0	0						Temperate					3	1110.296386
+Cardamine impatiens	ncbitaxon:82286	0	0	0	0	1	1	0	0	0	0	61.91152	Northern taiga				Temperate					3	932.8028438
+Cardamine pratensis	ncbitaxon:50465	0	0	0	0	1	0	0	0	0	0	73.13212	Southern subarctic tundra				Tundra					3	1104.254448
+Cardaria draba	ncbitaxon:153317	0	0	0	0	0	1	0	0	0	1	46.13948	Desert				Riverine shrubbery in desert (russian: tugay)					3	785.6612583
+Carex capillaris	ncbitaxon:241203	0	0	1	1	1	0	0	0	0	0	61.91152	Northern taiga				Boreo-arctic montane					5	1635.71125	5.8	7.4
+Carex humilis	ncbitaxon:140822	0	0	1	0	0	1	0	0	1	0	43.25151	Mountains	7.8	9.6	1033	Pine (Pinus) forest			790		2	845.06675
+Carex pulicaris	ncbitaxon:234471	0	0	0	0	0	1	0	0	0	0						Temperate					2	1239.075894
+Carpesium cernuum	ncbitaxon:119173	0	0	0	0	0	0	0	0	0	0											4
+Carthamus tinctorius	ncbitaxon:4222	0	0	0	0	1	0	0	0	0	0	61.91152	Northern taiga									1
+Celosia argentea	ncbitaxon:46112	0	0	0	0	0	0	0	0	0	0											2
+Centaurea calcitrapa	ncbitaxon:41511	0	0	0	0	0	0	0	0	0	0											3	743.7606688
+Centaurea cyanus	ncbitaxon:41522	0	0	0	0	1	0	0	0	0	0	67.49326	Southern subarctic tundra				Forest tundra					4	836.2367797
+Centaurea solstitialis	ncbitaxon:347529	0	0	0	0	0	0	0	0	0	0											3
+Cerastium arvense	ncbitaxon:271558	0	0	1	0	0	1	0	0	0	0	42.7246	Mountains				Birch (Betula) forest with Rhododendron					4	773.3579982
+Cerastium tomentosum	ncbitaxon:271552	0	1	0	0	0	1	0	0	0	0	42.1505	sub-Mediterrane				Apennine high ecosystems			2,075-2,375		2	898.0937517
+Prunus avium	ncbitaxon:42229	0	0	0	0	0	1	0	0	0	0	50.78	temperate		10.2	589.084	Spruce (Picea) forests	0.1997922539	587.55	20	12.31666667	2	1023.692265
+Prunus cerasus	ncbitaxon:140311	0	0	0	0	1	1	0	0	0	0		temperate, boreal									1	960.7640357			25	2
+Ceterach officinarum	ncbitaxon:147945	0	1	0	0	0	1	0	0	0	0						Mediterranean-atlantic					3	1060.922395
+Chaenomeles speciosa	ncbitaxon:106546	0	0	0	0	0	0	0	0	0	0											1
+Chenopodium ambrosioides	ncbitaxon:330163	0	0	0	0	0	0	0	0	0	0											4
+Chenopodium botrys	ncbitaxon:240045	0	0	0	0	0	0	0	0	0	0											2
+Cichorium intybus	ncbitaxon:13427	0	0	0	0	0	1	0	0	0	0	-39	TMP		16.8	514	Meadow in forest gap	0.6966245575	1244.35	130	16.83333333	4	840.0458859	6	7.5
+Cicuta virosa	ncbitaxon:48109	0	0	0	0	1	0	0	0	0	0	62.94939	Middle taiga				Meadow in forest gap					3	926.3817356
+Clinopodium vulgare	ncbitaxon:204222	0	0	1	0	0	1	0	0	0	0	42.72379	Mountains				Mountain meadow					4	880.271943
+Colchicum autumnale	ncbitaxon:45005	0	0	0	0	0	1	0	0	0	0						Temperate					2	809.1990434
+Consolida ajacis	ncbitaxon:37494	0	0	0	0	1	0	0	0	0	0	58.0142	Subtaiga (taiga vegetation mixed with broad-leaved forests)									2	703.2148378
+Consolida regalis	ncbitaxon:984867	0	0	0	0	0	0	0	0	0	0											2
+Convolvulus arvensis	ncbitaxon:4123	0	0	0	0	0	1	0	0	0	1	-43.63	TMP		12.8917	772.452	Riverine shrubbery in desert (russian: tugay)	0.5216245756	1232.52	63	12.89166667	3	928.514693
+Conyza bonariensis	ncbitaxon:91242	0	0	0	0	0	1	0	0	0	0	-31.5	TEMP									3
+Conyza canadensis	ncbitaxon:72917	0	0	0	0	0	1	0	0	0	0	53.4	temperate		9.3		Dry grassland					3	765.6852932
+Cornus alba	ncbitaxon:367337	0	0	0	0	0	1	0	0	0	0	57.9784	TEMP				Forests					2
+Cornus mas	ncbitaxon:4285	0	0	0	0	0	1	0	0	0	0	43.99979	temperate				Quercetum herbosum, Fagetum nudum and Abiegnetum pteridiosum communities					3		5	7
+Securigera varia	ncbitaxon:53861	0	0	1	0	0	1	0	0	0	0	43.99979	Mountains				Quercetum herbosum, Fagetum nudum and Abiegnetum pteridiosum communities					3
+Coronopus didymus	ncbitaxon:398450	0	0	0	0	0	1	0	0	0	0	-37.78	TEMP									3	920.9090912
+Corylus avellana	ncbitaxon:13451	0	0	0	0	0	1	0	0	0	0	58.6	temperate		5.4	514.3	Forests	0.1833110726	647.44	100	11.225	4	1094.454904
+Crataegus laevigata	ncbitaxon:298643	0	1	0	0	0	1	0	0	0	0	55.79939	mediterranean				Temperate					2	673.6419356
+Crataegus monogyna	ncbitaxon:140997	0	0	0	0	0	1	0	0	0	0	58.6	temperate		5.4	514.3	Temperate	0.1833110726	647.44	100	11.225	3	1073.06348	6	7.2
+Crataegus rhipidophylla	ncbitaxon:510738	0	0	0	0	0	0	0	0	0	0											2
+Cuscuta epithymum	ncbitaxon:186058	0	0	0	0	0	1	0	0	0	0						Southern-temperate					3	846.4876278
+Cuscuta europaea	ncbitaxon:41803	0	0	0	0	0	1	0	0	0	0						Temperate					4	679.4229762
+Dactylorhiza incarnata	ncbitaxon:230574	0	0	0	0	1	0	0	0	0	0	67.61311	Mountains				Forest tundra					3	1126.610978
+Daphne laureola	ncbitaxon:223749	0	1	0	0	0	1	0	0	0	0						Mediterranean-atlantic					3	760.4943816
+Daphne mezereum	ncbitaxon:66680	0	0	0	0	0	1	0	0	0	0	58.6	temperate		5.4	514.3	Spruce (Picea) forests	0.1833110726	647.44	100	11.225	4	890.2802727
+Datura stramonium	ncbitaxon:4076	0	0	0	0	0	1	0	0	0	0	-37.78	TEMP		16.8	514		0.6966245575	1244.35	130	16.83333333	1	795.7123438
+Dianthus superbus	ncbitaxon:288950	0	0	0	0	0	0	0	0	0	0											4
+Digitalis purpurea	ncbitaxon:4164	0	0	0	0	0	1	0	0	0	0	53.4	temperate		9.3		Southern-temperate					4	1120.394281	5.5	7
+Diplotaxis tenuifolia	ncbitaxon:264416	0	0	0	0	0	1	0	0	0	0						Temperate					3	789.9053914
+Drosera rotundifolia	ncbitaxon:173423	0	0	0	0	1	0	0	0	0	0	68.33	BOR		-2.325	445.784	GRASSLAND	0.1367970865	339.3775	360	10.03333333	4	1268.931693
+Dryopteris filix-mas	ncbitaxon:3289	0	0	0	0	1	0	0	0	0	0	62.94939	Middle taiga				Meadow in forest gap					7	1095.581376
+Duchesnea indica	ncbitaxon:13044	0	0	0	0	1	1	0	0	0	0	43.50965	temperate, boreal				Pebble bank					3				25	2
+Echinochloa crus-galli	ncbitaxon:90397	0	0	0	0	1	0	0	0	0	0	58.0142	Subtaiga (taiga vegetation mixed with broad-leaved forests)				Meadow in forest gap					3	785.4782311
+Echinops sphaerocephalus	ncbitaxon:92910	0	0	0	0	0	0	0	0	0	0											3
+Elaeagnus angustifolia	ncbitaxon:36777	0	0	0	0	0	1	0	0	0	1	40.28	TEMP ARID		13.475	272.092		0.9601631867	1630.05	1620	15.57	2		6	9.5	27	2
+Eleusine indica	ncbitaxon:29674	0	0	0	0	0	1	0	0	0	0	-37.78	TEMP									2
+Elsholtzia ciliata	ncbitaxon:662901	0	0	0	0	0	0	0	0	0	0											5
+Elytrigia intermedia	ncbitaxon:85679	0	0	0	0	0	1	0	0	0	1	43.9227	Semi-arid			381	Csb			792.48		3
+Epilobium hirsutum	ncbitaxon:210355	0	0	0	0	0	1	0	0	0	0	53.4	temperate		9.3	801.791	Wet meadow	0.2112355084	745.725	2	11.42222222	6	971.0050618
+Equisetum arvense	ncbitaxon:3258	0	0	0	0	1	0	0	0	0	0	-67.5	BOR		-8.8	318	Tundra	0.1388086799	460.6	760	9.166666667	5	1087.387617
+Equisetum hyemale	ncbitaxon:3262	0	0	0	0	1	0	0	0	0	0	58.04826	Subtaiga (taiga vegetation mixed with broad-leaved forests)		2.8	723	Pine (Pinus) forest					4	1108.053707					-19.6	20.9
+Equisetum palustre	ncbitaxon:113538	0	0	0	0	1	0	0	0	0	0	62.94939	Middle taiga				Meadow in forest gap					4	1090.908157
+Equisetum ramosissimum	ncbitaxon:195849	0	0	1	0	0	1	0	0	0	1	41.23494	Desert				Mountain lowland complex with forests in the river valley					6	739.63125
+Equisetum telmateia	ncbitaxon:3260	0	0	0	0	0	1	0	0	0	0						Southern-temperate					3	949.6150478
+Erodium cicutarium	ncbitaxon:301481	0	0	0	0	1	0	0	0	0	0	-56.5	BOR		2.38333	470.038	Subalpine meadow	0.3190022294	714.1525	260	14.88	4	902.1714853
+Eryngium planum	ncbitaxon:43071	0	0	1	0	0	1	0	0	0	0	43.2068	Mountains				Forests					3
+Euonymus europaea	ncbitaxon:123417	0	0	0	0	0	1	0	0	0	0	53.4	temperate		8.7	773	Forests	0.1833110726	647.44	100	11.225	3	904.2074265
+Eupatorium cannabinum	ncbitaxon:102770	0	0	0	0	0	1	0	0	0	0	-52.1	TMP		9.25833	801.791	Pebble bank	0.2112355084	745.725	2	11.42222222	3	974.1805614
+Euphorbia cyparissias	ncbitaxon:38844	0	0	0	0	1	1	0	0	1	0	61.91152	Northern taiga		5.3	1076	Temperate			1700		2	838.292815
+Euphorbia dulcis	ncbitaxon:3992	0	0	0	0	0	0	0	0	0	0											2
+Euphorbia esula	ncbitaxon:3993	0	0	0	0	0	0	0	0	0	0											2
+Euphorbia helioscopia	ncbitaxon:154990	0	1	0	0	0	1	0	0	0	0		mediterranean				Southern-temperate					4	973.0265286
+Euphorbia lathyrus	ncbitaxon:212925	0	0	0	0	0	1	0	0	0	0						Southern-temperate					2	804.4436574
+Euphorbia peplus	ncbitaxon:38846	0	0	0	0	0	1	0	0	0	0						Southern-temperate					5	949.8592267
+Euphrasia officinalis	ncbitaxon:290213	0	0	0	0	1	1	0	0	0	0	61.91152	Northern taiga				Wide-temperate					3	1131.470964
+Fagopyrum esculentum	ncbitaxon:3617	0	0	0	0	0	0	0	0	0	0											2	787.8385652	6	8.5
+Fagopyrum tataricum	ncbitaxon:62330	0	0	0	0	0	0	0	0	0	0											2
+Fallopia convolvulus	ncbitaxon:76029	0	0	0	0	0	1	0	0	0	0						Wide-temperate					5	971.0347984
+Festuca arundinacea	ncbitaxon:4606	1	0	0	0	0	0	0	0	0	0	54.08661	Forested steppe		8.6	781	Small birch (Betula)  forest patches in steppe			880		3	979.6140791
+Festuca pratensis	ncbitaxon:4608	0	0	0	0	1	0	0	0	0	0	58.1663	Southern taiga				Meadow					4	984.7280536
+Forsythia suspensa	ncbitaxon:126418	0	0	0	0	0	0	0	0	0	0											2
+Fragaria vesca	ncbitaxon:57918	0	0	0	0	0	1	0	0	0	0	55.75	temperate		4.1	470.038	Spruce (Picea) forests	0.3190022294	714.1525	260	14.88	4	1090.541277
+Frangula alnus	ncbitaxon:106677	0	0	0	0	0	1	0	0	0	0		temperate		8.7	773	Temperate					4	881.0609961
+Fraxinus excelsior	ncbitaxon:38873	0	0	0	0	0	1	0	0	0	0	49.4	temperate	5.29	8.6	514.3	Quercetum herbosum, Fagetum nudum and Abiegnetum pteridiosum communities	0.1833110726	647.44	100	11.225	2	1068.529229			17	2
+Fraxinus ornus	ncbitaxon:38874	0	0	0	0	0	1	0	0	0	0	-37	TMP		17.1667	608.79		0.6568858955	1489.875	8	17.16666667	2
+Fumaria officinalis	ncbitaxon:200993	0	0	0	0	0	1	0	0	0	0	-37.78	TEMP		2.38333	470.038	Medicago cropland	0.3190022294	714.1525	260	14.88	4	911.515153
+Fumaria vaillantii	ncbitaxon:367484	0	0	1	0	0	1	0	0	0	0	44.45224	Mountains				Ephemeral salt-tolerant vegetation					3	702.1616379
+Galanthus nivalis	ncbitaxon:4670	0	0	0	0	0	1	0	0	0	0						Southern-temperate					3	919.3597891
+Galium aparine	ncbitaxon:29788	0	0	0	0	0	1	0	0	0	0	53.4	temperate		9.3	801.791	Temperate	0.2112355084	745.725	2	11.42222222	3	1079.67981	5.4	7.2
+Galium verum	ncbitaxon:462873	0	0	0	0	0	1	0	0	0	0	59.2	TEMP		2.38333	470.038	Meadow in forest gap	0.3190022294	714.1525	260	14.88	4	1045.339622
+Genista tinctoria	ncbitaxon:49825	0	0	0	0	1	1	0	0	0	0	-56.5	BOR		2.38333	470.038	Temperate	0.3190022294	714.1525	260	14.88	2	879.6332994
+Gentiana lutea	ncbitaxon:38851	0	0	0	0	0	0	0	0	0	0											2
+Geranium lucidum	ncbitaxon:379949	0	1	0	0	0	1	0	0	0	0						Mediterranean-atlantic					3	990.8900827
+Geranium pratense	ncbitaxon:487788	0	0	0	0	1	0	0	0	0	0	58.19873	Southern taiga				Meadow					4	922.2641673
+Geranium robertianum	ncbitaxon:122183	0	0	0	0	0	1	0	0	0	0	53.4	temperate		9.3		Pine (Pinus) forest					4	1091.72837
+Geranium sanguineum	ncbitaxon:70270	0	0	1	1	1	1	0	0	0	0	55.75	temperate		4.1		Alpine and subalpine meadow					3	996.342193
+Geum japonicum	ncbitaxon:321607	0	0	0	0	0	0	0	0	0	0											3
+Geum urbanum	ncbitaxon:57919	0	0	0	0	0	1	0	0	0	0						Temperate					3	1044.351144
+Gypsophila paniculata	ncbitaxon:235358	0	0	0	0	0	0	0	0	0	0											2
+Hedera helix	ncbitaxon:4052	0	0	0	0	0	1	0	0	0	0	53.4	temperate		9.3	773	Beech (Fagus) forest	0.1833110726	647.44	100	11.225	3	1086.059118	5.2	7.8
+Helianthus tuberosus	ncbitaxon:4233	0	0	0	0	0	0	0	0	0	0											2	719.4506132	4	7
+Helichrysum arenarium	ncbitaxon:261776	0	0	0	0	0	1	0	0	0	0	55.75	temperate		4.1							2
+Heliotropium europaeum	ncbitaxon:168345	0	0	0	0	0	0	0	0	0	0											3
+Helleborus foetidus	ncbitaxon:46996	0	0	0	0	0	1	0	0	0	0	-39	TMP		16.8	514	Southern-temperate	0.6966245575	1244.35	130	16.83333333	3	806.472
+Helleborus niger	ncbitaxon:171896	0	0	0	0	0	0	0	0	0	0											2
+Helleborus viridis	ncbitaxon:171903	0	0	0	0	0	1	0	0	0	0						Temperate					2	805.1532426
+Hemerocallis fulva	ncbitaxon:34190	0	0	0	0	0	0	0	0	0	0											1
+Hemerocallis lilioasphodelus	ncbitaxon:81732	0	0	1	0	0	0	0	0	0	0	53.14919	Mountains									2
+Heracleum mantegazzianum	ncbitaxon:380077	0	0	0	0	0	0	0	0	0	0											1	875.9540595
+Heracleum sphondylium	ncbitaxon:40919	0	0	0	0	1	1	0	0	0	0	53.4	temperate		9.3		Boreo-temperate					4	1087.571095
+Hippophae rhamnoides	ncbitaxon:193516	0	0	0	0	1	1	0	0	0	0	53.4	temperate		8.7	773	Boreo-temperate	0.1833110726	647.44	100	11.225	3	623.9593846	6.5	8
+Hordeum murinum	ncbitaxon:97361	0	0	0	0	0	1	0	0	1	0	-43.72	TMP		11.6583	1148	Southern-temperate	0.4468121068	1239.04	285	13.13	3	817.0675533
+Humulus lupulus	ncbitaxon:3486	0	0	0	0	0	1	0	0	0	0						Temperate					3	832.5103301
+Hyoscyamus niger	ncbitaxon:4079	0	0	0	0	1	1	0	0	0	0	-56.5	BOR		2.38333	470.038	Southern-temperate	0.3190022294	714.1525	260	14.88	3	799.4687641
+Hypericum perforatum	ncbitaxon:65561	0	0	0	0	0	1	0	0	1	0	52.3	TEMP		4.525	1109.806	Pine (Pinus) forest	0.2557702197	730.75	170	13.68333333	4	950.6783119
+Iberis amara	ncbitaxon:190884	0	0	0	0	1	1	0	0	0	0	58.0142	Subtaiga (taiga vegetation mixed with broad-leaved forests)				Southern-temperate					2	710.3723936
+Ilex aquifolium	ncbitaxon:4298	0	0	0	0	0	1	0	0	0	0	53.4	temperate		8.7	773	Southern-temperate	0.1833110726	647.44	100	11.225	2	1078.973494
+Inula helenium	ncbitaxon:55635	0	0	0	0	0	0	0	0	0	0											1	972.7260266
+Iris germanica	ncbitaxon:34205	0	0	0	0	1	0	0	0	0	0	61.91152	Northern taiga									2	734.3061098
+Iris pseudacorus	ncbitaxon:82213	0	0	0	0	0	1	0	0	0	0	55.7	TEMP				Southern-temperate					4	1081.196112
+Iris spuria	ncbitaxon:93026	0	0	0	0	0	0	0	0	0	0											2
+Isatis tinctoria	ncbitaxon:161756	0	0	0	0	1	0	0	0	0	0	61.91152	Northern taiga									3	732.935
+Juglans regia	ncbitaxon:51240	0	0	0	0	0	1	0	0	0	0	-53.4	temperate		8.7	773	Acer forest	0.1833110726	647.44	100	11.225	2	778.5145043			25	2
+Juncus effusus	ncbitaxon:13579	0	0	0	1	0	1	0	0	0	0	53.4	temperate		9.3		Alpine meadow					7	1107.608076	5.5	7
+Juncus maritimus	ncbitaxon:223671	0	0	0	0	0	1	0	0	0	0	44.37					Southern-temperate					6	1080.745801
+Juniperus sabina	ncbitaxon:224740	0	0	0	0	0	1	0	0	0	1	41.22581	Desert			360	BSk			1317		3
+Laburnum anagyroides	ncbitaxon:49828	0	0	0	0	0	1	0	0	0	0	53.4	temperate		8.7	773		0.1833110726	647.44	100	11.225	2	883.7414083
+Lactuca saligna	ncbitaxon:75948	0	0	0	0	0	1	0	0	0	0						Southern-temperate					3	600.531875
+Lactuca serriola	ncbitaxon:75943	0	0	0	0	0	1	0	0	0	1	43.6063	Semi-arid				Southern-temperate			1371.6		3	741.0594475
+Lactuca virosa	ncbitaxon:75947	0	0	0	0	0	1	0	0	0	0						Southern-temperate					3	693.3073387
+Lamium album	ncbitaxon:53159	0	0	0	0	1	0	0	0	0	0	62.94939	Middle taiga				Meadow in forest gap					3	911.0841547
+Lamium amplexicaule	ncbitaxon:53160	0	0	0	0	0	1	0	0	0	0						Southern-temperate					4	842.2496639
+Lamium maculatum	ncbitaxon:53163	0	0	0	0	0	1	0	0	0	0						Temperate					2	868.6259585
+Lamium purpureum	ncbitaxon:53164	0	0	0	0	1	0	0	0	0	0	62.27388	Middle taiga				Forests					4	1027.428041
+Lathyrus odoratus	ncbitaxon:3859	0	0	0	0	1	0	0	0	0	1	39.06438	Desert				Subalpine meadow					1
+Lathyrus sativus	ncbitaxon:3860	0	0	0	0	0	0	0	0	0	0											2
+Lavandula angustifolia	ncbitaxon:39329	0	0	0	0	0	0	0	0	0	0											2
+Leonurus cardiaca	ncbitaxon:587664	0	0	0	0	0	0	0	0	0	0											3
+Lepidium latifolium	ncbitaxon:153343	0	0	0	0	0	1	0	0	0	1	40.4	temperate		6.369388534		Riverine shrubbery in desert (russian: tugay)					3	628.8473239
+Lepidium sativum	ncbitaxon:33125	0	0	0	0	0	0	0	0	0	0											1
+Lepidium virginicum	ncbitaxon:59292	0	0	0	0	0	0	0	0	0	0											5
+Ligustrum vulgare	ncbitaxon:13597	0	0	0	0	0	1	0	0	0	0	53.4	temperate		8.7	773	Quercetum herbosum, Fagetum nudum and Abiegnetum pteridiosum communities	0.1833110726	647.44	100	11.225	3	864.6503139	5	7.5
+Lilium martagon	ncbitaxon:82322	0	0	0	0	1	0	0	0	0	0	-56.5	BOR		2.38333	470.038	Pine (Pinus) forest	0.3190022294	714.1525	260	14.88	2	873.8636386
+Lithospermum officinale	ncbitaxon:475907	0	0	0	0	1	0	0	0	0	0	57.93275	Subtaiga (taiga vegetation mixed with broad-leaved forests)				Pine (Pinus) forest					3	819.5729012
+Loiseleuria procumbens	ncbitaxon:45912	0	0	0	1	0	0	0	0	0	0	-68	BOR		-2.325	445.784	Arctic-montane	0.1367970865	339.3775	400	10.03333333	4	1994.044245
+Lolium multiflorum	ncbitaxon:4521	0	0	0	0	0	1	1	0	1	0	30Â° 05' S	Cfa climate type in KoeppenÂ’s classification		19,3 Âº C	1322 mm	grassland			45 m		2	968.2406957
+Lonicera caerulea	ncbitaxon:134520	0	0	0	0	1	0	0	0	0	0	67.49326	Southern subarctic tundra				Forest tundra					3
+Lotus corniculatus	ncbitaxon:47247	0	0	1	1	1	1	0	0	1	0	53.4	temperate		9.3	1148	Alpine and subalpine meadow	0.4468121068	1239.04	285	13.13	4	1104.149188	5	7.7
+Lotus pedunculatus	ncbitaxon:347994	0	0	0	0	0	1	0	0	0	0						Temperate					3	1072.196781	6	7.3
+Lupinus angustifolius	ncbitaxon:3871	0	0	0	0	0	0	0	0	0	0											2		6	7
+Lupinus luteus	ncbitaxon:3873	0	0	0	0	0	0	0	0	0	0											2		6	7
+Lycium barbarum	ncbitaxon:112863	0	0	0	0	0	0	0	0	0	0											3
+Lycium chinense	ncbitaxon:112883	0	0	0	0	0	1	0	0	0	1	31.68333333	temperate semi-arid	5.45	10.4	738.8	Cwb			1830		3						-1.4	18.7
+Lycopersicon esculentum	ncbitaxon:4081	0	0	0	0	1	0	0	0	0	0	61.91152	Northern taiga									1	875.6102491	5.5	7
+Lycopus europaeus	ncbitaxon:260603	0	0	0	0	1	0	0	0	0	0	62.94939	Middle taiga				Meadow in forest gap					3	994.5440436
+Lysimachia thyrsiflora	ncbitaxon:174664	0	0	0	0	0	1	0	0	0	0	52.5	TEMP				Meadows and wetlands					2	1199.667206	4.8	7.2
+Lysimachia vulgaris	ncbitaxon:191068	0	0	0	0	1	0	0	0	0	0	58.19873	Southern taiga				Meadow					4	942.6706853
+Mahonia aquifolium	ncbitaxon:203270	0	0	0	0	1	0	0	0	0	0	62.27388	Middle taiga				Forests					2	786.2729789
+Maianthemum bifolium	ncbitaxon:191662	0	0	0	0	0	1	0	0	0	0	55.75	temperate		4.1	470.038	Spruce (Picea) forests	0.3190022294	714.1525	260	14.88	3	753.328125
+Malus sylvestris	ncbitaxon:3752	0	0	0	0	0	1	0	0	0	0	53.4	temperate		8.7	773	Forests	0.1833110726	647.44	100	11.225	3	974.7295706
+Malva neglecta	ncbitaxon:183277	0	0	0	0	0	1	0	0	0	0						Temperate					3	781.4430647
+Malva sylvestris	ncbitaxon:145754	0	1	0	0	0	1	0	0	0	0		mediterranean				Southern-temperate					3	899.2489136
+Malva verticillata	ncbitaxon:446348	0	0	0	0	0	0	0	0	0	0											2
+Matricaria recutita	ncbitaxon:127986	0	0	0	0	0	1	0	0	0	0						Southern-temperate					4	868.010067
+Medicago polymorpha	ncbitaxon:47084	0	1	0	0	0	1	0	0	0	0	36.68					Mediterranean-atlantic					2	800.5455242	5.9	6.9
+Melilotus indicus	ncbitaxon:200951	0	0	0	0	0	0	0	0	0	0											2	789.7897987
+Melilotus officinalis	ncbitaxon:47083	1	0	1	0	0	1	0	0	0	0	42.72086	Mountains				Mountain steppe					4	789.9333056
+Melissa officinalis	ncbitaxon:39338	0	0	0	0	0	0	0	0	0	0											2	854.4634803
+Mentha aquatica	ncbitaxon:190902	0	0	0	0	1	0	0	0	0	0	58.18885	Southern taiga				Meadow					3	1064.834465
+Mentha arvensis	ncbitaxon:292239	0	0	0	0	1	0	0	0	0	0	62.27388	Middle taiga				Forests					5	1017.30589	5	7
+Mentha longifolia	ncbitaxon:38859	0	0	1	0	0	1	0	0	0	0	43.25151	Mountains				Pine (Pinus) forest					6
+Mentha pulegium	ncbitaxon:294739	0	0	0	0	0	1	0	0	0	0						Southern-temperate					3	869.0816237
+Mentha suaveolens	ncbitaxon:38860	0	1	0	0	0	1	0	0	0	0						Mediterranean-atlantic					3	1151.094661
+Muscari armeniacum	ncbitaxon:156613	0	0	0	0	0	0	0	0	0	0											2
+Muscari botryoides	ncbitaxon:81769	0	0	0	0	1	0	0	0	0	0	58.0142	Subtaiga (taiga vegetation mixed with broad-leaved forests)									3
+Narcissus pseudonarcissus	ncbitaxon:39639	0	0	0	0	0	1	0	0	0	0	50.1667	temperate		9.4		Southern-temperate					3	920.2386518
+Narthecium ossifragum	ncbitaxon:114204	0	0	0	0	1	1	0	0	0	0	55.7	temperate				Boreo-temperate					2	1295.869458
+Nasturtium microphyllum	ncbitaxon:82289	0	0	0	0	0	0	0	0	0	0											1	932.198374
+Nasturtium officinale	ncbitaxon:65948	0	0	0	0	0	0	0	0	0	0											6
+Nepeta cataria	ncbitaxon:39347	0	0	0	0	0	1	0	0	0	0						Temperate					3	761.1584072
+Nicotiana rustica	ncbitaxon:4093	0	0	0	0	0	0	0	0	0	0											2
+Nicotiana tabacum	ncbitaxon:4097	0	0	0	0	0	0	0	0	0	0											1
+Nigella damascena	ncbitaxon:3444	0	0	0	0	0	0	0	0	0	0											2
+Ononis natrix	ncbitaxon:200954	0	0	0	0	0	1	0	0	0	0	41.93								460		2
+Ononis spinosa	ncbitaxon:58890	0	0	0	0	0	1	0	0	0	0	41.93					Southern-temperate			460		3	717.9029109
+Onopordum acanthium	ncbitaxon:92915	0	0	0	0	0	1	0	0	0	0						Temperate					3	733.0706203
+Ornithogalum umbellatum	ncbitaxon:81785	0	0	0	0	1	0	0	0	0	0	58.0142	Subtaiga (taiga vegetation mixed with broad-leaved forests)									3
+Osmunda regalis	ncbitaxon:3285	0	0	0	0	0	1	0	0	0	0						Southern-temperate					3	1225.18442	4	6
+Oxalis acetosella	ncbitaxon:341461	0	0	0	0	0	1	0	0	0	0	53.4	temperate		9.3		Spruce (Picea) forests					4	1137.865702
+Oxalis corniculata	ncbitaxon:212256	0	0	0	0	0	0	0	0	0	0											6	842.773909
+Prunus padus	ncbitaxon:97307	0	0	0	0	1	1	0	0	0	0	58.6	temperate		5.4	514.3	Boreo-temperate					3	1240.495317
+Prunus virginiana	ncbitaxon:133204	0	0	0	0	1	0	0	0	0	0	46.7	boreal		3.9	883		0.2760126239	740.49	167	13.94285714	4		5.2	8.4	18	1
+Paeonia officinalis	ncbitaxon:69717	0	0	0	0	0	0	0	0	0	0											1
+Panicum miliaceum	ncbitaxon:4540	0	0	0	0	1	0	0	0	0	0	58.0142	Subtaiga (taiga vegetation mixed with broad-leaved forests)									1	786.6756469	5.8	6.8
+Papaver dubium	ncbitaxon:357469	0	0	0	0	0	1	0	0	0	0						Southern-temperate					4	909.8884658
+Papaver rhoeas	ncbitaxon:33128	0	0	0	0	1	1	0	0	0	0	58.0142	Subtaiga (taiga vegetation mixed with broad-leaved forests)				Southern-temperate					3	877.4505582
+Papaver somniferum	ncbitaxon:3469	0	1	0	0	1	1	0	0	0	0	58.0142	Subtaiga (taiga vegetation mixed with broad-leaved forests)				Mediterranean					1	868.3579925
+Parietaria judaica	ncbitaxon:33127	0	1	0	0	0	1	0	0	0	0						Mediterranean-atlantic					3	864.6708555
+Parietaria officinalis	ncbitaxon:13187	0	0	0	0	0	0	0	0	0	0											3
+Paris quadrifolia	ncbitaxon:231488	0	0	0	0	0	1	0	0	0	0	55.75	temperate		4.1		Spruce (Picea) forests					3	876.712542
+Prunus persica	ncbitaxon:3760	0	0	0	0	1	1	0	0	0	0	43.9	temperate, boreal									2				15	2
+Petasites hybridus	ncbitaxon:278673	0	0	0	0	0	1	0	0	0	0						Temperate					3	1002.451186
+Phalaris canariensis	ncbitaxon:376798	0	0	0	0	0	0	0	0	0	0											2	855.6527564
+Phytolacca americana	ncbitaxon:3527	0	0	0	0	0	0	0	0	0	0											2		4.7	8
+Pimpinella peregrina	ncbitaxon:40960	0	0	0	0	0	0	0	0	0	0											2
+Pimpinella saxifraga	ncbitaxon:40959	0	0	0	0	0	1	0	0	0	0	59.2	TEMP				Meadow					4	968.3017008
+Pinus mugo	ncbitaxon:28528	0	0	0	0	0	1	0	0	0	0	55.03208	temperate		4							2		5.5	8
+Pinus nigra	ncbitaxon:58042	0	0	0	0	0	1	0	0	0	0	51.23	temperate		7.5	565	TEMP	0.29	657	150	13.8	2	888.8959282	5.5	7.5
+Plantago coronopus	ncbitaxon:101996	0	0	0	0	0	1	0	0	0	0						Southern-temperate					3	1065.452844
+Plantago lanceolata	ncbitaxon:39414	0	0	0	0	0	1	0	0	0	0	53.4	temperate		9.3	804.237	Pine (Pinus) forest	0.2577089374	588.1	20	12.12222222	4	1105.189275
+Plantago major	ncbitaxon:29818	0	0	0	0	0	1	0	0	1	0	-45.4	TMP		4.525	1109.806	Meadow	0.2557702197	730.75	170	13.68333333	4	1102.319788	4.8	7.3
+Plantago maritima	ncbitaxon:197809	1	0	0	0	0	0	0	0	0	0	54.09404	Forested steppe				Dry grassland					6	1248.238594
+Polygonatum odoratum	ncbitaxon:82207	0	0	0	0	1	0	0	0	0	0	58.04826	Subtaiga (taiga vegetation mixed with broad-leaved forests)				Pine (Pinus) forest					3	1091.260469
+Polygonum aviculare	ncbitaxon:137693	0	0	0	0	1	1	0	0	0	0	45	temperate		6.8	470.038	Forest tundra	0.3190022294	714.1525	260	14.88	7	1038.62835
+Persicaria hydropiper	ncbitaxon:46901	0	0	0	0	1	0	0	0	0	0	58.21635	Southern taiga				Meadow					6	1092.506391	5	7.5
+Persicaria lapathifolia	ncbitaxon:430754	0	0	0	0	1	0	0	0	0	0	62.94939	Middle taiga				Meadow in forest gap					7	957.7670164
+Persicaria minor	ncbitaxon:488003	0	0	0	0	0	1	0	0	0	0						Temperate					4	1002.985865
+Persicaria maculosa	ncbitaxon:457184	0	0	0	0	0	1	0	0	1	0	-37.78	TEMP		4.525	1109.806	Temperate	0.2557702197	730.75	170	13.68333333	6	1077.400189	4	8.5
+Polypodium vulgare	ncbitaxon:58048	0	0	0	0	1	0	0	0	0	0	62.94939	Middle taiga				Meadow in forest gap					5	1157.609665
+Populus alba	ncbitaxon:43335	0	0	0	0	0	1	0	0	0	0	-39	TMP		16.8	514	Pebble bank	0.6966245575	1244.35	130	16.83333333	3	867.1277764	4.9	7
+Populus nigra	ncbitaxon:3691	0	0	0	0	0	1	0	0	0	0	53.4	TEMP				Forests					3	800.0122811	5	8.5
+Portulaca oleracea	ncbitaxon:46147	0	0	0	0	0	0	0	0	0	0											6
+Potentilla anserina	ncbitaxon:57926	0	0	0	0	1	1	0	0	0	0	41.2	temperate		4.854428278		Boreo-temperate					4	1083.447959
+Potentilla erecta	ncbitaxon:57940	0	0	0	0	0	1	0	0	0	0	53.4	temperate		9.3	470.038	Meadows and wetlands	0.3190022294	714.1525	260	14.88	4	1118.302802
+Potentilla reptans	ncbitaxon:57933	0	0	0	0	0	1	0	0	0	1	39.06983	Desert				Wet meadow					3	959.0048724
+Potentilla rupestris	ncbitaxon:637895	0	1	0	0	0	1	0	0	0	0						Mediterranean-atlantic					3	934.126875
+Primula auricula	ncbitaxon:184173	0	0	0	0	0	0	0	0	0	0											2
+Primula veris	ncbitaxon:170927	0	0	0	0	1	0	0	0	0	0	62.27388	Middle taiga				Forests					3	900.4754123
+Prunus cerasifera	ncbitaxon:36595	0	0	0	0	0	0	0	0	0	0											2	803.0539321
+Prunus domestica	ncbitaxon:3758	0	0	0	0	1	0	0	0	0	0	62.27388	Middle taiga				Forests					1	928.3997338
+Prunus spinosa	ncbitaxon:114937	0	0	0	0	0	1	0	0	0	0	53.4	temperate		8.7	773	TEMP	0.26	814	100	11.225	3	1032.293067
+Pseudolysimachion longifolium	ncbitaxon:165317	0	0	0	0	1	0	0	0	0	0	-56.5	BOR		2.38333	470.038	Forest tundra	0.3190022294	714.1525	260	14.88	4
+Pseudolysimachion spicatum	ncbitaxon:165318	0	0	0	0	1	0	0	0	0	0	-56.5	BOR		2.38333	470.038	Pine (Pinus) forest	0.3190022294	714.1525	260	14.88	2	948.6064286
+Pteridium aquilinum	ncbitaxon:32101	0	0	0	0	0	0	0	1	0	0	19.57	TROP		16.8	857	Pine (Pinus) forest	0.6183265188	1244.35	40	16.75	7	1109.057979
+Pulicaria dysenterica	ncbitaxon:56535	0	0	0	0	0	1	0	0	0	0						Southern-temperate					3	884.9549246
+Pulicaria vulgaris	ncbitaxon:119191	0	0	0	0	0	1	0	0	0	0						Temperate					3	696.04962
+Pyrola rotundifolia	ncbitaxon:13651	0	0	0	0	1	0	0	0	0	0	46.7	boreal		3.9	470.038	Spruce (Picea) forests	0.3190022294	714.1525	260	14.88	6	1071.514588
+Pyrus pyraster	ncbitaxon:356590	0	0	0	0	0	1	0	0	0	0	53.4	TEMP		4.75	589.084		0.1997922539	587.55	20	12.31666667	2
+Quercus robur	ncbitaxon:38942	0	0	0	0	0	1	0	0	1	0	51.23	temperate	6.2	7.5	1800	TEMP	0.29	657	100	11.225	2	1049.329644			21	2
+Ranunculus arvensis	ncbitaxon:286858	0	0	1	0	0	1	0	0	0	1	41.23494	Desert				Mountain lowland complex with forests in the river valley					3	742.255933
+Ranunculus bulbosus	ncbitaxon:74828	0	0	0	0	0	1	0	0	0	0						Southern-temperate					3	1003.672639
+Ranunculus sceleratus	ncbitaxon:147635	0	0	0	0	1	1	0	0	0	0						Boreo-temperate					2	861.3374147	4.8	8.4
+Raphanus raphanistrum	ncbitaxon:109996	0	0	0	0	0	1	0	0	0	0						Southern-temperate					4	1078.587401
+Raphanus sativus	ncbitaxon:3726	0	0	0	0	0	0	0	0	0	0											1
+Fallopia sachalinensis	ncbitaxon:76036	0	0	0	0	0	0	0	0	0	0											1	976.1369661
+Rhododendron ferrugineum	ncbitaxon:49622	0	0	0	0	0	0	0	0	0	0											2
+Rhus hirta	ncbitaxon:255348	0	0	0	0	1	0	0	0	0	0	44.57	boreal		6.5	883		0.2760126239	740.49	167	13.94285714	2
+Ribes nigrum	ncbitaxon:78511	0	0	0	0	0	1	0	0	0	0	58.6	temperate		5.4	514.3	Spruce (Picea) forests	0.1833110726	647.44	100	11.225	4	995.0783176
+Ribes rubrum	ncbitaxon:175228	0	0	0	0	0	1	0	0	0	0	53.4	TEMP		4.75	589.084	Meadow in forest gap	0.1997922539	587.55	20	12.31666667	1	944.355336
+Rosa canina	ncbitaxon:74635	0	1	0	0	0	1	0	0	0	0	53.4	mediterranean		4.75	589.084	Acer forest	0.1997922539	587.55	20	12.31666667	3	992.6465167
+Rosa majalis	ncbitaxon:57935	0	0	0	0	0	1	0	0	0	0	-58.25	TMP		4.75	589.084	Spruce (Picea) forests	0.1997922539	587.55	20	12.31666667	3
+Rosa multiflora	ncbitaxon:74647	0	0	1	0	0	1	0	0	0	0	43.2068	Mountains				Forests					2
+Rosa rubiginosa	ncbitaxon:74636	0	0	0	0	0	1	0	0	0	0						Temperate					3	844.8689063
+Rosa rugosa	ncbitaxon:74645	0	0	0	0	0	1	0	0	0	0	-58.25	TMP		4.75	589.084	Forests	0.1997922539	587.55	20	12.31666667	3	967.4569027	5.5	7.5
+Rubus caesius	ncbitaxon:75065	0	0	0	0	0	1	0	0	0	0	48	temperate		9.7		Forests					3	850.6582585
+Rubus idaeus	ncbitaxon:32247	0	0	0	0	0	1	0	0	0	0	53.4	TEMP		4.75	589.084	Spruce (Picea) forests	0.1997922539	587.55	20	12.31666667	3	1094.879056	6	6.5			-4	22
+Rubus plicatus	ncbitaxon:211815	0	0	0	0	0	1	0	0	0	0	50.95	temperate		7.3	773	Southern-temperate	0.1833110726	647.44	100	11.225	1	1089.436793
+Rubus ulmifolius	ncbitaxon:75099	0	0	0	0	0	1	0	0	0	0	-37	temperate		17.1667	608.79	Csa	0.6568858955	1489.875	8	17.16666667	3
+Rumex acetosella	ncbitaxon:61450	0	0	0	0	0	1	0	0	0	0	53.4	temperate		9.3	804.237	Pine (Pinus) forest	0.2577089374	588.1	20	12.12222222	5	1110.200444
+Rumex aquaticus	ncbitaxon:1470351	0	0	0	0	1	1	0	0	0	0						Boreo-temperate					3	1794.595
+Rumex crispus	ncbitaxon:174649	0	0	0	0	1	0	0	0	0	0	62.94939	Middle taiga				Meadow in forest gap					4	1086.801425
+Rumex longifolius	ncbitaxon:1075208	0	0	0	0	1	0	0	0	0	0						Boreal-montane					4	1173.857784
+Rumex maritimus	ncbitaxon:467604	0	0	0	0	0	1	0	0	0	0						Temperate					3	708.7689388	5	8.2
+Rumex obtusifolius	ncbitaxon:3619	0	0	0	0	1	0	0	0	0	0	68.33	BOR		19,3 Âº C	1322 mm	GRASSLAND			360		3	1100.465261
+Rumex patientia	ncbitaxon:137229	0	0	0	0	0	0	0	0	0	0											2
+Ruta graveolens	ncbitaxon:37565	0	0	0	0	0	0	0	0	0	0											2
+Sagittaria latifolia	ncbitaxon:15008	0	0	0	0	0	1	0	0	0	0	41.1247	Temperate				Dfa			190		4		4.7	8.6
+Sagittaria sagittifolia	ncbitaxon:4451	0	0	0	0	1	0	0	0	0	0	62.94939	Middle taiga				Meadow in forest gap					4	746.6359118
+Salicornia europaea	ncbitaxon:206448	0	0	0	0	0	1	0	0	0	1	41.2	temperate		4.854428278		Riverine shrubbery in desert (russian: tugay)					4	1038.077139
+Salix alba	ncbitaxon:75704	0	0	0	0	0	1	0	0	0	0	53.4	TEMP		4.75	589.084	Southern-temperate	0.1997922539	587.55	20	12.31666667	3	937.6542734	4.5	7.8
+Salix caprea	ncbitaxon:172267	0	0	0	0	0	1	0	0	0	0	58.6	temperate		5.4	514.3	Spruce (Picea) forests	0.1833110726	647.44	100	11.225	3	1080.046177
+Salix fragilis	ncbitaxon:77063	0	0	0	0	0	1	0	0	0	0	53.4	temperate		5.5	898	TEMP	0.3	763	20	12.31666667	3	955.462315
+Salix purpurea	ncbitaxon:77065	0	0	0	0	0	1	0	0	0	0	-58.25	TMP		4.75	589.084	Pebble bank	0.1997922539	587.55	20	12.31666667	3	984.0685933	5.5	7.5
+Salix viminalis	ncbitaxon:40686	0	0	0	0	1	0	0	0	0	0	-58.25	boreal		4.75	589.084	Forests	0.1997922539	587.55	20	12.31666667	3	1030.380055			25	2
+Salsola tragus	ncbitaxon:355937	0	0	0	0	0	0	0	0	0	0											3
+Salvia officinalis	ncbitaxon:38868	0	0	0	0	0	1	0	0	0	0	40										1
+Salvia verticillata	ncbitaxon:49220	1	0	1	0	0	1	0	0	0	0	43.26269	Mountains				Mountain steppe					3
+Sambucus ebulus	ncbitaxon:28503	0	0	0	0	0	1	0	0	0	0						Southern-temperate					3	912.8242059
+Sambucus nigra	ncbitaxon:4202	0	0	0	0	0	1	0	0	0	0	50.95	temperate		7.3	773	Open woodland	0.1833110726	647.44	100	11.225	3	1060.51839
+Sambucus racemosa	ncbitaxon:4203	0	0	0	0	0	1	0	0	0	0	50.95	temperate		7.3	589.084	Forests	0.1997922539	587.55	20	12.31666667	2	1048.478802	5.2	7.2
+Sanguisorba officinalis	ncbitaxon:137457	0	0	0	0	1	0	0	0	0	0	-56.5	BOR		2.38333	470.038	Forest tundra	0.3190022294	714.1525	260	14.88	4	937.9474817
+Sanicula europaea	ncbitaxon:71982	0	0	0	0	0	1	0	0	0	0						Temperate					6	1089.815889
+Satureja hortensis	ncbitaxon:49987	0	0	0	0	0	0	0	0	0	0											2
+Scabiosa columbaria	ncbitaxon:180561	0	0	0	0	0	1	0	0	0	0	53.4	temperate		9.3		Temperate					3	830.7266114
+Scrophularia canina	ncbitaxon:258519	0	0	0	0	0	0	0	0	0	0											3
+Scrophularia nodosa	ncbitaxon:90363	0	0	0	0	1	0	0	0	0	0	58.19873	Southern taiga				Meadow					4	1069.353172
+Scutellaria galericulata	ncbitaxon:53169	0	0	0	0	1	0	0	0	0	0	58.19873	Southern taiga				Meadow					4	1055.438327
+Sedum dasyphyllum	ncbitaxon:91129	0	0	0	0	1	0	0	0	0	0	61.91152	Northern taiga									3
+Rhodiola rosea	ncbitaxon:203015	0	0	0	0	1	0	0	0	0	0	68.33	BOR		-2.325	445.784	WOODLAND	0.1367970865	339.3775	360	10.03333333	5	1727.742626
+Senecio alpinus	ncbitaxon:189227	0	0	0	0	0	0	0	0	0	0											2
+Senecio jacobaea	ncbitaxon:98722	0	0	0	0	0	1	0	0	0	0	52.3	TEMP				Forest clearing					2	1101.776625
+Senecio vulgaris	ncbitaxon:76276	0	0	0	0	1	1	0	0	0	0	61.91152	Northern taiga				Southern-temperate					4	1074.761708	5	8.5
+Setaria viridis	ncbitaxon:4556	0	0	0	0	1	0	0	0	0	0	58.0142	Subtaiga (taiga vegetation mixed with broad-leaved forests)									3	798.4775216
+Silene acaulis	ncbitaxon:39862	0	0	1	1	1	0	0	0	0	0	61.91152	Northern taiga				Arctic-montane			3304		4	1936.86213
+Silene latifolia	ncbitaxon:37657	0	0	0	0	1	0	0	0	0	0	67.49326	Southern subarctic tundra				Forest tundra					4	910.7561746
+Silene vulgaris	ncbitaxon:42043	0	0	0	0	0	1	0	0	0	0	54.84389	Broad-leaved forests				Floodplain meadow					4	896.5338899
+Sinapis alba	ncbitaxon:3728	0	0	0	0	0	1	0	0	0	0						Southern-temperate					2	831.531072
+Sinapis arvensis	ncbitaxon:29728	0	0	0	0	0	1	0	0	0	0						Temperate					3	1011.763431
+Solanum dulcamara	ncbitaxon:45834	0	0	0	0	0	1	0	0	0	0	53.4	temperate		8.7	773	Meadow	0.1833110726	647.44	100	11.225	4	945.2995131
+Solanum nigrum	ncbitaxon:4112	0	0	0	0	0	1	0	0	1	1	40.28	TEMP ARID		21.4	1513	Meadow in forest gap			600		7	809.3119343
+Solanum tuberosum	ncbitaxon:4113	0	0	0	0	1	0	0	0	0	0	62.94939	Middle taiga				Meadow in forest gap					2	883.1745
+Solanum villosum	ncbitaxon:115671	0	0	0	0	0	0	0	0	0	0											3
+Solidago virgaurea	ncbitaxon:462879	0	0	0	0	0	1	0	0	0	0	55.75	temperate		4.1	445.784	WOODLAND	0.1367970865	339.3775	360	10.03333333	6	1217.314917
+Sonchus arvensis	ncbitaxon:50192	0	0	0	0	0	1	0	0	1	0	-45.4	TMP		4.525	1109.806	Meadow	0.2557702197	730.75	170	13.68333333	4	1012.516136
+Sonchus asper	ncbitaxon:50193	0	0	1	0	0	1	0	0	0	0	42.72288	Mountains				Mountain meadow					4	1069.72516
+Sonchus oleraceus	ncbitaxon:50207	0	0	0	0	0	1	0	0	0	0						Southern-temperate					4	1030.595846
+Sorghum halepense	ncbitaxon:4560	0	0	0	0	0	1	1	0	0	0	-31.4	SUBTROP				Pebble bank					2
+Stachys palustris	ncbitaxon:1060938	0	0	0	0	0	1	0	0	0	0	55.7	TEMP				Meadow					3	1079.104876	5.7	8
+Stachys sylvatica	ncbitaxon:53175	0	0	0	0	0	1	0	0	0	0	50.95	temperate		7.3		Temperate					4	1063.852096
+Stellaria alsine	ncbitaxon:254021	0	0	0	0	0	1	0	0	0	0						Temperate					6	1128.161463
+Stellaria media	ncbitaxon:13274	0	0	0	0	1	1	0	0	0	0	53.4	temperate		9.3	470.038	Forest tundra	0.3190022294	714.1525	260	14.88	8	1094.530517
+Suaeda maritima	ncbitaxon:126913	1	0	0	0	0	0	0	0	0	0	54.07998	Forested steppe				Dry salt-marsh					4	1093.682444
+Symphytum officinale	ncbitaxon:278672	0	0	0	0	1	0	0	0	0	0	62.94939	Middle taiga				Meadow in forest gap					3	871.468988
+Symphytum tuberosum	ncbitaxon:256504	0	0	0	0	0	1	0	0	0	0						Temperate					3	1047.397002
+Syringa vulgaris	ncbitaxon:34270	0	0	0	0	0	1	0	0	0	0	58.6	temperate		5.4	514.3		0.1997922539	587.55	20	12.31666667	1	880.7618028	5.8	7.8
+Tamus communis	ncbitaxon:55634	0	1	0	0	0	1	0	0	0	0						Mediterranean-atlantic					3	850.3911231
+Tanacetum parthenium	ncbitaxon:127999	0	0	0	0	0	0	0	0	0	0											1	980.2414808
+Tanacetum vulgare	ncbitaxon:128002	0	0	0	0	1	0	0	0	0	0	68.33	BOR		-2.325	445.784	GRASSLAND	0.1367970865	339.3775	360	10.03333333	4	958.4425174
+Taxus baccata	ncbitaxon:25629	0	0	0	0	0	1	0	0	0	0	53.4	temperate		8.7	773	Temperate	0.1833110726	647.44	100	11.225	3	976.334535	5.3	7.8	16	2
+Teucrium chamaedrys	ncbitaxon:53176	0	0	0	0	0	1	0	0	1	0	-43.42	TMP		14.3083	1010	Southern-temperate	0.484949457	1258.755	425	14.30833333	3	855.6228041
+Teucrium scordium	ncbitaxon:1132410	0	0	0	0	0	1	0	0	0	0						Southern-temperate					3	740.3716216
+Thalictrum flavum	ncbitaxon:150094	0	0	0	0	1	1	0	0	0	0						Boreo-temperate					4	762.3584507
+Thalictrum minus	ncbitaxon:476039	0	0	0	0	1	0	0	0	0	0	67.49326	Southern subarctic tundra				Forest tundra					7	1185.119024
+Thalictrum simplex	ncbitaxon:495765	0	0	0	0	1	0	0	0	0	0	-56.5	BOR		2.38333	470.038	Spruce (Picea) forests	0.3190022294	714.1525	260	14.88	3
+Thymus serpyllum	ncbitaxon:204219	0	0	1	0	0	1	0	0	0	0	43.99979	Mountains				Quercetum herbosum, Fagetum nudum and Abiegnetum pteridiosum communities					2	605.5033333
+Thymus vulgaris	ncbitaxon:49992	0	1	0	0	0	1	0	0	1	0	43.53	mediterranean		13.6	1148		0.4468121068	1239.04	285	13.13	2
+Tilia cordata	ncbitaxon:172266	0	0	0	0	0	1	0	0	0	0	51.23	temperate	5.41	7.5	514.3	TEMP	0.29	657	20	12.31666667	2	872.641469	4.8	7.2
+Tilia platyphyllos	ncbitaxon:82423	0	0	0	0	0	1	0	0	0	0	50.78	temperate		10.2		Temperate					2	816.1598214
+Tragopogon orientalis	ncbitaxon:261649	0	0	0	0	0	1	0	0	0	0	54.84389	Broad-leaved forests				Floodplain meadow					3
+Trifolium alexandrinum	ncbitaxon:97006	0	0	0	0	0	0	0	0	0	0											2		6	7.2
+Trifolium incarnatum	ncbitaxon:60916	0	1	0	0	0	1	0	0	0	0						Mediterranean-atlantic					3	883	5.5	7.5
+Trifolium pratense	ncbitaxon:57577	0	0	0	0	0	1	0	0	0	0	68.33	temperate		-2.325	445.784	GRASSLAND	0.1367970865	339.3775	360	10.03333333	4	1099.624192	6	7.5
+Triticum aestivum	ncbitaxon:4565	1	0	0	0	0	0	0	0	0	0	54.08979	Forested steppe		12.5	973	Cropland, marginal land, ruderal habitats, gardens					2	860.9470792	5.5	8
+Typha angustifolia	ncbitaxon:59011	0	0	0	0	0	1	0	0	0	0	44.37					Temperate					3	775.4722206	3.7	8.5
+Ulmus laevis	ncbitaxon:233204	0	0	0	0	0	1	0	0	0	0	-58.25	TMP		4.75	589.084	Meadow in forest gap	0.1997922539	587.55	20	12.31666667	3
+Ulmus minor	ncbitaxon:262084	0	0	0	0	0	1	0	0	0	1	40.28	TEMP ARID				Temperate					3	763.8621263
+Urtica dioica	ncbitaxon:3501	0	0	0	0	0	1	0	0	0	0	53.4	temperate		9.3	801.791	Spruce (Picea) forests	0.2112355084	745.725	2	11.42222222	4	1102.495485
+Urtica pilulifera	ncbitaxon:1435592	0	0	0	0	0	0	0	0	0	0											2
+Urtica urens	ncbitaxon:473050	0	0	0	0	0	1	0	0	0	0						Southern-temperate					5	914.4593447
+Vaccaria hispanica	ncbitaxon:39387	1	0	0	0	0	0	0	0	0	0	54.08979	Forested steppe				Cropland, marginal land, ruderal habitats, gardens					3
+Valeriana officinalis	ncbitaxon:19953	0	0	0	0	1	0	0	0	0	0	57.93275	Subtaiga (taiga vegetation mixed with broad-leaved forests)				Pine (Pinus) forest					4	1114.720023
+Veratrum album	ncbitaxon:50243	0	0	0	0	0	0	0	0	0	0											2
+Verbascum nigrum	ncbitaxon:90364	0	0	0	0	1	0	0	0	0	0	62.94939	Middle taiga				Meadow in forest gap					3	741.66
+Verbascum thapsus	ncbitaxon:39388	0	0	0	0	1	0	0	0	0	0	-56.5	BOR		2.38333	470.038	Forest clearing	0.3190022294	714.1525	260	14.88	4	918.216757
+Verbena officinalis	ncbitaxon:79772	0	0	1	0	0	1	0	0	0	0	43.50965	Mountains				Pebble bank					3	859.1585452
+Veronica filiformis	ncbitaxon:189991	0	0	0	0	0	0	0	0	0	0											1	989.6504733
+Veronica officinalis	ncbitaxon:160511	0	0	0	0	0	1	0	0	1	0	55.75	temperate		4.1	1109.806	Spruce (Picea) forests	0.2557702197	730.75	170	13.68333333	4	1124.77511
+Veronica persica	ncbitaxon:138560	0	1	0	0	0	1	0	0	0	0	43.98333333	Mediterranean		14.4	772	Csa			60		4	992.5111966
+Viburnum opulus	ncbitaxon:85293	0	0	0	0	0	1	0	0	0	0	58.6	temperate		5.4	514.3	Spruce (Picea) forests	0.1833110726	647.44	100	11.225	4	1018.621878	5.2	7
+Vicia hirsuta	ncbitaxon:3910	0	0	0	0	0	1	0	0	0	0						Temperate					4	926.470165
+Vicia sativa	ncbitaxon:3908	0	0	0	0	0	1	0	0	0	0	38					Southern-temperate					4	990.7588875	6	7
+Vicia villosa	ncbitaxon:3911	0	1	0	0	0	1	0	0	0	0		mediterranean				Southern-temperate					3	756.9085362	6	7.5
+Vinca minor	ncbitaxon:60093	0	0	1	0	0	1	0	0	0	0	41.7514	Mountains									2	893.0644973	5.5	7.7
+Vincetoxicum hirundinaria	ncbitaxon:141524	0	0	0	0	0	1	0	0	0	0	55.75	temperate		4.1	470.038	Pine (Pinus) forest	0.3190022294	714.1525	260	14.88	3
+Viola odorata	ncbitaxon:97441	0	0	0	0	0	1	0	0	0	0						Temperate					3	832.8311297
+Viola tricolor	ncbitaxon:214053	0	0	0	0	1	0	0	0	0	0	58.18885	Southern taiga				Meadow					4	991.66697
+Berberis thunbergii	ncbitaxon:121720	0	0	0	0	1	0	0	0	0	0	58.0142	Subtaiga (taiga vegetation mixed with broad-leaved forests)									2		5.5	7.2
+Avena sativa	ncbitaxon:4498	1	0	0	0	0	0	0	0	0	0	54.08979	Forested steppe				Cropland, marginal land, ruderal habitats, gardens						902.6378335	5.3	8.5
+Azolla mexicana	ncbitaxon:336973	0	0	0	0	0	0	0	0	0	0
+Brassica napus	ncbitaxon:3708	0	0	0	0	1	0	0	0	0	0	61.91152	Northern taiga										913.968622	6	7.2
+Acroptilon repens	ncbitaxon:41466	1	0	0	0	0	1	0	0	0	1	47.06011	Desert				Open communities within steppe zone
+Adonis annua	ncbitaxon:212759	0	1	0	0	0	1	0	0	0	0						Mediterranean-atlantic						745.323954
+Amaranthus hypochondriacus	ncbitaxon:28502	0	0	0	0	0	0	0	0	0	0
+Castanea sativa	ncbitaxon:21020	0	0	0	0	0	1	0	0	1	0	51.25	temperate		11.5	1150	Quercetum herbosum, Fagetum nudum and Abiegnetum pteridiosum communities	0.1833110726	647.44	100	11.225		949.6202565			16	2
+Cichorium endivia	ncbitaxon:114280	0	0	0	0	0	0	0	0	0	0
+Cnicus benedictus	ncbitaxon:50282	0	0	0	0	0	0	0	0	0	0
+Cosmos bipinnatus	ncbitaxon:51277	0	0	0	0	0	0	0	0	0	0
+Dianthus barbatus	ncbitaxon:278075	0	0	0	0	1	0	0	0	0	0	58.0142	Subtaiga (taiga vegetation mixed with broad-leaved forests)
+Dianthus caryophyllus	ncbitaxon:3570	0	0	0	0	0	0	0	0	0	0
+Chamaesyce maculata	ncbitaxon:216479	0	0	0	0	0	0	0	0	0	0
+Chamaesyce prostrata	ncbitaxon:212836	0	0	0	0	0	0	0	0	0	0
+Euphorbia segetalis	ncbitaxon:38847	0	0	0	0	0	0	0	0	0	0
+Geranium sibiricum	ncbitaxon:345237	0	0	0	0	1	0	0	0	0	0	62.94939	Middle taiga				Meadow in forest gap
+Lemna minor	ncbitaxon:4472	0	0	0	0	0	1	0	0	0	0						Southern-temperate						986.0506648	4.1	7.1
+Linum perenne	ncbitaxon:35941	0	0	0	0	1	1	0	0	0	0	61.91152	Northern taiga				Boreo-temperate						690.8892672
+Linum usitatissimum	ncbitaxon:4006	0	0	0	0	1	0	0	0	0	0	61.91152	Northern taiga										803.7074685
+Lupinus albus	ncbitaxon:3870	0	0	0	0	0	0	0	0	0	0
+Marsilea quadrifolia	ncbitaxon:13816	0	0	0	0	0	0	0	0	0	0
+Mentha x gracilis	ncbitaxon:241069	0	0	0	0	0	0	0	0	0	0
+Mentha x piperita	ncbitaxon:34256	0	0	0	0	0	0	0	0	0	0
+Mentha x villosa	ncbitaxon:424577	0	0	0	0	0	0	0	0	0	0
+Nuphar lutea	ncbitaxon:77113	0	0	0	0	1	0	0	0	0	0	62.68118	Middle taiga				Meadows and wetlands						974.6003376
+Nuphar pumila	ncbitaxon:38861	0	0	0	0	1	0	0	0	0	0						Boreal-montane						1680.096287
+Nymphaea alba	ncbitaxon:34301	0	0	0	0	0	1	0	0	0	0						Temperate						1090.161045
+Nymphaea candida	ncbitaxon:307975	0	0	0	0	0	0	0	0	0	0
+Paulownia tomentosa	ncbitaxon:39353	0	0	0	0	0	1	0	0	1	0	36.67	temperate		15	1140
+Phaseolus coccineus	ncbitaxon:3886	0	0	0	0	1	0	0	0	0	0	58.0142	Subtaiga (taiga vegetation mixed with broad-leaved forests)
+Phaseolus vulgaris	ncbitaxon:3885	0	0	0	0	1	0	0	0	0	0	58.0142	Subtaiga (taiga vegetation mixed with broad-leaved forests)
+Phytolacca esculenta	ncbitaxon:3528	0	0	0	0	0	0	0	0	0	0
+Pinellia ternata	ncbitaxon:199225	0	0	0	0	0	0	0	0	0	0
+Platanus x hispanica	ncbitaxon:140101	0	0	0	0	0	0	0	0	0	0													5.5	7.5
+Populus trichocarpa	ncbitaxon:3694	0	0	0	0	0	1	0	0	0	0	61.91152	temperate
+Pyrus communis	ncbitaxon:23211	0	0	0	0	1	1	0	0	0	0	62.27388	temperate, boreal				Forests						801.1687358	5.2	6.7	25	2
+Rhododendron luteum	ncbitaxon:49467	1	0	0	0	0	0	0	0	0	0	55.03208	Forested steppe
+Rhus coriaria	ncbitaxon:298661	1	0	0	0	0	1	0	0	0	0	48.50427	Northern steppe (forb and bunchgrass dominated)
+Rubus canadensis	ncbitaxon:75066	0	0	0	0	0	0	0	0	0	0
+Rubus phoenicolasius	ncbitaxon:75085	0	0	0	0	0	0	0	0	0	0
+Sarracenia purpurea	ncbitaxon:45176	0	0	0	0	0	1	0	0	0	0	-42.5	TE		5.5	898	TEMP	0.3	763	275	16.27142857
+Sedum sarmentosum	ncbitaxon:91146	0	0	0	0	0	0	0	0	0	0
+Setaria italica	ncbitaxon:4555	0	0	1	0	0	1	0	0	0	0	43.50965	Mountains				Pebble bank
+Spiraea japonica	ncbitaxon:309823	0	0	0	0	1	0	0	0	0	0	57.9784	Subtaiga (taiga vegetation mixed with broad-leaved forests)											5	6.8
+Spiraea tomentosa	ncbitaxon:473049	0	0	0	0	0	1	0	0	0	0	-45.4	temperate		5.5	898	TEMP	0.3	763	170	13.68333333			4.5	7
+Trapa natans	ncbitaxon:22666	0	0	0	0	0	0	0	0	0	0
+Trifolium scabrum	ncbitaxon:97039	0	1	0	0	0	1	0	0	0	0						Mediterranean-atlantic						830.7588704
+Tropaeolum majus	ncbitaxon:4020	0	0	0	0	0	0	0	0	0	0
+Viola wittrockiana	ncbitaxon:456371	0	0	0	0	0	0	0	0	0	0
+Viscum album	ncbitaxon:3972	0	0	0	0	0	1	0	0	0	0						Temperate						787.628545
+Xanthium strumarium	ncbitaxon:318068	0	0	1	0	0	1	0	0	0	0	43.50965	Mountains				Pebble bank
+Oenothera biennis agg.	ncbitaxon:3942	0	0	0	0	0	1	0	0	1	1	40.28	TEMP ARID		4.525	1109.806		0.2557702197	730.75	170	13.68333333		777.228624	5	7
+Digitalis lanata	ncbitaxon:49450	0	0	0	0	0	0	0	0	0	0
+Atriplex halimus	ncbitaxon:240028	0	0	0	0	0	1	0	0	0	0	35.28	temperate		18	514	Csa	0.6966245575	1244.35	130	16.83333333
+Cistus laurifolius	ncbitaxon:335179	0	0	0	0	0	1	0	0	0	0	-37	temperate		17.1667	608.79		0.6568858955	1489.875	8	17.16666667
+Daphne gnidium	ncbitaxon:224034	0	0	0	0	0	1	0	0	0	0	-28	temperate		16.6417	394.391	Csa	0.5587440746	1244.35	16.2	16.64166667
+Pinus halepensis	ncbitaxon:71633	0	0	0	0	0	1	0	0	1	0	43.6	temperate		13.6	1265		0.3048320066	1244.35	495	13.58333333
+Pistacia lentiscus	ncbitaxon:371726	0	0	0	0	0	1	0	0	0	0	42.55	temperate		15.9	634.567	Csa	0.7242113726	1529.25	400	16.675					25	2
+Prunus laurocerasus	ncbitaxon:32242	0	0	0	0	0	1	0	0	0	0	53.4	temperate		8.7	773		0.1833110726	647.44	100	11.225		953.2476782			20	2
+Quercus coccifera	ncbitaxon:58335	0	0	0	0	0	1	0	0	0	0	41.5	temperate		13.6	634.567		0.7242113726	1529.25	400	16.675
+Quercus ilex	ncbitaxon:58334	0	1	0	0	0	1	0	0	0	0	42.55	temperate		15.9	773	Mediterranean-atlantic	0.7242113726	1529.25	400	16.675		824.070009			21	2
+Quercus suber	ncbitaxon:58331	0	0	0	0	0	1	0	0	0	0	47.42	temperate		14.6	513.091	Csa	0.5764308799	1313.75	900	13.37					25	1
+Rhamnus alaternus	ncbitaxon:280017	0	0	0	0	0	1	0	0	0	0	40.28	temperate		16.3	751		0.5432855372	1244.35	265	16.33333333
+Viburnum tinus	ncbitaxon:237959	0	0	0	0	0	1	0	0	0	0	-53.4	temperate		8.7	773		0.1833110726	647.44	100	11.225
+Quercus pyrenaica	ncbitaxon:453298	0	0	0	0	0	1	0	0	0	0	37.12	temperate		10.4	513.091	Csa	0.5764308799	1313.75	900	13.37
+Pinus pinea	ncbitaxon:3346	0	0	0	0	0	1	0	0	0	0	41.22581	temperate													25	2
+Pinus banksiana	ncbitaxon:3353	0	0	0	0	1	0	0	0	0	0	46.7	boreal		3.9	908.753	Dfc	0.3703975993	926.525	275	16.27142857			6	8.2	20	2	-25	15.7
+Pinus resinosa	ncbitaxon:54921	0	0	0	0	1	0	0	0	0	0	46.7	boreal		3.9	768.8	Dfb	0.3703975993	926.525	275	16.27142857			4.5	6	18	2	-5	21
+Quercus macrocarpa	ncbitaxon:519047	0	0	0	0	1	0	0	0	0	0	46.7	boreal		3.9	883	Dfb	0.3703975993	926.525	275	16.27142857			4.5	7.5	20	2	-10	25
+Tilia americana	ncbitaxon:66669	0	0	0	0	1	0	0	0	0	0	46.7	boreal		3.9	883		0.2760126239	740.49	167	13.94285714					18	1
+Ulmus americana	ncbitaxon:29740	0	0	0	0	1	1	0	0	0	0	46.7	boreal		3.9	883	TEMP	0.3	763	340	13.55082251			5.5	8	20	2
+Cornus alternifolia	ncbitaxon:16902	0	0	0	0	1	0	0	0	0	0	46.7	boreal		3.9	883		0.2760126239	740.49	167	13.94285714			5.8	7.5	25	2
+Gaultheria procumbens	ncbitaxon:157519	0	0	0	0	1	0	0	0	0	0	46.7	boreal		3.9		Dfb			220				4	6.5
+Aralia nudicaulis	ncbitaxon:45207	0	0	0	0	1	0	0	0	0	0	46.7	boreal		3.9									5	7.2
+Fragaria virginiana	ncbitaxon:101015	0	0	0	0	1	0	0	0	0	0	46.7	boreal		3.9
+Andira inermis	ncbitaxon:53825	0	0	0	0	0	0	0	1	1	0	18.4	Tropical		24.1	2219.923		0.5501932406	1433	45	23.775
+Bambusa vulgaris	ncbitaxon:58168	0	0	0	0	0	0	0	1	0	0	18.4	Tropical		24.1									4	7
+Clusia rosea	ncbitaxon:156476	0	0	0	0	0	0	0	1	0	0	18.4	Tropical		24.1
+Kalanchoe pinnata	ncbitaxon:80913	0	0	0	0	0	0	0	1	0	0	18.4	Tropical		24.1
+Pimenta racemosa	ncbitaxon:260139	0	0	0	0	0	0	0	1	0	0	18.4	Tropical		24.1
+Plumeria alba	ncbitaxon:141603	0	0	0	0	0	0	0	1	0	0	18.4	Tropical		24.1					1230-1448
+Plumeria obtusa	ncbitaxon:85246	0	0	0	0	0	0	0	1	0	0	18.4	Tropical		24.1
+Plumeria rubra	ncbitaxon:62097	0	0	0	0	0	0	0	1	0	0	18.4	Tropical		24.1
+Rhizophora mangle	ncbitaxon:40031	0	0	0	0	0	0	0	1	1	0	18.4	Tropical		24.1	2555.9
+Swietenia humilis	ncbitaxon:62884	0	0	0	0	0	0	0	1	0	0	18.4	Tropical		24.1
+Swietenia macrophylla	ncbitaxon:43891	0	0	0	0	0	0	0	1	0	0	18.4	Tropical		24.1									4	7.5
+Swietenia mahagoni	ncbitaxon:459165	0	0	0	0	0	0	0	1	1	0	18.4	Tropical		24.1	1011		1.423939033	1313.525	76	25.94166667
+Syzygium jambos	ncbitaxon:334483	0	0	0	0	0	0	0	1	1	0	18.4	Tropical		24.1	1011		1.423939033	1313.525	76	25.94166667
+Thuja plicata	ncbitaxon:3316	0	0	0	0	0	1	0	0	0	0	49.18	temperate		9.8	535	Csb			178			976.9684407	5.1	7.1
+Liquidambar styraciflua	ncbitaxon:4400	0	0	0	0	0	1	0	0	1	0	32.67	temperate	6.52	18	1189	Cfa	0.5020904753	979.8	775	16.90909091			4.5	7	25	2
+Populus deltoides	ncbitaxon:3696	0	0	0	0	0	1	0	0	1	0	44.57	temperate	5.4	6.5	1011	Dfb	1.423939033	1313.525	76	25.94166667			4.6	6.5	20	2	-12.1	19.4
+Eucalyptus grandis	ncbitaxon:71139	0	0	0	0	0	1	0	0	1	0	-37	temperate	5.5	19	1390	Cfa			860						24	2
+Eucalyptus tereticornis	ncbitaxon:183855	0	0	0	0	0	1	0	0	0	0	-6.8376	temperate			870	Aw			498
+Larix laricina	ncbitaxon:3326	0	0	0	0	1	1	0	0	0	0	64.88	boreal		-2.8	898	TEMP	0.3	763	275	16.27142857					20	2
+Pinus radiata	ncbitaxon:3347	0	0	0	0	0	1	0	0	1	0	-35.35	temperate		12.5	1500	Cfb			198				4.5	5.2	20.5	1
+Eucalyptus maculata	ncbitaxon:87660	0	0	0	0	0	1	0	0	0	0	61.91152	temperate											6	8	25	2
+Afzelia africana	ncbitaxon:162641	0	0	0	0	0	0	0	1	1	0	7.4	Tropical		26.5	1224.4
+Chamaecyparis lawsoniana	ncbitaxon:58030	0	0	0	0	0	1	0	0	0	0	41.22581	temperate				Cfa						964.9187842
+Pinus elliottii	ncbitaxon:42064	0	0	0	0	0	1	0	0	1	0	61.91152	temperate	4.8	21.1	1445	Cfa			102				4	6.4
+Pinus palustris	ncbitaxon:46836	0	0	0	0	0	1	0	0	1	0	44.7	temperate		18.1667	1295.136	Cfa	0.5800839071	1019.575	60	18.16666667			6	7	25	2
+Carpinus caroliniana	ncbitaxon:12991	0	0	0	0	1	0	0	0	0	0	44.57	boreal		6.5	883		0.2760126239	740.49	167	13.94285714			4	7.4
+Juglans cinerea	ncbitaxon:91214	0	0	0	0	1	0	0	0	0	0	44.57	boreal		6.5	883		0.2760126239	740.49	167	13.94285714			6	7
+Salix nigra	ncbitaxon:75714	0	0	0	0	1	0	0	0	0	0	44.57	boreal		6.5	883		0.2760126239	740.49	167	13.94285714			4.8	8
+Ulmus rubra	ncbitaxon:102693	0	0	0	0	1	0	0	0	0	0	44.57	boreal		6.5	883		0.2760126239	740.49	167	13.94285714			5.5	7	25	2
+Betula platyphylla	ncbitaxon:78630	0	0	0	0	1	0	0	0	1	0	62	boreal		-10.5	1216.483	Dwb	0.2323861475	666.96	100	14.86666667							-19.6	20.9
+Ulmus parvifolia	ncbitaxon:63058	0	0	0	0	0	1	0	0	0	0	46.4	temperate		9.5									4.8	7
+Avena sp.	ncbitaxon:50455	0	0	0	0	0	1	0	0	0	0		temperate
+Alangium villosum	ncbitaxon:616985	0	0	0	0	0	0	0	1	0	0	-10	Tropical		26.8
+Vaccinium meridionale	ncbitaxon:57538	0	0	0	0	0	0	0	1	0	0	18	Tropical		27
+Cassia siamea	ncbitaxon:346999	0	0	0	0	0	0	0	1	0	0	-16	Tropical		22.2	870	Aw			498
+Albizia schimperiana	ncbitaxon:210371	0	0	0	0	0	0	0	1	0	0	-16	Tropical		22.2
+Sesbania sesban	ncbitaxon:76396	0	0	0	0	0	0	0	1	0	0	-18	Tropical		18.1
+Cecropia peltata	ncbitaxon:210352	0	0	0	0	0	0	0	1	0	0	18.4	Tropical		24.1
+Cecropia obtusifolia	ncbitaxon:241855	0	0	0	0	0	0	0	1	1	0	18.583	Tropical		24.6	4725	TR	0.8509415707	1302.975	140	24.6
+Croton schiedeanus	ncbitaxon:323080	0	0	0	0	0	0	0	1	1	0	-18	Tropical		24.6	4725		0.8509415707	1302.975	340	24.6
+Piper amalago	ncbitaxon:130378	0	0	0	0	0	0	0	1	1	0	-18	Tropical		24.6	4725		0.8509415707	1302.975	340	24.6
+Piper auritum	ncbitaxon:130385	0	0	0	0	0	0	0	1	1	0	-18	Tropical		24.6	4725		0.8509415707	1302.975	340	24.6					25	1
+Rheedia edulis	ncbitaxon:156481	0	0	0	0	0	0	0	1	1	0	18.583	Tropical		24.6	4725		0.8509415707	1302.975	340	24.6
+Ailanthus excelsa	ncbitaxon:1133704	0	0	0	0	0	0	0	1	0	0		Tropical
+Dalbergia sissoo	ncbitaxon:107308	0	0	0	0	0	1	0	1	1	0	-25.3	Tropical		25.9	1011	Cwa	1.423939033	1313.525	76	25.94166667
+Eucalyptus globulus	ncbitaxon:34317	0	0	0	0	0	1	0	1	1	0	-38.05	Tropical		13	1400	Csb	1.423939033	1313.525	76	25.94166667			5	6.8	25	5
+Eucalyptus nitens	ncbitaxon:87674	0	0	0	0	0	0	0	1	0	0	-42.82	Tropical													6.9	2
+Eucalyptus viminalis	ncbitaxon:155764	0	1	0	0	0	1	0	0	0	0	61.91152	mediterranean
+Cryptocarya alba	ncbitaxon:136114	0	1	0	0	0	1	0	0	1	0	-37.19	mediterranean		12.8833	1308	Csb	0.3456708515	1243.625	30	12.88333333
+Aristotelia chilensis	ncbitaxon:138855	0	1	0	0	0	1	0	0	0	0		mediterranean
+Juniperus phoenicea	ncbitaxon:61308	0	1	0	0	0	1	0	0	0	0	-28	mediterranean		16.6417	394.391	Csa	0.5587440746	1244.35	16.2	16.64166667
+Cistus salviifolius	ncbitaxon:335170	0	1	0	0	0	1	0	0	0	0	42.55	mediterranean		15.9	751	Csa	0.5432855372	1244.35	265	16.33333333					25	2
+Lavandula stoechas	ncbitaxon:39333	0	1	0	0	0	1	0	0	0	0	42.42	mediterranean		15.9	608.79		0.6568858955	1489.875	8	17.16666667
+Juniperus oxycedrus	ncbitaxon:69008	0	1	0	0	0	1	0	0	1	0	43.6	mediterranean		13.6	1148		0.4468121068	1239.04	285	13.13
+Smilax aspera	ncbitaxon:59116	0	1	0	0	0	1	0	0	0	0	-37	mediterranean		17.1667	608.79		0.6568858955	1489.875	8	17.16666667
+Ficus carica	ncbitaxon:3494	0	1	0	0	0	1	0	0	1	0	53.4	mediterranean		25.9	1011	Oak (Quercus) forest	1.423939033	1313.525	76	25.94166667
+Platanus orientalis	ncbitaxon:122832	0	1	0	0	0	1	0	0	0	0	43.50965	mediterranean				Pebble bank
+Pyrus amygdaliformis	ncbitaxon:470518	0	1	0	0	0	1	0	0	0	0		mediterranean
+Cistus incanus	ncbitaxon:393199	0	1	0	0	0	1	0	0	0	0		mediterranean
+Euphorbia characias	ncbitaxon:3991	0	1	0	0	0	1	0	0	0	0		mediterranean
+Helichrysum stoechas	ncbitaxon:261805	0	1	0	0	0	1	0	0	0	0		mediterranean
+Thymelaea hirsuta	ncbitaxon:69845	0	1	0	0	0	1	0	0	0	1	31.1004	mediterranean			90	BSh			201
+Pinus ponderosa	ncbitaxon:55062	0	0	0	0	0	1	0	0	0	0	44.42	temperate		7.9	296.3	TEMP	0.66	1194	1032	13.0257384			5	9	25	2
+Typha domingensis	ncbitaxon:189386	0	0	0	0	0	0	0	1	0	0	25.85	Tropical		23.2
+Cornus florida	ncbitaxon:4283	0	0	0	0	0	1	0	0	1	0	25.85	temperate		23.2	1830		0.3703975993	926.525	275	16.27142857			5	7	20	2
+Alocasia odora	ncbitaxon:174188	0	1	0	0	0	1	0	0	0	0	41.3	mediterranean		14	374	Warmtemp			1
+Yucca aloifolia	ncbitaxon:203639	0	1	0	0	0	1	0	0	0	0	41.3	mediterranean		14	374	Warmtemp			1				6.5	8.5
+Yucca gloriosa	ncbitaxon:1087055	0	1	0	0	0	1	0	0	0	0	41.3	mediterranean		14	374	Warmtemp			1
+Euphorbia mauritanica	ncbitaxon:154994	0	1	0	0	0	1	0	0	0	0	41.3	mediterranean		14	374	Warmtemp			1
+Smilacina racemosa	ncbitaxon:39530	0	0	0	0	0	1	0	0	0	0	43.93	temperate		7.4
+Pistacia vera	ncbitaxon:55513	0	0	0	0	0	1	0	0	0	0	39.02522	temperate				Acer forest
+Juglans nigra	ncbitaxon:16719	0	0	0	0	0	1	0	0	0	0	43.52	temperate		7.7	908.753		0.3703975993	926.525	275	16.27142857			5.5	8	20	2
+Pinus aristata	ncbitaxon:71623	0	0	0	0	1	0	0	0	0	0	39.63	boreal											5.7	7.5
+Eupatorium rugosum	ncbitaxon:102750	0	0	0	0	0	1	0	0	1	0	-35.5	temperate		11.5667	1740.396		0.314660227	1034.65	775	14.73333333
+Arisaema triphyllum	ncbitaxon:78371	0	0	0	0	0	1	0	0	0	0	43.52	temperate		7.7	908.753		0.3703975993	926.525	275	16.27142857
+Musa balbisiana	ncbitaxon:52838	0	0	0	0	0	0	0	1	0	0		Tropical
+Prosopis juliflora	ncbitaxon:13230	0	0	0	0	0	0	0	1	0	0	29.48	Tropical		23.1	494.615		0.9634105999	1305.475	20	26.81666667							5	39
+Pinus densiflora	ncbitaxon:77912	0	0	0	0	0	1	0	0	0	0	39.86	temperate		10.47550536		Forests			1030						22	2
+Pinus koraiensis	ncbitaxon:88728	0	0	0	0	0	1	0	0	0	0	45.23	temperate	4.79	3.357503694	700	Forests			423								-24.2	20.3
+Quercus acutissima	ncbitaxon:58330	0	0	0	0	0	1	0	0	1	0	39.71	temperate	5.2	10.32337544	1025	Dwb							4.9	7			-19.6	20.9
+Pinus thunbergii	ncbitaxon:3350	0	0	0	0	0	1	0	0	0	0	41.22581	temperate				Cfa
+Rhododendron ponticum	ncbitaxon:49628	0	0	0	0	0	1	0	0	0	0	53.4	temperate		8.7	773		0.1833110726	647.44	100	11.225		1110.520663
+Celtis occidentalis	ncbitaxon:228587	0	0	0	0	0	1	0	0	0	0	43.52	temperate		7.7	908.753		0.3703975993	926.525	275	16.27142857			6	7.8	20	2
+Viola pubescens	ncbitaxon:97445	0	0	0	0	0	1	0	0	0	0	43.52	temperate		7.7									6	7
+Lysimachia ciliata	ncbitaxon:213256	0	0	0	0	0	1	0	0	0	0	42.96	temperate		7.2
+Vitis riparia	ncbitaxon:96939	0	0	0	0	0	1	0	0	0	0	42.96	temperate		7.2									6.1	8.5
+Waldsteinia fragaroides	ncbitaxon:32251	0	0	0	0	0	1	0	0	0	0	45.88	temperate		4.3
+Monarda punctata	ncbitaxon:182387	0	0	0	0	0	1	0	0	0	0	43.31	temperate		7.5
+Eupatorium perfoliatum	ncbitaxon:102777	0	0	0	0	0	1	0	0	0	0	43.96	temperate		9.1
+Sambucus canadensis	ncbitaxon:57008	0	0	0	0	0	1	0	0	0	0	42.91	temperate		7.7
+Larix sibirica	ncbitaxon:62751	0	0	0	0	1	0	0	0	0	1	63.9	boreal		2.9	198	Forest tundra									25	2
+Bruguiera gymnorrhiza	ncbitaxon:39984	0	0	0	0	0	0	0	1	0	0	24.57	Tropical		21
+Acacia koa	ncbitaxon:468172	0	0	0	0	0	0	0	1	0	0	19.5	Tropical		17					513				5.5	7
+Psidium cattleianum	ncbitaxon:375274	0	0	0	0	0	0	0	1	0	0	19.5	Tropical		12					526
+Pennisetum setaceum	ncbitaxon:48735	0	0	0	0	0	0	0	1	0	0	19.5	Tropical		12
+Trema orientalis	ncbitaxon:63057	0	0	0	0	0	0	0	1	0	0	19.5	Tropical		17	989.143		0.5436704473	1605.9	252	18.96666667
+Kalmia latifolia	ncbitaxon:45902	0	0	0	0	0	1	0	0	1	0	35.075	temperate		13	1830		0.314660227	1034.65	775	14.73333333			4.5	5.5	23	2
+Ficus racemosa	ncbitaxon:100569	0	0	0	0	0	0	0	1	1	0	-12.4	Tropical		27.8	1710	TR	1.18	1543	31	25.6
+Melaleuca leucadendra	ncbitaxon:164936	0	0	0	0	0	0	0	1	1	0	-12.4	Tropical		27.8	1710	TR	1.18	1543	31	27.30833333
+Ficus deltoidea	ncbitaxon:182111	0	0	0	0	0	0	0	1	1	0	-4	Tropical		25.2	2688		0.4169677546	1282.9	440	25.175
+Artocarpus lakoocha	ncbitaxon:382341	0	0	0	0	0	1	0	1	1	0	-25.3	Tropical		25.9	1011		1.423939033	1313.525	76	25.94166667
+Bambusa bambos	ncbitaxon:207296	0	0	0	0	0	1	0	1	1	0	-25.3	Tropical		25.9	1011		1.423939033	1313.525	76	25.94166667
+Bauhinia variegata	ncbitaxon:167791	0	0	0	0	0	1	0	1	1	0	-25.3	Tropical		25.9	1011		1.423939033	1313.525	76	25.94166667
+Bombax ceiba	ncbitaxon:45325	0	0	0	0	0	0	0	1	1	0	18.37	Tropical		25.9	1011		1.423939033	1313.525	76	25.94166667
+Dillenia indica	ncbitaxon:4378	0	0	0	0	0	1	0	1	1	0	-25.3	Tropical		25.9	1011		1.423939033	1313.525	76	25.94166667
+Ficus benghalensis	ncbitaxon:309271	0	0	0	0	0	1	0	1	1	0	-25.3	Tropical		25.9	1011	Cwa	1.423939033	1313.525	76	25.94166667
+Ficus religiosa	ncbitaxon:66387	0	0	0	0	0	1	0	1	1	0	-25.3	Tropical		25.9	1011	Cwa	1.423939033	1313.525	76	25.94166667
+Gardenia jasminoides	ncbitaxon:114476	0	0	0	0	0	1	0	1	1	0	27.6	Tropical	5	25.9	1011		1.423939033	1313.525	76	25.94166667
+Grewia asiatica	ncbitaxon:1384607	0	0	0	0	0	1	0	1	1	0	-25.3	Tropical		25.9	1011		1.423939033	1313.525	76	25.94166667
+Hibiscus rosa-sinensis	ncbitaxon:183298	0	0	0	0	0	1	0	1	1	0	-25.3	Tropical		25.9	1011		1.423939033	1313.525	76	25.94166667
+Ixora coccinea	ncbitaxon:43503	0	0	0	0	0	1	0	1	1	0	-25.3	Tropical		25.9	1011		1.423939033	1313.525	76	25.94166667
+Lagerstroemia speciosa	ncbitaxon:122810	0	0	0	0	0	1	0	1	1	0	-25.3	Tropical		25.9	1011		1.423939033	1313.525	76	25.94166667
+Madhuca indica	ncbitaxon:571269	0	0	0	0	0	1	0	1	1	0	-25.3	Tropical		25.9	1011		1.423939033	1313.525	76	25.94166667
+Magnolia grandiflora	ncbitaxon:3406	0	0	0	0	0	1	0	1	1	0	-25.3	Tropical		25.9	1011		1.423939033	1313.525	76	25.94166667			4.5	6.5
+Mallotus phillippensis	ncbitaxon:316645	0	0	0	0	0	1	0	1	1	0	29.275	Tropical	4.441810244	25.9	1011		1.423939033	1313.525	76	25.94166667
+Mimusops elengi	ncbitaxon:233715	0	0	0	0	0	1	0	1	1	0	-25.3	Tropical		25.9	1011		1.423939033	1313.525	76	25.94166667
+Morus alba	ncbitaxon:3498	0	0	0	0	0	1	0	1	1	0	-25.3	Tropical		25.9	1011	Oak (Quercus) forest	1.423939033	1313.525	76	25.94166667			5	7
+Quisqualis indica	ncbitaxon:3956	0	0	0	0	0	1	0	1	1	0	-25.3	Tropical		25.9	1011		1.423939033	1313.525	76	25.94166667
+Sapindus mykorossi	ncbitaxon:57655	0	0	0	0	0	1	0	1	1	0	24	Tropical		25.9	1011		1.423939033	1313.525	76	25.94166667
+Strychnos nuxvomica	ncbitaxon:28545	0	0	0	0	0	1	0	1	1	0	-25.3	Tropical		25.9	1011		1.423939033	1313.525	76	25.94166667
+Tabernaemontana coronaria	ncbitaxon:52861	0	0	0	0	0	1	0	1	1	0	-25.3	Tropical		25.9	1011		1.423939033	1313.525	76	25.94166667
+Terminalia arjuna	ncbitaxon:172200	0	0	0	0	0	1	0	1	1	0	-25.3	Tropical		25.9	1011		1.423939033	1313.525	76	25.94166667
+Terminalia bellirica	ncbitaxon:155021	0	0	0	0	0	1	0	1	1	0	-25.3	Tropical		25.9	1011		1.423939033	1313.525	76	25.94166667
+Terminalia chebula	ncbitaxon:155022	0	0	0	0	0	1	0	1	1	0	-25.3	Tropical		25.9	1011		1.423939033	1313.525	76	25.94166667
+Anogeissus latifolia	ncbitaxon:1068672	0	0	0	0	0	1	0	1	1	0	-26.5	Tropical		25.6	1081		1.356614274	1286.025	355	25.6
+Boswellia serrata	ncbitaxon:613112	0	0	0	0	0	1	0	1	1	0	-26.5	Tropical	6.7	25.6	1081	Aw	1.356614274	1286.025	355	25.6
+Bridelia retusa	ncbitaxon:283087	0	0	0	0	0	1	0	1	1	0	-26.5	Tropical		25.6	1081		1.356614274	1286.025	355	25.6
+Diospyros melanoxylon	ncbitaxon:1948899	0	0	0	0	0	1	0	1	1	0	-26.5	Tropical		25.6	1081		1.356614274	1286.025	355	25.6
+Gardenia latifolia	ncbitaxon:1357587	0	0	0	0	0	1	0	1	1	0	-26.5	Tropical		25.6	1081		1.356614274	1286.025	355	25.6
+Lagerstroemia parviflora	ncbitaxon:1288019	0	0	0	0	0	1	0	1	1	0	-26.5	Tropical		25.6	1081		1.356614274	1286.025	355	25.6
+Pterocarpus marsupium	ncbitaxon:1071187	0	0	0	0	0	1	0	1	1	0	-26.5	Tropical		25.6	1081		1.356614274	1286.025	355	25.6
+Syzygium cumini	ncbitaxon:260142	0	0	0	0	0	0	0	1	1	0	18.37	Tropical		25.6	1081		1.356614274	1286.025	31	25.6
+Terminalia alata	ncbitaxon:1489821	0	0	0	0	0	1	0	1	1	0	-26.5	Tropical		25.6	1081		1.356614274	1286.025	355	25.6
+Wrightia tomentosa	ncbitaxon:144546	0	0	0	0	0	1	0	1	1	0	-26.5	Tropical		25.6	1081		1.356614274	1286.025	355	25.6
+Sapindus saponaria	ncbitaxon:171222	0	0	0	0	0	0	0	1	1	0	-10.5	Tropical		23.1	1027		0.6256974998	1540.875	915	23.08333333
+Tabebuia chrysantha	ncbitaxon:429696	0	0	0	0	0	0	0	1	1	0	-10.5	Tropical		23.1	1027		0.6256974998	1540.875	915	23.08333333
+Aristotelia fruiticosa	ncbitaxon:378437	0	0	0	0	0	1	0	0	1	0	45.28	temperate		5.5	2225		0.319717042	881.625	1150	8.371428571
+Zanthoxylum capense	ncbitaxon:430988	0	0	0	0	0	0	0	1	1	0	9.5944444	Tropical		10.9	2812		0.5125193544	1253.57	100	18.36666667
+Acacia mearnsii	ncbitaxon:139012	0	0	0	0	0	1	0	1	1	0	-30.12	Tropical		24	1400
+Cordia africana	ncbitaxon:222081	0	0	0	0	0	0	0	1	1	0	7.1	Tropical		19.5	1240
+Abutilon indicum	ncbitaxon:318060	0	0	0	0	0	0	0	1	0	0	19.1	Tropical		22.74437785
+Acer ginnala	ncbitaxon:57656	0	0	0	0	0	1	0	0	0	0	46	temperate		-0.4	723	Forests							6.1	7.5			-19.6	20.9
+Albizia procera	ncbitaxon:384949	0	0	0	0	0	0	0	1	0	0	18.37	Tropical		25.2985741
+Artemisia apiacea	ncbitaxon:262982	0	0	0	0	0	1	0	0	0	0	45	temperate		0.517218059
+Artemisia sphaerocephala	ncbitaxon:401934	0	0	0	0	0	1	0	0	0	0	40.8	temperate		6.402197255
+Artemisia vestita	ncbitaxon:1811969	0	0	0	0	0	1	0	0	0	0	46	temperate		-0.4
+Artocarpus tonkinensis	ncbitaxon:3492	0	0	0	0	0	0	0	1	0	0	19.1	Tropical		22.74437785
+Aster tataricus	ncbitaxon:588669	0	0	0	0	0	1	0	0	0	0	46	temperate		-0.4
+Baeckea frutescens	ncbitaxon:199392	0	0	0	0	0	1	0	1	1	0	21.72	Tropical	5.8	23.3	1706
+Berberis poiretii	ncbitaxon:1026947	0	0	0	0	0	1	0	0	0	0	46	temperate		-0.4
+Bupleurum scorzonerifolium	ncbitaxon:48105	0	0	0	0	0	1	0	0	0	0	46	temperate		-0.4
+Canarium album	ncbitaxon:300208	0	0	0	0	0	0	1	1	1	0	18.37	Tropical	3.9	25.2985741	1900	subtropical evergreen monsoon forest			250
+Capparis spinosa	ncbitaxon:65558	0	0	0	0	0	1	0	0	0	0	42.23	temperate		9.228802241	857		0.6183265188	1244.35	40	16.75
+Carex baccans	ncbitaxon:69848	0	0	0	0	1	0	0	0	0	0	33.02	boreal		3.029652439
+Cryptocarya chinensis	ncbitaxon:128609	0	0	0	0	0	0	1	1	1	0	19.1	Tropical	3.9	22.74437785	1900	subtropical evergreen monsoon forest			250
+Cyclobalanopsis glauca	ncbitaxon:103489	0	0	0	0	0	1	0	1	1	0	25.33	Tropical		18.79154659	1374.7
+Dianthus chinensis	ncbitaxon:118431	0	0	0	0	0	1	0	0	0	0	46	temperate		-0.4
+Elephantopus scaber	ncbitaxon:396369	0	0	0	0	0	0	0	1	0	0	19.1	Tropical		22.74437785
+Elymus mollis	ncbitaxon:183794	0	0	0	0	0	1	0	0	0	0	39.86	temperate		10.47550536
+Euonymus bungeanus	ncbitaxon:4309	0	0	0	0	0	1	0	0	0	0	46	temperate		-0.4		Forests
+Filifolium sibiricum	ncbitaxon:217469	0	0	0	0	0	1	0	0	0	0	46	temperate		-0.4
+Fraxinus madshurica	ncbitaxon:56029	0	0	0	0	0	1	0	0	1	0	45.23	temperate	6.08	3.357503694	1216.483	Forests	0.2323861475	666.96	100	14.86666667							-19.6	20.9
+Glycyrrhiza inflata	ncbitaxon:74614	0	0	0	0	0	1	0	0	0	0	42.23	temperate		9.228802241
+Glycyrrhiza squamulosa	ncbitaxon:2731867	0	0	0	0	0	1	0	0	0	0	34.9	temperate		11.87726961
+Glycyrrhiza uralensis	ncbitaxon:74613	0	0	0	0	0	1	0	0	0	0	40.4	temperate		6.369388534
+Hemerocallis minor	ncbitaxon:81733	0	0	0	0	1	0	0	0	0	0	46	boreal		-0.4
+Hevea brasiliensis	ncbitaxon:3981	0	0	0	0	0	0	0	1	0	0	19.1	Tropical		22.74437785
+Ilex pubescens	ncbitaxon:185543	0	0	0	0	0	1	0	1	1	0	26.33	Tropical	5	17.7818262	1460				150 to 1000
+Inula cappa	ncbitaxon:313931	0	0	0	0	0	1	0	1	1	0	25.6	Tropical		18.36251789	1524
+Iris pallasii	ncbitaxon:198820	0	0	0	0	0	1	0	0	0	0	40	temperate		9.114879293
+Juglans mandshurica	ncbitaxon:91218	0	0	0	0	0	1	0	0	0	0	45.23	temperate	6.25	3.357503694	700	Forests			475								-19.6	20.9
+Juniperus formosana	ncbitaxon:453927	0	0	0	0	0	0	0	1	0	0	25.02	Tropical		14.93304739
+Leonurus sibiricus	ncbitaxon:405945	0	0	0	0	0	1	0	0	0	0	46	temperate		-0.4
+Commelina benghalensis	ncbitaxon:34173	0	0	0	0	0	0	0	1	0	0	19.1	Tropical		22.74437785
+Lycium ruthenicum	ncbitaxon:112879	0	0	0	0	0	1	0	0	0	0	42.23	temperate		9.228802241
+Mallotus apelta	ncbitaxon:463319	0	0	0	0	0	0	0	1	0	0	19.1	Tropical		22.74437785
+Malus baccata	ncbitaxon:106549	0	0	0	0	0	1	0	0	0	0	46	temperate		-0.4		Forests
+Miscanthus sinensis	ncbitaxon:62337	0	0	0	0	0	0	0	1	0	0	19.1	Tropical		22.74437785									4.6	7.5
+Nitraria tangutorum	ncbitaxon:357929	0	0	0	0	0	1	0	0	0	0	40	temperate		9.114879293
+Paeonia lactiflora	ncbitaxon:35924	0	0	0	0	0	1	0	0	0	0	46	temperate		-0.4
+Panicum repens	ncbitaxon:158137	0	0	0	0	0	0	0	1	0	0	19.1	Tropical		22.74437785
+Pennisetum flaccidum	ncbitaxon:192627	0	0	0	0	1	0	0	0	0	0	29.2	boreal		5.694473966									5.5	7
+Phellodendron amurense	ncbitaxon:68554	0	0	0	0	0	1	0	0	0	0	45.23	temperate	6.25	3.357503694	723	Forests											-19.6	20.9
+Phyllanthus emblica	ncbitaxon:296036	0	0	0	0	0	1	0	1	1	0	23.92	Tropical		21.69059375	1112	Cwa			59
+Phyllanthus reticulatus	ncbitaxon:296037	0	0	0	0	0	0	0	1	0	0	19.1	Tropical		22.74437785
+Plantago asiatica	ncbitaxon:197796	0	0	0	0	0	1	0	0	0	0	40.4	temperate		6.369388534
+Polygala sibirica	ncbitaxon:690825	0	0	0	0	0	1	0	0	0	0	46	temperate		-0.4	470.038		0.3190022294	714.1525	260	14.88
+Populus davidiana	ncbitaxon:266767	0	0	0	0	0	1	0	0	0	0	46	temperate		-0.4		Forests
+Populus euphratica	ncbitaxon:75702	0	0	0	0	0	1	0	0	0	1	42.93	temperate		14.03134795	40	Poplar (Populus) forest			1356
+Pueraria lobata	ncbitaxon:3893	0	0	0	0	0	1	0	0	0	0	34.6	temperate		13.54343098
+Rhizophora apiculata	ncbitaxon:106626	0	0	0	0	0	1	0	1	1	0	20.33	Tropical		23.4525447	2146.365		0.5498615436	1393.775	18	26.675
+Rhizophora mucronata	ncbitaxon:61149	0	0	0	0	0	1	0	1	1	0	21.62	Tropical		22.59646286	2146.365		0.5498615436	1393.775	18	26.675
+Rhododendron micranthum	ncbitaxon:118363	0	0	0	0	0	1	0	0	0	0	39.71	temperate	6.8	10.32337544	735
+Ribes diacanthum	ncbitaxon:207520	0	0	0	0	0	1	0	0	0	0	46	temperate		-0.4
+Scutellaria baicalensis	ncbitaxon:65409	0	0	0	0	0	1	0	0	0	0	46	temperate		-0.4
+Scutellaria scordifolia	ncbitaxon:587679	0	0	0	0	0	1	0	0	0	0	46	temperate		-0.4
+Setaria glauca	ncbitaxon:4543	0	0	0	0	0	1	0	0	0	0	34.6	temperate		13.54343098
+Sophora alopecuroides	ncbitaxon:200492	0	0	0	0	0	1	0	0	0	0	40.4	temperate		6.369388534
+Sophora flavescens	ncbitaxon:49840	0	0	0	0	0	1	0	0	0	0	39.86	temperate		10.47550536
+Suaeda salsa	ncbitaxon:126914	0	0	0	0	0	1	0	0	0	0	39.86	temperate		10.47550536
+Tilia amurensis	ncbitaxon:1522114	0	0	0	0	0	1	0	0	0	0	45.23	temperate		3.357503694		Forests
+Ulmus macrocarpa	ncbitaxon:1043716	0	0	0	0	0	1	0	0	0	0	46	temperate		-0.4
+Ulmus pumila	ncbitaxon:198266	0	0	0	0	0	1	0	0	0	1	46	temperate		-0.4	723	Desert sand dunes			1001				5.5	8			-19.6	20.9
+Vaccinium bracteatum	ncbitaxon:276782	0	0	0	0	0	1	0	1	1	0	28.6	Tropical	5.7	17.51527052	1573	Cfa											6.4	28.8
+Veratrum nigrum	ncbitaxon:203100	0	0	0	0	0	1	0	0	0	0	46	temperate		-0.4
+Vitex negundo	ncbitaxon:361442	0	0	0	0	0	0	0	1	0	0	19.1	Tropical		22.74437785
+Vitex trifolia var. simplicifolia	ncbitaxon:413484	0	0	0	0	0	0	0	1	0	0	21.03	Tropical		23.04942661
+Xanthium sibiricum	ncbitaxon:576365	0	0	0	0	0	1	0	0	0	0	39.86	temperate		10.47550536
+Zanthoxylum avicennae	ncbitaxon:354527	0	0	0	0	0	0	0	1	0	0	19.1	Tropical		22.74437785
+Zanthoxylum planispinum	ncbitaxon:1196222	0	0	0	0	0	0	0	1	0	0	27.6	Tropical		16.84337589
+Zingiber officinale	ncbitaxon:94328	0	0	0	0	0	0	0	1	1	0	9.28	Tropical		26	3100	TR			140
+Ficus benjamina	ncbitaxon:182105	0	0	0	0	0	1	0	1	1	0	22.06027778	Tropical		22.7	3560				1230-1387
+Aristotelia serrata	ncbitaxon:140574	0	0	0	0	0	1	0	0	1	0	-43.57	temperate		10.8	6500				200						13	2
+Pinus edulis	ncbitaxon:3340	0	0	0	0	0	1	0	0	0	1	38.6	Desert		12	216	BSk	0.9601631867	1630.05	1620	15.57			6.5	8.5	27	2
+Castanea mollissima	ncbitaxon:60419	0	0	0	0	0	1	0	1	1	0	29.87	Tropical		16.2	1374.7								5	7.5
+Liquidambar formosana	ncbitaxon:63359	0	0	0	0	0	1	0	1	1	0	29.87	Tropical	4.8	16.2	1374.7	Cfa											6.8	24.4
+Litsea cubeba	ncbitaxon:155299	0	0	0	0	0	1	1	0	1	0	29.87	Tropical	3.9	16.2	1374.7	subtropical evergreen monsoon forest			250
+Cyclobalanopsis myrsinaefolia	ncbitaxon:57648	0	0	0	0	0	1	0	1	1	0	29.87	Tropical		16.2	1374.7		0.3779672155	1125.075	20	14.74166667
+Cinnamomum camphora	ncbitaxon:13429	0	0	0	0	0	1	0	1	1	0	29.87	Tropical		16.2	1374.7
+Myrica rubra	ncbitaxon:262757	0	0	0	0	0	1	0	1	1	0	29.87	Tropical	4.54469228	16.2	1374.7				150 to 1000
+Cyperus brevifolius	ncbitaxon:180973	0	0	0	0	0	1	1	0	1	0	30Â° 05' S	Cfa climate type in KoeppenÂ’s classification		19,3 Âº C	1322 mm	grassland			45 m
+Elephantopus mollis H. B. K.	ncbitaxon:318057	0	0	0	0	0	1	1	0	1	0	30Â° 05' S	Cfa climate type in KoeppenÂ’s classification		19,3 Âº C	1322 mm	grassland			45 m
+Eugenia uniflora L.	ncbitaxon:119951	0	0	0	0	0	1	1	0	0	0	30Â° 03' S	Cfa's climate type in KoÃ«ppen-GreigeÂ’s classification		19,5 Â° C	1348 mm	subtropical forest in a context of forest-grassland mosaic			311 m
+Ilex paraguariensis	ncbitaxon:185542	0	0	0	0	0	1	0	0	1	0	29Â° 28' S	Cfb climate type in KoeppenÂ’s classification		14,5 Âº C	2252 mm	Araucaria forest and Campos grassland			900 m
+Paspalum dilatatum	ncbitaxon:313893	0	0	0	0	0	1	1	0	1	0	30Â° 05' S	Cfa climate type in KoeppenÂ’s classification		19,3 Âº C	1322 mm	grassland			45 m				4.9	7.5
+Paspalum notatum Flugge	ncbitaxon:147272	0	0	0	0	0	1	1	0	1	0	30Â° 05' S	Cfa climate type in KoeppenÂ’s classification		19,3 Âº C	1322 mm	grassland			45 m				5.5	7
+Paspalum plicatulum Michx.	ncbitaxon:547447	0	0	0	0	0	1	1	0	1	0	30Â° 05' S	Cfa climate type in KoeppenÂ’s classification		19,3 Âº C	1322 mm	grassland			45 m				4	6.5
+Paspalum urvillei	ncbitaxon:313909	0	0	0	0	0	1	1	0	1	0	30Â° 05' S	Cfa climate type in KoeppenÂ’s classification		19,3 Âº C	1322 mm	grassland			45 m
+Passiflora suberosa L.	ncbitaxon:133504	0	0	0	0	0	1	1	0	1	0	30Â° 03' S	Cfa's climate type in KoÃ«ppen-GreigeÂ’s classification		19,5 Â° C	1348 mm	grassland near to a forest edge			311 m
+Piper gaudichaudianum Kunth	ncbitaxon:538273	0	0	0	0	0	1	1	0	0	0	30Â° 03' S	Cfa's climate type in KoÃ«ppen-GreigeÂ’s classification		19,5 Â° C	1348 mm	subtropical forest in a context of forest-grassland mosaic			311 m
+Sida rhombifolia L.	ncbitaxon:108377	0	0	0	0	0	1	1	0	1	0	30Â° 03' S	Cfa's climate type in KoÃ«ppen-GreigeÂ’s classification		19,5 Â° C	1348 mm	grassland near to a forest edge			311 m
+Verbena montevidensis	ncbitaxon:443386	0	0	0	0	0	1	1	0	1	0	30Â° 05' S	Cfa climate type in KoeppenÂ’s classification		19,3 Âº C	1322 mm	grassland			45 m
+Zanthoxylum rhoifolium Lam.	ncbitaxon:549434	0	0	0	0	0	1	0	0	1	0	29Â° 28' S	Cfb climate type in KoeppenÂ’s classification		14,5 Âº C	2252 mm	Araucaria forest and Campos grassland			900 m
+Acer saccharinum L.	ncbitaxon:75745	0	0	0	0	1	0	0	0	0	1	39.06438	Desert				Subalpine meadow							5.2	4
+Adiantum capillus-veneris L.	ncbitaxon:13818	0	1	0	0	0	1	0	0	0	0						Mediterranean-atlantic						1100.811321	6	8
+Adiantum pedatum L.	ncbitaxon:29590	1	0	0	0	0	1	0	0	0	0	45.38333333	continental temperate monsoon		2.8	723	Dwb							4.6	6.6			-19.6	20.9
+Aesculus glabra Willd.	ncbitaxon:322042	0	0	0	0	1	1	0	0	0	0		temperate, boreal											5	7.1	25	1
+Agave americana L.	ncbitaxon:39510	0	0	0	0	1	0	0	0	0	0	59.51265	Middle taiga											6	8
+Albizia julibrissin Durazz.	ncbitaxon:3813	0	0	1	0	0	1	0	0	0	0	41.62545	Mountains											4.8	7.3
+Allium validum S. Watson	ncbitaxon:74904	0	0	0	0	0	0	0	0	0	0													6.2	8
+Annona glabra L.	ncbitaxon:301703	0	0	0	0	0	0	0	0	0	0													6.5	7.6
+Annona muricata L.	ncbitaxon:13337	0	0	0	0	0	0	0	1	0	0	4,45N								1230-1306				5	7
+Annona reticulata L.	ncbitaxon:301862	0	0	0	0	0	0	0	0	0	0
+Arnica longifolia D.C. Eaton	ncbitaxon:149410	0	0	0	0	0	0	0	0	0	0													6	8
+Artemisia ludoviciana Nutt.	ncbitaxon:86312	0	0	0	0	0	1	0	0	0	0	-39.2	TMP		12.575	853.784		0.5977591586	1194	325	17.08888889			6	9
+Callicarpa americana L.	ncbitaxon:204211	0	0	0	0	0	0	0	0	0	0													4.8	7
+Calophyllum inophyllum L.	ncbitaxon:158927	0	0	0	0	0	0	0	1	0	0		tropical													0	0
+Carex pachystachya Cham. ex Steud.	ncbitaxon:314448	0	0	0	0	0	0	0	0	0	0													5.8	7.5
+Catalpa bignonioides Walter	ncbitaxon:85179	0	0	0	0	0	0	0	0	0	0													5.5	7.5
+Celastrus orbiculatus Thunb.	ncbitaxon:85181	0	0	0	0	0	0	0	0	0	0													5	7.5
+Commelina diffusa Burm. f.	ncbitaxon:428226	0	0	0	0	0	0	0	0	0	0													5.2	7.2
+Coreopsis lanceolata L.	ncbitaxon:159666	0	0	0	0	0	0	0	0	0	0													6	7
+Coreopsis tinctoria Nutt.	ncbitaxon:41554	0	0	0	0	1	0	0	0	0	0	58.0142	Subtaiga (taiga vegetation mixed with broad-leaved forests)											5.2	7.8
+Crotalaria juncea L.	ncbitaxon:3829	0	0	0	0	0	1	0	0	0	1	41.27083	Desert				Experimental fields							5	7.7
+Cupressus arizonica Greene	ncbitaxon:49011	0	0	0	0	0	1	0	0	0	1	41.22581	Desert											7	8.5
+Deutzia gracilis Siebold & Zucc.	ncbitaxon:23105	0	0	0	0	0	0	0	0	0	0													5	7
+Diospyros virginiana L.	ncbitaxon:13493	0	0	0	0	0	0	0	0	0	0													5	7
+Echinochloa frumentacea Link	ncbitaxon:158098	0	0	0	0	1	0	0	0	0	0	58.0142	Subtaiga (taiga vegetation mixed with broad-leaved forests)											4.7	7.4
+Elaeagnus umbellata Thunb.	ncbitaxon:43233	0	0	0	0	0	0	0	0	0	0													5	7.5
+Eucalyptus camaldulensis Dehnh.	ncbitaxon:34316	0	0	0	0	1	0	0	0	0	0	61.91152	Northern taiga			980	Cfb			150				5	8.5
+Eucalyptus robusta Sm.	ncbitaxon:627158	0	0	0	0	0	1	0	0	0	0	21.31								269				4.5	6.5
+Festuca occidentalis Hook.	ncbitaxon:368771	0	0	0	0	0	0	0	0	0	0													6	7.5
+Gleditsia triacanthos L.	ncbitaxon:54874	0	0	0	0	0	1	0	0	0	1	40.28	TEMP ARID			335	Experimental fields			1009				6	8
+Gossypium tomentosum Nutt. ex Seem.	ncbitaxon:34277	0	0	0	0	0	0	0	0	0	0													6	7
+Guaiacum officinale L.	ncbitaxon:374122	0	0	0	0	0	0	0	0	0	0													6	8
+Helianthus angustifolius L.	ncbitaxon:73273	0	0	0	0	0	0	0	0	0	0													4	7
+Heliotropium curassavicum L.	ncbitaxon:113202	0	0	0	0	0	0	0	0	0	0													6.5	8.5
+Heracleum maximum Bartram	ncbitaxon:40918	0	0	0	0	0	1	0	0	0	0		TEMP											5.4	7.3
+Hibiscus moscheutos L.	ncbitaxon:241598	0	0	0	0	0	0	0	0	0	0													4	7.5
+Hypericum ascyron L.	ncbitaxon:210378	0	0	0	0	0	0	0	0	0	0													5.7	7.1
+Hypericum calycinum L.	ncbitaxon:55963	0	0	0	0	0	1	0	0	0	0	53.4	TEMP										883.7240417	5.5	7.5
+Iberis sempervirens L.	ncbitaxon:359854	0	0	0	0	0	0	0	0	0	0													5.8	7.3
+Ilex cornuta Lindl. & Paxton	ncbitaxon:146505	0	0	0	0	0	0	0	0	0	0													4.5	5.5
+Indigofera hirsuta L.	ncbitaxon:539088	0	0	0	0	0	0	0	0	0	0													6	6.9
+Juniperus chinensis L.	ncbitaxon:50182	0	0	0	0	0	1	0	0	0	1	41.22581	Desert				Cfa			89				4.5	7.5
+Juniperus scopulorum Sarg.	ncbitaxon:466205	1	0	0	0	0	0	0	0	0	0	55.03208	Forested steppe											5	8.5
+Lagerstroemia indica L.	ncbitaxon:141186	0	0	0	0	0	0	0	1	0	0	4,45N								1230-1414				5	7.5
+Larix occidentalis Nutt.	ncbitaxon:3327	0	0	0	0	0	1	0	0	0	0	41.22581	TEMP				Dfc			613				6	7	25	2
+Lespedeza bicolor Turcz.	ncbitaxon:556514	1	0	0	0	0	0	0	0	0	0	55.03208	Forested steppe											5.8	7.5
+Ligustrum japonicum Thunb.	ncbitaxon:46072	0	0	0	0	0	0	0	0	0	0													5.5	6.9
+Ligustrum ovalifolium Hassk.	ncbitaxon:126436	0	0	0	0	0	1	0	0	0	0	53.4	TEMP										927.6532456	5.9	7.7
+Linum striatum Walter	ncbitaxon:586394	0	0	0	0	0	0	0	0	0	0													5	8
+Lonicera japonica Thunb.	ncbitaxon:105884	0	0	0	0	0	1	0	0	0	1	40.28	TEMP ARID											4.9	7.8
+Magnolia virginiana L.	ncbitaxon:3412	0	0	1	0	0	1	0	0	0	0	41.62545	Mountains											5	6.9
+Mammea americana L.	ncbitaxon:198777	0	0	0	0	0	0	0	1	0	0	4,45N								1230-1420				6.5	8.5
+Medicago sativa L.	ncbitaxon:3879	0	0	0	0	1	0	0	0	1	0	57.95603	Subtaiga (taiga vegetation mixed with broad-leaved forests)			1100	Mixed forests			61			603.6770833	6	8.5
+Melia azedarach L.	ncbitaxon:155640	0	0	0	0	0	0	0	1	0	0	4,45N								1230-1422				4	8
+Morinda citrifolia L.	ncbitaxon:43522	0	0	0	0	0	0	0	0	0	0													5.5	7
+Morus rubra L.	ncbitaxon:32202	0	0	0	0	1	1	0	0	0	0		temperate, boreal											5	7	20	2
+Pandanus tectorius Parkinson ex Zucc.	ncbitaxon:4726	0	0	0	0	0	0	0	0	0	0													6	7.5
+Paspalum vaginatum Sw.	ncbitaxon:158149	0	0	0	0	0	0	0	0	0	0													5.1	6.7
+Pennisetum purpureum Schumach.	ncbitaxon:154765	0	0	0	0	0	0	0	0	0	0													5.2	6.8
+Penstemon acuminatus Douglas ex Lindl.	ncbitaxon:388112	0	0	0	0	0	0	0	0	0	0													6	8
+Phalaris aquatica L.	ncbitaxon:28479	0	0	0	0	0	0	0	0	0	0													5.4	7.5
+Pinus flexilis James	ncbitaxon:151559	0	0	0	0	0	1	0	0	0	0	-40.05	TMP		-1.5	959		0.3789336181	505.586158	3360	7.825			5.7	6.5	15	2
+Pinus lambertiana Douglas	ncbitaxon:3343	0	0	0	0	0	1	0	0	0	1	41.22581	Desert											5.6	8
+Pinus monticola Douglas ex D. Don	ncbitaxon:3345	0	0	0	0	0	1	0	0	0	0	41.22581	TEMP											5.5	7
+Piper methysticum G. Forst.	ncbitaxon:130404	0	0	0	0	0	0	0	0	0	0
+Potentilla arguta Pursh	ncbitaxon:57927	0	0	0	0	0	1	0	0	0	0	-45.41	TMP		6.31667	729.738	Dfb	0.4151654325	940.0525	300	15.22857143			6	8			-10	25
+Prosopis glandulosa Torr. var. glandulosa	ncbitaxon:102697	0	0	0	0	0	1	0	0	0	0	-27.73	TMP		22.1	732.568	BWk	0.7062471905	1151.8	82	22.1			7	8.5	27	2
+Pyracantha coccinea M. Roem.	ncbitaxon:193309	0	0	0	0	0	0	0	0	0	0													5.8	8
+Pyrus calleryana Decne.	ncbitaxon:36597	0	0	0	0	0	0	0	0	0	0													5	7.5
+Pyrus ussuriensis Maxim.	ncbitaxon:309349	0	0	0	0	0	1	0	0	0	1	39.06983	Desert				Wet meadow							5.5	7.5
+Quercus palustris MÂ¸nchh.	ncbitaxon:73152	0	0	0	0	0	1	0	0	0	0	-37.78	TEMP											4.5	6.5
+Ribes triste Pall.	ncbitaxon:175233	0	0	0	0	0	0	0	0	0	0													6	7
+Rosa nutkana C. Presl	ncbitaxon:396745	0	0	0	0	0	0	0	0	0	0													6.5	7
+Rosa wichuraiana CrÃˆp.	ncbitaxon:74648	0	0	0	0	0	0	0	0	0	0													4.8	7
+Salix rotundifolia Trautv.	ncbitaxon:395316	0	0	0	0	1	0	0	0	0	0	73.13212	Southern subarctic tundra				Tundra							5.5	7.5
+Schinus terebinthifolius Raddi	ncbitaxon:169191	0	0	0	0	0	1	0	0	0	0	21.31								511				6.5	7.5
+Solanum melongena L.	ncbitaxon:4111	0	0	0	0	0	0	0	0	0	0													5.5	7.2
+Spiraea prunifolia Siebold & Zucc.	ncbitaxon:409517	0	0	0	0	0	0	0	0	0	0													5.2	7.3
+Spiraea trilobata L.	ncbitaxon:403696	1	0	0	0	0	0	0	0	0	0	55.03208	Forested steppe											5	6.8
+Taxus brevifolia Nutt.	ncbitaxon:46220	0	0	0	0	0	0	0	0	0	0													6.2	7.5
+Taxus cuspidata Siebold & Zucc.	ncbitaxon:99806	0	0	0	0	0	1	0	0	0	0	35.40974	Temperate				Cfa							5.3	7.8
+Trifolium subterraneum L.	ncbitaxon:3900	0	1	0	0	0	1	0	0	0	0						Mediterranean-atlantic						804.8695448	5	7.6
+Vaccinium stamineum L.	ncbitaxon:176259	0	0	0	0	0	0	0	0	0	0													4	7
+Veratrum californicum Durand	ncbitaxon:50242	0	0	0	0	0	0	0	0	0	0													5.5	7.5
+Viburnum prunifolium L.	ncbitaxon:237954	0	0	0	0	0	0	0	0	0	0													4.8	7.5
+Vitex trifolia L. var. variegata Moldenke	ncbitaxon:204215	0	0	0	0	0	0	0	0	0	0													6	8.5
+Vitis aestivalis Michx.	ncbitaxon:3605	0	0	0	0	0	0	0	0	0	0													5.3	7
+Vitis rotundifolia Michx.	ncbitaxon:103349	0	0	0	0	0	0	0	0	0	0													6	8
+Yucca baccata Torr.	ncbitaxon:480083	0	0	0	0	0	0	0	0	0	0													7	8.5
+Acacia confusa	ncbitaxon:3809	0	0	0	0	0	1	0	0	0	0	21.31								192
+Ageratina adenophora	ncbitaxon:176616	0	0	0	0	0	1	0	0	0	0	21.31								442
+Ardisia crenata	ncbitaxon:13345	0	0	0	0	0	1	0	0	0	0	21.31								457
+Cinnamomum burmannii	ncbitaxon:119261	0	0	0	0	1	0	0	0	1	0	21.31	Middle taiga		21.7	1556	Cwa			457
+Ficus microcarpa	ncbitaxon:66385	0	0	0	0	0	1	0	0	0	0	21.31								45
+Phyllostachys nigra	ncbitaxon:281083	0	0	0	0	0	1	0	0	0	0	21.31								420
+Pimenta dioica	ncbitaxon:375272	0	0	0	0	0	1	0	0	0	0	21.31								182
+Pluchea carolinensis	ncbitaxon:175517	0	0	0	0	0	1	0	0	0	0	21.31								252
+Gentiana straminea	ncbitaxon:50768	0	0	0	1	1	0	0	0	0	0	68.4	ARC_ALPINE
+Dryopteris wallichiana	ncbitaxon:239607	0	0	0	0	0	0	0	1	0	0	19.57	TROP
+Celtis iguanaea	ncbitaxon:258491	0	0	0	0	0	0	1	0	0	0		SUBTROP
+Aegilops triuncialis	ncbitaxon:39391	0	0	0	0	0	1	0	0	0	1	39	TEMP ARID				Botanical garden
+Livistona australis	ncbitaxon:115491	0	0	0	0	0	1	0	0	0	1	-33.8	TEMP ARID
+Fraxinus angustifolia	ncbitaxon:166594	0	0	0	0	0	1	0	0	0	1	37.12	TEMP ARID		16.8	514	Acer forest	0.6966245575	1244.35	130	16.83333333
+Halimium halimifolium	ncbitaxon:632747	0	0	0	0	0	1	0	0	0	1	37.12	TEMP ARID		17.1667	608.79		0.6568858955	1489.875	8	17.16666667
+Ficus erecta	ncbitaxon:66383	0	0	0	0	0	1	1	0	0	0	29.8666	SUBTROP
+Ipomoea indica	ncbitaxon:264526	0	0	0	0	0	1	0	0	0	1	40.28	TEMP ARID
+Nicotiana glauca	ncbitaxon:4090	0	0	0	0	0	1	0	0	0	1	40.28	TEMP ARID
+Pistacia terebinthus	ncbitaxon:434238	0	0	0	0	0	1	0	0	0	1	40.28	TEMP ARID		12.8917	772.452		0.5216245756	1232.52	63	12.89166667
+Schinus molle	ncbitaxon:43851	0	0	0	0	0	1	0	0	0	1	40.28	TEMP ARID
+Vitex agnus-castus	ncbitaxon:54477	0	0	0	0	0	1	0	0	0	1	40.28	TEMP ARID		16.8	514		0.6966245575	1244.35	130	16.83333333
+Hedychium gardnerianum	ncbitaxon:4647	0	0	0	0	0	0	0	1	0	0	19.67	TROP
+Abies grandis	ncbitaxon:46611	0	0	0	0	0	1	0	0	0	0	52.3	TEMP													25	2
+Conyza sumatrensis	ncbitaxon:212787	0	0	0	0	0	1	0	0	0	1		TEMP ARID										716
+Myrica esculeunta	ncbitaxon:385002	0	0	0	0	0	1	1	0	1	0	29.275	SUBTROP		26.675	2146.365		0.5498615436	1393.775	18	26.675
+Acacia aroma	ncbitaxon:207708	0	0	0	0	0	1	1	0	0	0	-31.4	SUBTROP
+Larrea divaricata	ncbitaxon:108399	0	0	0	0	0	1	1	0	0	0	-31.4	SUBTROP													25	2
+Rhododendron arboreum	ncbitaxon:176258	0	0	0	0	0	1	1	0	0	0	29.275	SUBTROP	5.5	15.6	999
+Bidens subalternans	ncbitaxon:545239	0	0	0	0	0	1	0	0	0	0	-31.5	TEMP
+Tagetes minuta	ncbitaxon:169607	0	0	0	0	0	1	0	0	0	0	-31.5	TEMP
+Castanea dentata	ncbitaxon:134033	0	0	0	0	0	1	0	0	1	0	-42.53	TMP		7.3	1101		0.2657642297	774.7	340	13.55082251					20	2
+Quercus incana	ncbitaxon:262620	0	0	0	0	0	1	1	0	1	0	-29.63	TMP		20.5333	1357.628	Cfa	0.5997161567	1404.95	29	20.53333333
+Arbutus andrachne	ncbitaxon:84000	0	0	0	0	0	1	0	0	0	0	-37.97	TMP		16.675	634.567		0.7242113726	1529.25	400	16.675
+Aegilops geniculata	ncbitaxon:130459	0	0	0	0	0	1	0	0	0	0	-43.63	TMP		12.8917	772.452		0.5216245756	1232.52	63	12.89166667
+Brachypodium distachyon	ncbitaxon:15368	0	0	0	0	0	1	0	0	0	0	-43.63	TMP		12.8917	772.452	Snowbed vegetation	0.5216245756	1232.52	63	12.89166667
+Camellia japonica	ncbitaxon:4443	0	0	0	0	0	1	0	0	1	0	-35	TMP		13.9	2288		0.3261393639	1111.025	300	15.83
+Cinnamomum japonicum	ncbitaxon:119264	0	0	0	0	0	1	0	0	1	0	-35	TMP		13.9	2288		0.3261393639	1111.025	300	15.83
+Illicium anisatum	ncbitaxon:124794	0	0	0	0	0	1	0	0	1	0	-35	TMP		13.9	2288		0.3261393639	1111.025	300	15.83
+Acer palmatum	ncbitaxon:66201	0	0	0	0	0	1	0	0	1	0	-43	TMP		6.76667	1216.483		0.2323861475	666.96	100	14.86666667
+Acer mono	ncbitaxon:47963	0	0	0	0	0	1	0	0	1	0	-43	TMP		6.76667	1216.483	Forests	0.2323861475	666.96	100	14.86666667							-19.6	20.9
+Cornus contraversa	ncbitaxon:60118	0	0	0	0	0	1	0	0	1	0	-43	TMP		6.76667	1216.483		0.2323861475	666.96	100	14.86666667
+Sorbus commixta	ncbitaxon:186521	0	0	0	0	0	1	0	0	1	0	-43	TMP		6.76667	1216.483		0.2323861475	666.96	100	14.86666667
+Alnus hirsuta	ncbitaxon:109061	0	0	0	0	0	1	0	0	1	0	-43	TMP		6.76667	1216.483	Dwb	0.2323861475	666.96	100	14.86666667							-19.6	20.9
+Magnolia obovata	ncbitaxon:349509	0	0	0	0	0	1	0	0	1	0	-43	TMP		6.76667	1216.483		0.2323861475	666.96	100	14.86666667
+Alnus japonica	ncbitaxon:109063	0	0	0	0	0	1	0	0	1	0	-43	TMP		6.76667	1216.483		0.2323861475	666.96	100	14.86666667
+Quercus mongolica	ncbitaxon:103485	0	0	0	0	0	1	0	0	1	0	-43	TMP		6.76667	1216.483	Forests	0.2323861475	666.96	100	14.86666667							-19.6	20.9
+Araucaria araucana	ncbitaxon:42754	0	0	0	0	0	1	1	0	1	0	39.8	TMP		10.625	2795	Cfa	0.4945254731	810.6647893	1000	10.625
+Cassia grandis	ncbitaxon:162709	0	0	0	0	0	0	0	1	1	0	-10	TROP		23.775	2219.923		0.5501932406	1433	45	23.775
+Simarouba glauca	ncbitaxon:43729	0	0	0	0	0	0	0	1	1	0	-10	TROP		23.775	2219.923		0.5501932406	1433	45	23.775
+Echinacea angustifolia	ncbitaxon:308558	0	0	0	0	0	1	0	0	0	0	-39.2	TMP		12.575	853.784		0.5977591586	1194	325	17.08888889
+Clausena anisata	ncbitaxon:159034	0	0	0	0	0	1	0	0	0	0	32	TMP		18.9667	989.143		0.5436704473	1605.9	100	18.96666667
+Newtonia hildebrandtii	ncbitaxon:148737	0	0	0	0	0	1	0	0	0	0	32.5	TMP		17.6667	766.905		0.6124246482	1446.9	100	17.66666667
+Styrax camporum	ncbitaxon:153526	0	0	0	0	0	1	0	1	1	0	22	TROP		20.2333	1470.441		0.6903278134	1231.725	710	20.23333333
+Persea borbonia	ncbitaxon:3436	0	0	0	0	0	1	0	0	1	0	-33.33	TMP		18.1667	1295.136		0.5800839071	1019.575	3	18.16666667					25	2
+Echinacea purpurea	ncbitaxon:53751	0	0	0	0	0	1	0	0	0	0	-42.5	TMP		8.225	908.753		0.3703975993	926.525	275	16.27142857
+Lobelia inflata	ncbitaxon:308559	0	0	0	0	0	1	0	0	1	0	-45.4	TMP		4.525	1109.806		0.2557702197	730.75	170	13.68333333
+Dillenia suffruticosa	ncbitaxon:332431	0	0	0	0	0	0	0	1	1	0	-1.37	TROP		26.675	2146.365		0.5498615436	1393.775	18	26.675
+Ipomoea carnea	ncbitaxon:89640	0	0	0	0	0	1	0	0	0	0	-11.42	TMP		26.8167	494.615		0.9634105999	1305.475	20	26.81666667
+Jatropha gossypifolia	ncbitaxon:454931	0	0	0	0	0	1	0	0	0	0	-11.42	TMP		26.8167	494.615		0.9634105999	1305.475	20	26.81666667
+Avicennia alba	ncbitaxon:139224	0	0	0	0	0	0	0	1	1	0	-1.37	TROP		26.675	2146.365		0.5498615436	1393.775	18	26.675
+Bruguiera cylindrica	ncbitaxon:106616	0	0	0	0	0	0	0	1	1	0	-1.37	TROP		26.675	2146.365		0.5498615436	1393.775	18	26.675
+Cerbera manghas	ncbitaxon:141545	0	0	0	0	0	0	0	1	1	0	-1.37	TROP		26.675	2146.365		0.5498615436	1393.775	18	26.675
+Thespesia populnea	ncbitaxon:3638	0	0	0	0	0	0	0	1	1	0	-1.37	TROP		26.675	2146.365		0.5498615436	1393.775	18	26.675
+Ficus fistulosa	ncbitaxon:309341	0	0	0	0	0	0	1	1	1	0	-1.37	TROP	3.9	26.675	2146.365	subtropical evergreen monsoon forest	0.5498615436	1393.775	18	26.675
+Cistus ladanifer	ncbitaxon:335173	0	0	0	0	0	1	0	0	0	0	-37	TMP		17.1667	608.79	Csa	0.6568858955	1489.875	8	17.16666667
+Halimium umbellatum	ncbitaxon:335161	0	0	0	0	0	1	0	0	0	0	-37	TMP		17.1667	608.79		0.6568858955	1489.875	8	17.16666667
+Garcinia ovalifolia	ncbitaxon:469935	0	0	0	0	0	0	0	1	1	0	-4	TROP		26.5	2730.583		0.5974547463	1032.975	10	26.5
+Rauvolfia vomitoria	ncbitaxon:403115	0	0	0	0	0	0	0	1	1	0	-4	TROP		26.5	2730.583		0.5974547463	1032.975	10	26.5
+Celtis durandii	ncbitaxon:289393	0	0	0	0	0	0	0	1	1	0	0	TROP		21.6833	1329.367		0.5955045143	1171.3	1155	21.68333333
+Piper peltatum	ncbitaxon:130409	0	0	0	0	0	0	0	1	1	0	-18	TROP		24.6	4725		0.8509415707	1302.975	340	24.6
+Piper umbellatum	ncbitaxon:130418	0	0	0	0	0	0	0	1	1	0	-18	TROP		24.6	4725		0.8509415707	1302.975	340	24.6
+Alnus maximowiczii	ncbitaxon:253216	0	0	0	0	1	0	0	0	1	0	-43.72	BOR		-2.366666667	1113.414		0.1552922799	452.7664073	1800	8.775
+Acacia dealbata	ncbitaxon:205042	0	0	0	0	0	0	0	1	0	0	41.62545	tropical													21	2
+Catalpa ovata	ncbitaxon:265497	0	0	0	0	1	1	0	0	0	0	50.6	temperate, boreal							60						16	2
+Ligustrum lucidum	ncbitaxon:458695	0	0	0	0	1	1	0	0	0	0	45	temperate, boreal							50						20	2
+Retama sphaerocarpa	ncbitaxon:49838	0	0	0	0	1	1	0	0	0	0	37.1257	temperate, boreal			325	BSk			628						25	2
+Manilkara zapota	ncbitaxon:3741	0	0	0	0	0	0	0	1	0	0		tropical													25	2
+Avicennia marina	ncbitaxon:82927	0	0	0	0	0	0	0	1	1	0	19.91666667	tropical		23.5	1676	Am									25	1	17.1	28.4
+Araucaria heterophyla	ncbitaxon:34341	0	0	0	0	1	1	0	0	0	0		temperate, boreal													28	2
+Camellia sinensis	ncbitaxon:4442	0	0	0	0	1	1	0	0	1	0	23Â°27?N	temperate, boreal	4.573774503	19.6	1740				150 to 1000						25	2
+Citrus sinensis	ncbitaxon:2711	0	0	0	0	0	0	0	1	0	0	55.79939	tropical													25	2
+Nauclea diderrichii	ncbitaxon:170061	0	0	0	0	0	0	0	1	0	0		tropical													25	2
+Vouacapoua americana	ncbitaxon:115636	0	0	0	0	0	0	0	1	0	0	5.17	tropical													27.6	2
+Abies koreana	ncbitaxon:97170	0	0	0	0	0	1	0	0	0	1	41.22581	Desert
+Abies pindrow	ncbitaxon:425843	0	0	0	0	1	0	0	0	0	0	61.91152	Northern taiga
+Abies sibirica	ncbitaxon:97169	0	0	0	0	1	0	0	0	0	0	60.5138	Middle taiga				Spruce (Picea) forests
+Acer barbinerve	ncbitaxon:171204	0	0	1	0	0	1	0	0	0	0	43.2068	Mountains				Forests
+Acer pseudosieboldianum	ncbitaxon:47968	0	0	0	0	1	0	0	0	0	1	39.06438	Desert				Subalpine meadow
+Acer tegmentosum	ncbitaxon:57653	1	0	0	0	0	0	0	0	0	0	55.03208	Forested steppe		2.8	723	Forests											-19.6	20.9
+Actinidia kolomikta	ncbitaxon:165710	0	0	1	0	0	1	0	0	0	0	43.2068	Mountains				Forests
+Actinidia polygama	ncbitaxon:64480	0	0	1	0	0	1	0	0	0	0	43.2068	Mountains				Forests
+Aegilops cylindrica	ncbitaxon:130456	0	0	0	0	0	1	0	0	0	1	41.27625	Desert				Botanical garden
+Aegilops tauschii	ncbitaxon:37682	0	0	0	0	0	1	0	0	0	1	41.27625	Desert				Botanical garden
+Allium schuberti	ncbitaxon:70765	0	0	0	0	0	1	0	0	0	1	44.58153	Desert				Desert vegetation
+Alocasia macrorhiza	ncbitaxon:4456	0	0	0	0	1	0	0	0	0	0	59.51265	Middle taiga
+Aloe arborescens	ncbitaxon:45385	0	0	0	0	1	0	0	0	0	0	59.51265	Middle taiga
+Amorphophallus rivieri	ncbitaxon:78372	0	0	0	0	1	0	0	0	0	0	59.51265	Middle taiga
+Androsace filiformis	ncbitaxon:229438	0	0	0	0	1	0	0	0	0	0	58.21635	Southern taiga				Meadow
+Aralia elata	ncbitaxon:82095	1	0	0	0	0	0	0	0	0	0	55.03208	Forested steppe				Forests
+Artemisia cina	ncbitaxon:1473222	0	0	0	0	0	1	0	0	0	1	42.53151	Desert				Poa bulbosa dominated desert vegetation
+Berberis amurensis	ncbitaxon:258140	1	0	0	0	0	0	0	0	0	0	55.03208	Forested steppe				Forests
+Bryophyllum daigremontianum	ncbitaxon:23013	0	0	0	0	1	0	0	0	0	0	59.51265	Middle taiga
+Bryophyllum tubiflorum	ncbitaxon:84209	0	0	0	0	1	0	0	0	0	0	61.91152	Northern taiga
+Carya illinoinensis	ncbitaxon:32201	0	0	0	0	1	0	0	0	0	0	61.91152	Northern taiga
+Catalpa bungei	ncbitaxon:265496	0	0	1	0	0	1	0	0	0	0	41.62545	Mountains
+Cedrus atlantica	ncbitaxon:123597	0	0	0	0	0	1	0	0	0	1	41.22581	Desert
+Cedrus deodara	ncbitaxon:3322	0	0	0	0	0	1	0	0	0	1	41.22581	Desert				Cfa
+Cedrus libani	ncbitaxon:93692	0	0	0	0	0	1	0	0	0	1	41.22581	Desert		0.6	823	Dfb			300
+Cephalotaxus drupacea	ncbitaxon:224739	0	0	0	0	0	1	0	0	0	1	41.22581	Desert
+Cephalotaxus fortunei	ncbitaxon:66169	0	0	0	0	0	1	0	0	0	1	41.22581	Desert
+Cerastium argenteum	ncbitaxon:271542	0	0	1	0	0	1	0	0	0	0	41.7514	Mountains
+Ceropegia moodii	ncbitaxon:52826	0	0	0	0	1	0	0	0	0	0	59.51265	Middle taiga
+Chlorophytum comosum	ncbitaxon:34182	0	0	0	0	1	0	0	0	0	0	59.51265	Middle taiga
+Cirsium setosum	ncbitaxon:576424	0	0	0	0	0	1	0	0	0	0	54.84389	Broad-leaved forests				Floodplain meadow
+Citrus aurantium	ncbitaxon:43166	1	0	0	0	0	0	0	0	0	0	55.79939	Forested steppe
+Citrus limon	ncbitaxon:2708	1	0	0	0	0	0	0	0	0	0	55.79939	Forested steppe
+Citrus paradisi	ncbitaxon:37656	1	0	0	0	0	0	0	0	0	0	55.79939	Forested steppe
+Citrus reticulata	ncbitaxon:85571	1	0	0	0	0	0	0	0	0	0	55.79939	Forested steppe							1230-1350
+Citrus trifoliata	ncbitaxon:37690	1	0	0	0	0	0	0	0	0	0	55.79939	Forested steppe
+Clematis orientalis	ncbitaxon:231655	0	0	0	0	1	0	0	0	0	0	60.62738	Middle taiga				Pine (Pinus) forest
+Commelina communis	ncbitaxon:4744	0	0	1	0	0	1	0	0	0	0	43.67141	Mountains				Beech (Fagus) forest
+Corchorus olitorius	ncbitaxon:93759	0	0	0	0	0	1	0	0	0	1	41.27083	Desert				Experimental fields
+Corylus heterophylla	ncbitaxon:80754	0	0	1	0	0	1	0	0	0	0	43.2068	Mountains				Forests
+Corylus mandshurica	ncbitaxon:139401	0	0	1	0	0	1	0	0	0	0	43.2068	Mountains				Forests
+Crataegus pinnatifida	ncbitaxon:510735	0	0	0	0	1	0	0	0	0	0	57.9784	Subtaiga (taiga vegetation mixed with broad-leaved forests)				Forests
+Crinum asiaticum	ncbitaxon:205937	0	0	0	0	1	0	0	0	0	0	59.51265	Middle taiga
+Cupressus lusitanica	ncbitaxon:103968	0	0	0	0	0	1	0	0	0	1	41.22581	Desert							1230-1363
+Cyclamen persicum	ncbitaxon:87530	0	0	0	0	1	0	0	0	0	0	59.51265	Middle taiga
+Cyperus rotundus	ncbitaxon:512623	0	0	0	0	0	1	0	0	0	1	40.74825	Desert				Desert vegetation
+Diospyros kaki	ncbitaxon:35925	0	0	0	0	1	0	0	0	0	0	61.91152	Northern taiga
+Dracaena draco	ncbitaxon:100532	0	0	0	0	1	0	0	0	0	0	59.51265	Middle taiga
+Dracaena fragrans	ncbitaxon:231032	0	0	0	0	1	0	0	0	0	0	59.51265	Middle taiga							1230-1368
+Eleutherococcus senticosus	ncbitaxon:82096	1	0	0	0	0	0	0	0	0	0	55.03208	Forested steppe				Forests
+Eleutherococcus sessiliflorus	ncbitaxon:105886	1	0	0	0	0	0	0	0	0	0	55.03208	Forested steppe				Forests
+Ferula foetida	ncbitaxon:371345	0	0	0	0	0	1	0	0	0	1	42.53151	Desert				Poa bulbosa dominated desert vegetation
+Ferula lehmannii	ncbitaxon:371359	0	0	0	0	0	1	0	0	0	1	47.35983	Desert				Anabasis salsa dominated vegetation
+Ficus elastica	ncbitaxon:182112	0	0	0	0	1	0	0	0	0	0	61.91152	Northern taiga
+Ficus hispida	ncbitaxon:462830	0	0	0	0	1	0	1	0	1	0	59.51265	Middle taiga	3.9	22.3	1900	subtropical evergreen monsoon forest			250
+Ficus pumila	ncbitaxon:66386	0	0	0	0	1	0	0	0	0	0	59.51265	Middle taiga
+Fraxinus rhynchophylla	ncbitaxon:126596	0	0	1	0	0	1	0	0	0	0	41.62545	Mountains		4.8	595	Forests											-7.1	18.3
+Gentiana olivieri	ncbitaxon:374094	0	0	1	0	0	1	0	0	0	1	41.23494	Desert				Mountain lowland complex with forests in the river valley
+Geranium asphodeloides	ncbitaxon:326029	0	0	1	0	0	1	0	0	0	0	41.7514	Mountains
+Glycyrrhiza glabra	ncbitaxon:49827	1	0	0	0	0	1	0	0	0	1	47.06011	Desert				Open communities within steppe zone
+Gnetum gnemon	ncbitaxon:3382	1	0	0	0	0	0	0	0	0	0	55.79939	Forested steppe
+Gypsophila elegans	ncbitaxon:146095	0	0	1	0	0	1	0	0	0	0	42.72379	Mountains				Mountain meadow
+Haemanthus albiflos	ncbitaxon:240634	0	0	0	0	1	0	0	0	0	0	59.51265	Middle taiga
+Hedera colchica	ncbitaxon:82097	0	0	1	0	0	1	0	0	0	0	43.67141	Mountains				Beech (Fagus) forest
+Hibiscus cannabinus	ncbitaxon:229543	0	0	0	0	0	1	0	0	0	1	41.27083	Desert				Experimental fields
+Hordeum sativum	ncbitaxon:112509	1	0	0	0	0	0	0	0	0	0	54.08979	Forested steppe				Cropland, marginal land, ruderal habitats, gardens
+Hoya carnosa	ncbitaxon:206227	0	0	0	0	1	0	0	0	0	0	61.91152	Northern taiga
+Illicium verum	ncbitaxon:124778	0	0	1	0	0	1	0	0	0	0	41.62545	Mountains
+Impatiens balsamina	ncbitaxon:63779	0	0	0	0	1	0	0	0	0	0	61.91152	Northern taiga
+Iris lactea	ncbitaxon:198816	0	0	1	0	0	0	0	0	0	0	53.14919	Mountains
+Jasminum sambac	ncbitaxon:660624	0	0	0	0	1	0	0	0	0	0	59.51265	Middle taiga
+Juniperus rigida	ncbitaxon:99809	0	0	0	0	0	1	0	0	0	1	41.22581	Desert				Forests
+Justicia adhatoda	ncbitaxon:141317	0	0	0	0	1	0	0	0	0	0	59.51265	Middle taiga
+Leymus racemosus	ncbitaxon:81418	0	0	0	0	0	1	0	0	0	1	47.23906	Desert				Desert vegetation
+Liriodendron chinense	ncbitaxon:3414	0	0	1	0	0	1	0	0	0	0	41.62545	Mountains
+Livistona chinensis	ncbitaxon:115492	0	0	0	0	1	0	0	0	0	0	59.51265	Middle taiga
+Lonicera maackii	ncbitaxon:51255	0	0	0	0	1	0	0	0	0	0	57.9784	Subtaiga (taiga vegetation mixed with broad-leaved forests)
+Lonicera microphylla	ncbitaxon:447671	1	0	0	0	0	0	0	0	0	0	55.03208	Forested steppe
+Lupinus mutabilis	ncbitaxon:53232	0	0	0	0	1	0	0	0	0	1	39.06438	Desert				Subalpine meadow
+Lychnis chalcedonica	ncbitaxon:39855	0	0	0	0	1	0	0	0	0	0	58.0142	Subtaiga (taiga vegetation mixed with broad-leaved forests)
+Magnolia kobus	ncbitaxon:54732	0	0	1	0	0	1	0	0	0	0	41.62545	Mountains
+Mallotus japonicus	ncbitaxon:29747	0	0	1	0	0	1	0	0	0	0	41.62545	Mountains
+Miscanthus japonicus	ncbitaxon:91519	0	0	0	0	1	0	0	0	0	0	61.91152	Northern taiga
+Morus nigra	ncbitaxon:85232	1	0	0	0	0	0	0	0	0	0	55.03208	Forested steppe
+Paeonia anomala	ncbitaxon:40698	0	0	0	0	1	0	0	0	0	0	60.51081	Middle taiga				Spruce (Picea) forests
+Passiflora coerulea	ncbitaxon:159428	0	0	0	0	1	0	0	0	0	0	59.51265	Middle taiga
+Petunia hybrida	ncbitaxon:4102	0	0	0	0	1	0	0	0	0	0	58.0142	Subtaiga (taiga vegetation mixed with broad-leaved forests)
+Phoenix canariensis	ncbitaxon:113250	0	0	0	0	1	0	0	0	0	0	59.51265	Middle taiga
+Phoenix dactylifera	ncbitaxon:42345	0	0	0	0	1	0	0	0	0	0	59.51265	Middle taiga							1230-1440
+Pinus gerardiana	ncbitaxon:71632	0	0	0	0	1	0	0	0	0	0	61.91152	Northern taiga
+Pinus merkusii	ncbitaxon:71641	0	0	0	0	1	0	0	0	0	0	61.91152	Northern taiga
+Pinus parviflora	ncbitaxon:71644	0	0	0	0	0	1	0	0	0	1	41.22581	Desert
+Pinus pseudostrobus	ncbitaxon:219315	0	0	0	0	1	0	0	0	0	0	61.91152	Northern taiga
+Piper nigrum	ncbitaxon:13216	0	0	0	0	1	0	0	0	0	0	59.51265	Middle taiga
+Plantago maxima	ncbitaxon:197811	0	0	0	0	1	0	0	0	0	0	62.94939	Middle taiga				Meadow in forest gap
+Polygonum maritimum	ncbitaxon:512629	0	1	0	0	1	1	0	0	0	0	61.91152	Northern taiga				Mediterranean-atlantic						949.65
+Portulaca grandiflora	ncbitaxon:3583	0	0	0	0	1	0	0	0	0	0	58.0142	Subtaiga (taiga vegetation mixed with broad-leaved forests)
+Primula obconica	ncbitaxon:170924	0	0	0	0	1	0	0	0	0	0	59.51265	Middle taiga
+Prunus japonica	ncbitaxon:97319	0	0	0	0	1	0	0	0	0	0	57.9784	Subtaiga (taiga vegetation mixed with broad-leaved forests)
+Prunus mandshurica	ncbitaxon:122122	0	0	1	0	0	1	0	0	0	0	43.2068	Mountains				Forests
+Prunus triloba	ncbitaxon:552838	1	0	0	0	0	0	0	0	0	0	55.03208	Forested steppe
+Rhamnus davurica	ncbitaxon:105902	1	0	0	0	0	0	0	0	0	0	55.03208	Forested steppe				Forests
+Rhamnus purshiana	ncbitaxon:55262	0	0	0	0	1	0	0	0	0	0	61.91152	Northern taiga
+Rhododendron mucronulatum	ncbitaxon:105903	0	0	1	0	0	1	0	0	0	0	43.2068	Mountains				Forests
+Rhus chinensis	ncbitaxon:289753	0	0	1	0	0	1	0	0	0	0	41.62545	Mountains		20.2	995	Cwb			1357.5
+Ribes manshuricum	ncbitaxon:175214	1	0	0	0	0	0	0	0	0	0	55.03208	Forested steppe
+Rosa beggeriana	ncbitaxon:267232	1	0	0	0	0	0	0	0	0	0	55.03208	Forested steppe
+Rosa davurica	ncbitaxon:237596	1	0	0	0	0	0	0	0	0	0	55.03208	Forested steppe				Forests
+Rubus crataegifolius	ncbitaxon:75067	0	0	1	0	0	1	0	0	0	0	43.2068	Mountains				Forests
+Saccharum officinarum	ncbitaxon:4547	0	0	0	0	1	0	0	0	0	0	61.91152	Northern taiga
+Salix gracilistyla	ncbitaxon:439901	0	0	1	0	0	1	0	0	0	0	43.2068	Mountains				Forests
+Salvia splendens	ncbitaxon:180675	0	0	0	0	1	0	0	0	0	0	58.0142	Subtaiga (taiga vegetation mixed with broad-leaved forests)
+Satureja montana	ncbitaxon:49988	1	0	1	0	0	1	0	0	0	0	42.72086	Mountains				Mountain steppe
+Sauromatum guttatum	ncbitaxon:4463	0	0	0	0	1	0	0	0	0	0	59.51265	Middle taiga
+Saussurea amara	ncbitaxon:238930	1	0	0	0	0	0	0	0	0	0	54.07998	Forested steppe				Dry salt-marsh
+Schisandra chinensis	ncbitaxon:50507	1	0	0	0	0	0	0	0	0	0	55.03208	Forested steppe				Forests
+Schisandra sphenanthera	ncbitaxon:13674	0	0	1	0	0	1	0	0	0	0	41.62545	Mountains
+Sorghum saccharatum	ncbitaxon:4558	1	0	0	0	0	0	0	0	0	0	54.08979	Forested steppe				Cropland, marginal land, ruderal habitats, gardens
+Spiraea hypericifolia	ncbitaxon:409512	1	0	1	0	0	1	0	0	0	0	48.50427	Northern steppe (forb and bunchgrass dominated)				Mountain lowland complex with forests in the river valley
+Syringa amurensis	ncbitaxon:149021	0	0	0	0	1	0	0	0	0	0	57.9784	Subtaiga (taiga vegetation mixed with broad-leaved forests)
+Syringa wolfii	ncbitaxon:178765	1	0	0	0	0	0	0	0	0	0	55.03208	Forested steppe
+Tagetes erecta	ncbitaxon:13708	0	0	0	0	1	0	0	0	0	0	58.0142	Subtaiga (taiga vegetation mixed with broad-leaved forests)
+Tagetes patula	ncbitaxon:55843	0	0	0	0	1	0	0	0	0	0	58.0142	Subtaiga (taiga vegetation mixed with broad-leaved forests)
+Tilia mandshurica	ncbitaxon:210368	0	0	1	0	0	1	0	0	0	0	43.2068	Mountains		2.8	723	Forests											-19.6	20.9
+Trachycarpus fortunei	ncbitaxon:14027	0	0	0	0	1	0	0	0	0	0	59.51265	Middle taiga
+Tragopogon capitatus	ncbitaxon:268109	0	0	1	0	0	1	0	0	0	1	44.35644	Mountains				Ephemeral desert vegetation
+Trifolium lupinaster	ncbitaxon:74519	0	0	0	0	1	0	0	0	0	0	67.49326	Southern subarctic tundra				Forest tundra
+Triticum dicoccon	ncbitaxon:49225	0	0	0	0	1	0	0	0	0	0	61.91152	Northern taiga
+Triticum durum	ncbitaxon:4567	1	0	0	0	0	0	0	0	0	0	54.08979	Forested steppe				Cropland, marginal land, ruderal habitats, gardens
+Triticum monococcum	ncbitaxon:4568	0	0	0	0	1	0	0	0	0	0	61.91152	Northern taiga
+Triticum spelta	ncbitaxon:58933	0	0	0	0	1	0	0	0	0	0	61.91152	Northern taiga
+Viburnum sargentii	ncbitaxon:237952	0	0	0	0	1	0	0	0	0	0	57.9784	Subtaiga (taiga vegetation mixed with broad-leaved forests)				Forests
+Vicia faba	ncbitaxon:3906	0	0	0	0	0	1	0	0	0	1	41.27083	Desert				Experimental fields						734.0478711
+Vigna radiata	ncbitaxon:157791	0	0	0	0	0	1	0	0	0	1	41.27083	Desert				Experimental fields
+Vinca major	ncbitaxon:185238	0	0	1	0	0	1	0	0	0	0	43.42008	Mountains				Oak (Quercus) forest						873.1077177
+Wisteria sinensis	ncbitaxon:20997	0	0	0	0	1	0	0	0	0	0	59.51265	Middle taiga
+Zinnia elegans	ncbitaxon:34245	0	0	0	0	1	0	0	0	0	0	58.0142	Subtaiga (taiga vegetation mixed with broad-leaved forests)
+Ziziphus spina-christi	ncbitaxon:264981	0	0	0	0	1	0	0	0	0	0	61.91152	Northern taiga
+Rumex dentatus L.	ncbitaxon:1006352	0	0	0	0	0	0	0	0	0	0
+Amaranthus hybridus L.	ncbitaxon:3565	0	0	0	0	0	0	0	0	0	0
+RANUNCULUS MURICATUS L.	ncbitaxon:286945	0	1	0	0	0	1	0	0	0	0						Mediterranean						863.6133333
+Medicago praecox DC.	ncbitaxon:70966	0	0	0	0	0	0	0	0	0	0
+OXALIS PES-CAPRAE L.	ncbitaxon:53809	0	0	0	0	0	0	0	0	0	0												860.9157353
+Hypericum androsaemum x hircinum = H. x inodorum Mill.	ncbitaxon:140968	0	1	0	0	0	1	0	0	0	0						Mediterranean-atlantic						1184.354646
+Narcissus tazetta x poeticus = N. x medioluteus Mill.	ncbitaxon:54860	0	0	0	0	0	0	0	0	0	0
+Berberis darwinii Hook.	ncbitaxon:186723	0	0	0	0	0	0	0	0	0	0
+Rheum palmatum x rhaponticum = R. x hybridum Murray	ncbitaxon:137221	0	0	0	0	0	0	0	0	0	0
+Buddleja globosa Hope	ncbitaxon:168495	0	0	0	0	0	0	0	0	0	0
+Argemone mexicana L.	ncbitaxon:54796	0	0	0	0	0	0	0	0	0	0
+Solanum sisymbriifolium Lam.	ncbitaxon:205582	0	0	0	0	0	0	0	0	0	0
+Acorus gramineus Aiton	ncbitaxon:55184	0	0	0	0	0	0	0	0	0	0
+Alstroemeria aurea Graham	ncbitaxon:56742	0	0	0	0	0	0	0	0	0	0
+Crataegus orientalis Pall. ex M. Bieb.	ncbitaxon:510734	0	0	0	0	0	0	0	0	0	0
+Iris ensata Thunb.	ncbitaxon:34213	0	0	0	0	0	0	0	0	0	0
+Viburnum rhytidophyllum Hemsl.	ncbitaxon:47689	0	0	0	0	0	0	0	0	0	0
+Ageratum houstonianum Mill.	ncbitaxon:55598	0	0	0	0	0	0	0	0	0	0
+Amaranthus quitensis Kunth	ncbitaxon:107609	0	0	0	0	0	0	0	0	0	0
+Ipomoea hederacea Jacq.	ncbitaxon:43178	0	0	0	0	0	0	0	0	0	0
+Medicago truncatula Gaertn.	ncbitaxon:3880	0	0	0	0	0	0	0	0	0	0
+Sida spinosa L.	ncbitaxon:108380	0	0	0	0	0	0	0	0	0	0
+Euonymus japonicus L. f.	ncbitaxon:212708	0	0	0	0	0	0	0	0	0	0
+Malva parviflora L.	ncbitaxon:145753	0	0	0	0	0	0	0	0	0	0
+Cucumis melo L.	ncbitaxon:3656	0	0	0	0	0	0	0	0	0	0
+Cucumis sativus L.	ncbitaxon:3659	0	0	0	0	0	0	0	0	0	0
+Cucurbita maxima Duchesne ex Lam.	ncbitaxon:3661	0	0	0	0	0	0	0	0	0	0
+SMYRNIUM OLUSATRUM L.	ncbitaxon:40962	0	1	0	0	0	1	0	0	0	0						Mediterranean-atlantic						907.4149358
+Ferula communis L.	ncbitaxon:54829	0	0	0	0	0	0	0	0	0	0
+Jasminum nudiflorum Lindl.	ncbitaxon:126431	0	0	0	0	0	0	0	0	0	0
+Jasminum officinale L.	ncbitaxon:126433	0	0	0	0	0	0	0	0	0	0
+Ipomoea purpurea Roth	ncbitaxon:4121	0	0	0	0	0	0	0	0	0	0
+ECHIUM PLANTAGINEUM L.	ncbitaxon:113446	0	1	0	0	0	1	0	0	0	0						Mediterranean-atlantic						848.1534706
+Salvia sclarea L.	ncbitaxon:38869	0	0	0	0	0	0	0	0	0	0
+Physalis peruviana L.	ncbitaxon:126903	0	0	0	0	0	0	0	0	0	0
+Capsicum annuum L.	ncbitaxon:4072	0	0	0	0	0	0	0	0	0	0
+Datura ferox L.	ncbitaxon:169103	0	0	0	0	0	0	0	0	0	0
+VERONICA SALICIFOLIA G. Forst.	ncbitaxon:74683	0	0	0	0	0	0	0	0	0	0
+Acanthus spinosus L.	ncbitaxon:101744	0	0	0	0	0	0	0	0	0	0
+Bidens bipinnata L.	ncbitaxon:1527831	0	0	0	0	0	0	0	0	0	0
+Sigesbeckia orientalis L.	ncbitaxon:185191	0	0	0	0	0	0	0	0	0	0
+Achillea ligustica All.	ncbitaxon:282745	0	0	0	0	0	0	0	0	0	0
+Cynara cardunculus L.	ncbitaxon:4265	0	0	0	0	0	0	0	0	0	0
+Lactuca sativa L.	ncbitaxon:4236	0	0	0	0	0	0	0	0	0	0
+Scilla peruviana L.	ncbitaxon:65771	0	0	0	0	0	0	0	0	0	0
+ALLIUM ROSEUM L.	ncbitaxon:74898	0	1	0	0	0	1	0	0	0	0						Mediterranean						877.7915957
+Narcissus papyraceus Ker Gawl.	ncbitaxon:54854	0	0	0	0	0	0	0	0	0	0
+Iris unguicularis Poir.	ncbitaxon:122946	0	0	0	0	0	0	0	0	0	0
+Triticum turgidum L.	ncbitaxon:4571	0	1	0	0	0	1	0	0	1	0	43.724	Subhumid mediterranean			951	Csa			74
+SAXIFRAGA RIVULARIS L.	ncbitaxon:93340	0	0	0	1	0	0	0	0	0	0						Arctic-montane						1941.216786
+SALVIA VERBENACA L.	ncbitaxon:268912	0	1	0	0	0	1	0	0	0	0						Mediterranean-atlantic						747.7271457
+JUNCUS ACUTUS L.	ncbitaxon:308385	0	1	0	0	0	1	0	0	0	0						Mediterranean-atlantic						1030.801058
+Bromus diandrus	ncbitaxon:37722	0	0	0	0	0	0	0	0	0	0
+Aegilops ventricosa	ncbitaxon:116981	0	0	0	0	0	0	0	0	0	0
+Medicago scutellata	ncbitaxon:36901	0	0	0	0	0	0	0	0	0	0
+Ruta chalepensis	ncbitaxon:452790	0	0	0	0	0	0	0	0	0	0
+Ruta angustifolia	ncbitaxon:452789	0	0	0	0	0	0	0	0	0	0
+Genista monspessulana	ncbitaxon:49848	0	0	0	0	0	0	0	0	0	0
+Diplotaxis erucoides	ncbitaxon:3732	0	0	0	0	0	0	0	0	0	0
+Lathyrus cicera	ncbitaxon:3856	0	0	0	0	0	1	0	0	0	0	38
+Aristolochia pistolochia	ncbitaxon:212733	0	0	0	0	0	0	0	0	0	0
+Prunus dulcis	ncbitaxon:3755	0	0	0	0	0	0	0	0	0	0
+Melilotus elegans	ncbitaxon:1632797	0	0	0	0	0	0	0	0	0	0
+Asparagus acutifolius	ncbitaxon:191654	0	0	0	0	0	1	0	0	0	0	44.37
+Cynara scolymus	ncbitaxon:59895	0	0	0	0	0	0	0	0	0	0
+Clinopodium ascendens	ncbitaxon:306379	0	0	0	0	0	1	0	0	0	0						Temperate						854.2938421
+Euphrasia rostkoviana	ncbitaxon:461349	0	0	0	0	1	1	0	0	0	0						Boreo-temperate						1336.373877
+Rorippa islandica	ncbitaxon:157092	0	0	0	0	1	0	0	0	0	0						Boreal-montane						1266.32175
+Sarcocornia perennis	ncbitaxon:267552	0	1	0	0	0	1	0	0	0	0						Mediterranean-atlantic						702.4831765
+Camellia oleifera	ncbitaxon:385388	0	0	0	0	0	1	0	0	1	0	20.33		5.7	23.7	1218
+Rhododendron simsii	ncbitaxon:118357	0	0	0	0	0	1	1	0	1	0	25.6	humid  subtropical  monsoon  climate	5	18.7	1599				150 to 1000
+Hydrangea paniculata	ncbitaxon:52833	0	0	0	0	0	1	0	0	1	0	28			15.2	1147
+Pteris semipinnata	ncbitaxon:265705	0	0	0	0	0	1	0	0	1	0	25.8		5	18.8	1460
+Gunnera tinctoria	ncbitaxon:251266	0	0	0	0	0	0	0	0	0	0
+Petasites japonicus	ncbitaxon:186965	0	0	0	0	0	0	0	0	0	0
+Malus pumila	ncbitaxon:283210	0	0	0	0	0	0	0	0	0	0
+Acanthus ebracteatus Vahl	ncbitaxon:241842	0	0	0	0	0	0	0	0	0	0
+Acanthus ilicifolius L.	ncbitaxon:328098	0	0	0	0	0	0	0	0	0	0
+Avicennia schaueriana Stapf & Leechm. ex Moldenke	ncbitaxon:381409	0	0	0	0	0	0	0	0	0	0
+Cerbera odollam Gaertn.	ncbitaxon:141546	0	0	0	0	0	0	0	0	0	0
+Eucalyptus occidentalis Endl.	ncbitaxon:229548	0	0	0	0	0	0	0	0	0	0
+Euphorbia thymifolia L.	ncbitaxon:318061	0	0	0	0	0	0	0	0	0	0
+Guettarda speciosa L.	ncbitaxon:128314	0	0	0	0	0	0	0	0	0	0
+Ipomoea pes-caprae Roth	ncbitaxon:89656	0	0	0	0	0	0	0	0	0	0
+Lycium europaeum L.	ncbitaxon:112873	0	0	0	0	0	0	0	0	0	0
+Solanum peruvianum L.	ncbitaxon:4082	0	0	0	0	0	0	0	0	0	0
+Ochradenus baccatus Delile	ncbitaxon:264972	0	0	0	0	0	0	0	0	0	0
+Euphorbia tithymaloides L.	ncbitaxon:212310	0	0	0	0	0	0	0	0	0	0
+Phoenix theophrasti  Greuter	ncbitaxon:446128	0	0	0	0	0	0	0	0	0	0
+Prosopis velutina Wooton	ncbitaxon:207719	0	0	0	0	0	1	0	0	0	1	30.9688	xeric			507	BSk			1560
+Saccharum spontaneum L.	ncbitaxon:62335	0	0	0	0	0	0	0	0	0	0
+Salicornia bigelovii Torr.	ncbitaxon:46105	0	0	0	0	0	0	0	0	0	0
+Salvadora oleoides Decne.	ncbitaxon:1173311	0	0	0	0	0	0	0	0	0	0
+Salvadora persica L.	ncbitaxon:4326	0	0	0	0	0	0	0	0	0	0
+Sesuvium verrucosum Raf.	ncbitaxon:115629	0	0	0	0	0	0	0	0	0	0
+Solanum incanum L.	ncbitaxon:329779	0	0	0	0	0	0	0	0	0	0
+Typha orientalis C.Presl	ncbitaxon:644748	0	0	0	0	0	0	0	0	0	0
+Amaranthus viridis L.	ncbitaxon:56196	0	0	0	0	0	0	0	0	0	0
+Argemone ochroleuca Sweet	ncbitaxon:99340	0	0	0	0	0	0	0	0	0	0
+Artemisia afra Jacq. ex Willd.	ncbitaxon:72333	0	0	0	0	0	0	0	0	0	0
+Bambusa balcooa Roxb.	ncbitaxon:288444	0	0	0	0	0	0	0	0	0	0
+Oenothera rosea LÂ’HÃ©r. ex Aiton	ncbitaxon:238298	0	0	0	0	0	0	0	0	0	0
+Pennisetum clandestinum Hochst. ex Chiov.	ncbitaxon:173850	0	0	0	0	0	0	0	0	0	0
+Physalis angulata L.	ncbitaxon:113208	0	0	0	0	0	0	0	0	0	0
+Phytolacca octandra L.	ncbitaxon:211655	0	0	0	0	0	0	0	0	0	0
+Salix babylonica L.	ncbitaxon:75706	0	0	0	0	0	0	0	0	0	0
+Solanum pseudocapsicum L.	ncbitaxon:45837	0	0	0	0	0	0	0	0	0	0
+Spiraea cantoniensis Lour.	ncbitaxon:141007	0	0	0	0	0	0	0	0	0	0
+Sagittaria rhombifolia Cham.	ncbitaxon:353103	0	0	0	0	0	0	0	0	0	0
+Achyranthes aspera L.	ncbitaxon:240005	0	0	0	0	0	0	0	0	0	0
+Amaranthus spinosus L.	ncbitaxon:124765	0	0	0	0	0	0	0	0	0	0
+Cyathula prostrata Blume	ncbitaxon:221766	0	0	0	0	0	0	0	0	0	0
+Gomphrena celosioides Mart.	ncbitaxon:217251	0	0	0	0	0	0	0	0	0	0
+Gomphrena globosa L.	ncbitaxon:221775	0	0	0	0	0	0	0	0	0	0
+Annona cornifolia A.St.-Hil.	ncbitaxon:502529	0	0	0	0	0	0	0	0	0	0
+Annona crassiflora Mart.	ncbitaxon:508206	0	0	0	0	0	0	0	0	0	0
+Eryngium foetidum L.	ncbitaxon:477864	0	0	0	0	0	0	0	0	0	0
+Araujia sericifera Brot.	ncbitaxon:63463	0	0	0	0	0	0	0	0	0	0
+Asclepias curassavica L.	ncbitaxon:52823	0	0	0	0	0	0	0	0	0	0
+Tabernaemontana catharinensis A.DC.	ncbitaxon:403124	0	0	0	0	0	0	0	0	0	0
+Attalea phalerata Mart. ex Spreng.	ncbitaxon:290273	0	0	0	0	0	0	0	0	0	0
+Aristolochia cymbifera Mart. & Zucc.	ncbitaxon:158540	0	0	0	0	0	0	0	0	0	0
+Acanthospermum hispidum DC.	ncbitaxon:182999	0	0	0	0	0	0	0	0	0	0
+Acmella brachyglossa Cass.	ncbitaxon:468510	0	0	0	0	0	0	0	0	0	0
+Ageratum conyzoides L.	ncbitaxon:68299	0	0	0	0	0	0	0	0	0	0
+Ambrosia elatior L.	ncbitaxon:4215	0	0	0	0	0	0	0	0	0	0
+Cosmos sulphureus Cav.	ncbitaxon:459758	0	0	0	0	0	0	0	0	0	0
+Mikania micrantha Kunth	ncbitaxon:192012	0	0	0	0	0	0	0	0	0	0
+Heliotropium indicum L.	ncbitaxon:248297	0	0	0	0	0	0	0	0	0	0
+Varronia curassavica Jacq.	ncbitaxon:246543	0	0	0	0	0	0	0	0	0	0
+Lobelia aquatica Cham.	ncbitaxon:368925	0	0	0	0	0	0	0	0	0	0
+Valeriana scandens L.	ncbitaxon:245819	0	0	0	0	0	0	0	0	0	0
+Clusia nemorosa G.Mey.	ncbitaxon:180924	0	0	0	0	0	0	0	0	0	0
+Garcinia macrophylla Mart.	ncbitaxon:469955	0	0	0	0	0	0	0	0	0	0
+Cuscuta pentagona Engelm.	ncbitaxon:112407	0	0	0	0	0	0	0	0	0	0
+Ipomoea alba L.	ncbitaxon:89634	0	0	0	0	0	0	0	0	0	0
+Ipomoea aquatica Forssk.	ncbitaxon:89636	0	0	0	0	0	0	0	0	0	0
+Ipomoea setosa Ker Gawl.	ncbitaxon:89662	0	0	0	0	0	0	0	0	0	0
+Cucumis anguria L.	ncbitaxon:39473	0	0	0	0	0	0	0	0	0	0
+Cyperus iria L.	ncbitaxon:388567	0	0	0	0	0	0	0	0	0	0
+Dioscorea alata L.	ncbitaxon:55571	0	0	0	0	0	0	0	0	0	0
+Dioscorea bulbifera L.	ncbitaxon:35874	0	0	0	0	0	0	0	0	0	0
+Dioscorea polygonoides Humb. & Bonpl. ex Willd.	ncbitaxon:85194	0	0	0	0	0	0	0	0	0	0
+Dioscorea trifida L.f.	ncbitaxon:55581	0	0	0	0	0	0	0	0	0	0
+Croton antisyphiliticus Mart.	ncbitaxon:323025	0	0	0	0	0	0	0	0	0	0
+Croton bonplandianus Baill.	ncbitaxon:323030	0	0	0	0	0	0	0	0	0	0
+Croton echioides Baill.	ncbitaxon:518852	0	0	0	0	0	0	0	0	0	0
+Croton hirtus LHÃ©r.	ncbitaxon:504204	0	0	0	0	0	0	0	0	0	0
+Euphorbia hirta L.	ncbitaxon:318062	0	0	0	0	0	0	0	0	0	0
+Jatropha curcas L.	ncbitaxon:180498	0	0	0	0	0	0	1	0	0	0	17.5012	Subtropical			265	Aw			519
+Andira cujabensis Benth.	ncbitaxon:588908	0	0	0	0	0	0	0	0	0	0
+Arachis glabrata Benth.	ncbitaxon:212810	0	0	0	0	0	0	0	0	0	0
+Arachis magna Krapov. et al.	ncbitaxon:108213	0	0	0	0	0	0	0	0	0	0
+Bauhinia dubia G.Don	ncbitaxon:1954515	0	0	0	0	0	0	0	0	0	0
+Bauhinia ungulata L.	ncbitaxon:231278	0	0	0	0	0	0	0	0	0	0
+Canavalia brasiliensis Mart. ex Benth.	ncbitaxon:61861	0	0	0	0	0	0	0	0	0	0
+Cenostigma macrophyllum Tul.	ncbitaxon:191913	0	0	0	0	0	0	0	0	0	0
+Clitoria ternatea L.	ncbitaxon:43366	0	0	0	0	0	0	0	0	0	0
+Copaifera oblongifolia Mart. ex Hayne	ncbitaxon:327898	0	0	0	0	0	0	0	0	0	0
+Crotalaria pallida Aiton	ncbitaxon:3830	0	0	0	0	0	0	0	0	0	0
+Crotalaria retusa L.	ncbitaxon:165774	0	0	0	0	0	0	0	0	0	0
+Crotalaria verrucosa L.	ncbitaxon:890036	0	0	0	0	0	0	0	0	0	0
+Dimorphandra gardneriana Tul.	ncbitaxon:1954554	0	0	0	0	0	0	0	0	0	0
+Dipteryx alata Vogel	ncbitaxon:54988	0	0	0	0	0	0	0	1	1	0	-19.01186111	Tropical			1180	Aw			103
+Erythrina dominguezii Hassl.	ncbitaxon:1954590	0	0	0	0	0	0	0	0	0	0
+Erythrina fusca Lour.	ncbitaxon:556509	0	0	0	0	0	0	0	1	0	0	4,45N								1230-1375
+Erythrina velutina Willd.	ncbitaxon:1076878	0	0	0	0	0	0	0	0	0	0
+Erythrina verna Vell.	ncbitaxon:1954593	0	0	0	0	0	0	0	0	0	0
+Hymenaea eriogyne Benth.	ncbitaxon:327905	0	0	0	0	0	0	0	0	0	0
+Indigofera suffruticosa Mill.	ncbitaxon:100149	0	0	0	0	0	0	0	0	0	0
+Indigofera truxillensis Kunth	ncbitaxon:198919	0	0	0	0	0	0	0	0	0	0
+Inga heterophylla Willd.	ncbitaxon:668910	0	0	0	0	0	0	0	0	0	0
+Mimosa caesalpiniifolia Benth.	ncbitaxon:560025	0	0	0	0	0	0	0	0	0	0
+Mimosa hexandra Micheli	ncbitaxon:367315	0	0	0	0	0	0	0	0	0	0
+Mimosa pigra L.	ncbitaxon:367322	0	0	0	0	0	0	0	0	0	0
+Mimosa sensitiva L.	ncbitaxon:648485	0	0	0	0	0	0	0	0	0	0
+Mimosa velloziana Mart.	ncbitaxon:648521	0	0	0	0	0	0	0	0	0	0
+Mimosa verrucosa Benth.	ncbitaxon:648525	0	0	0	0	0	0	0	0	0	0
+Stryphnodendron rotundifolium Mart.	ncbitaxon:397653	0	0	0	0	0	0	0	0	0	0
+Swartzia flaemingii Raddi	ncbitaxon:247905	0	0	0	0	0	0	0	0	0	0
+Tachigali vulgaris L.G.Silva & H.C.Lima	ncbitaxon:1763431	0	0	0	0	0	0	0	0	0	0
+Zornia brasiliensis Vogel	ncbitaxon:264955	0	0	0	0	0	0	0	0	0	0
+Zornia glabra Desv.	ncbitaxon:1453846	0	0	0	0	0	0	0	0	0	0
+Leonurus japonicus Houtt.	ncbitaxon:4138	0	0	0	0	0	0	0	0	0	0
+Ocimum americanum L.	ncbitaxon:204141	0	0	0	0	0	0	0	0	0	0
+Ocimum gratissimum L.	ncbitaxon:204144	0	0	0	0	0	0	0	0	0	0
+Nectandra amazonum Nees	ncbitaxon:128645	0	0	0	0	0	0	0	0	0	0
+Nectandra cuspidata Nees	ncbitaxon:128647	0	0	0	0	0	0	0	0	0	0
+Malvastrum coromandelianum Garcke	ncbitaxon:108453	0	0	0	0	0	0	0	0	0	0
+Sida acuta Burm.f.	ncbitaxon:108357	0	0	0	0	0	1	0	1	1	0	21.93333333	Tropical		21.4	1513	Cwa			600
+Sida cordifolia L.	ncbitaxon:108362	0	0	0	0	0	0	0	0	0	0
+Sida urens L.	ncbitaxon:108382	0	0	0	0	0	0	0	0	0	0
+Maranta leuconeura E.Morren	ncbitaxon:34203	0	0	0	0	0	0	0	0	0	0
+Miconia chamissois Naudin	ncbitaxon:477044	0	0	0	0	0	0	0	0	0	0
+Eugenia involucrata DC.	ncbitaxon:262454	0	0	0	0	0	0	0	0	0	0
+Psidium guineense Sw.	ncbitaxon:260140	0	0	0	0	0	0	0	0	0	0
+Mirabilis jalapa L.	ncbitaxon:3538	0	0	0	0	0	0	0	0	0	0
+Ximenia americana L.	ncbitaxon:50174	0	0	0	0	0	0	0	0	0	0
+Averrhoa bilimbi L.	ncbitaxon:245205	0	0	0	0	0	0	0	0	0	0
+Averrhoa carambola L.	ncbitaxon:28974	0	0	0	0	0	0	0	0	0	0
+Oxalis barrelieri L.	ncbitaxon:519128	0	0	0	0	0	0	0	0	0	0
+Oxalis triangularis A.St.-Hil.	ncbitaxon:519208	0	0	0	0	0	0	0	0	0	0
+Passiflora alata Curtis	ncbitaxon:159422	0	0	0	0	0	0	0	0	0	0
+Passiflora cincinnata Mast.	ncbitaxon:197924	0	0	0	0	0	0	0	0	0	0
+Passiflora edulis Sims	ncbitaxon:78168	0	0	0	0	0	0	0	0	0	0
+Passiflora foetida L.	ncbitaxon:159421	0	0	0	0	0	0	0	0	0	0
+Phyllanthus amarus Schumach.	ncbitaxon:293060	0	0	0	0	0	0	0	0	0	0
+Phyllanthus niruri L.	ncbitaxon:296034	0	0	0	0	0	0	0	0	0	0
+Phyllanthus tenellus Roxb.	ncbitaxon:293057	0	0	0	0	0	0	0	0	0	0
+Phyllanthus urinaria L.	ncbitaxon:296035	0	0	0	0	0	0	0	0	0	0
+Piper aduncum L.	ncbitaxon:130377	0	0	0	0	0	0	0	1	0	0	4,45N								1230-1445
+Piper cernuum Vell.	ncbitaxon:425145	0	0	0	0	0	0	0	0	0	0
+Piper divaricatum G.Mey.	ncbitaxon:405324	0	0	0	0	0	0	0	0	0	0
+Piper marginatum Jacq.	ncbitaxon:247692	0	0	0	0	0	0	0	0	0	0
+Piper ovatum Vahl	ncbitaxon:538322	0	0	0	0	0	0	0	0	0	0
+Piper solmsianum C.DC.	ncbitaxon:538350	0	0	0	0	0	0	0	0	0	0
+Piper tuberculatum Jacq.	ncbitaxon:247704	0	0	0	0	0	0	0	0	0	0
+Bambusa tuldoides Munro	ncbitaxon:318046	0	0	0	0	0	0	0	0	0	0
+Oryza latifolia Desv.	ncbitaxon:4534	0	0	0	0	0	0	0	0	0	0
+Panicum aquaticum Poir.	ncbitaxon:158123	0	0	0	0	0	0	0	0	0	0
+Paspalum regnellii Mez	ncbitaxon:576423	0	0	0	0	0	0	0	0	0	0
+Setaria sulcata Raddi	ncbitaxon:560859	0	0	0	0	0	0	0	0	0	0
+Polygonum capitatum Buch.-Ham. ex D.Don	ncbitaxon:452457	0	0	0	0	0	0	0	0	0	0
+Pontederia sagittata C.Presl	ncbitaxon:16373	0	0	0	0	0	0	0	0	0	0
+Borreria hispida Spruce ex K.Schum.	ncbitaxon:60356	0	0	0	0	0	0	0	0	0	0
+Guettarda pohliana MÃ¼ll.Arg.	ncbitaxon:336043	0	0	0	0	0	0	0	0	0	0
+Oldenlandia corymbosa L.	ncbitaxon:43536	0	0	0	0	0	0	0	0	0	0
+Capsicum baccatum L.	ncbitaxon:33114	0	0	0	0	0	0	0	0	0	0
+Physalis pubescens L.	ncbitaxon:300354	0	0	0	0	0	0	0	0	0	0
+Schwenckia americana Rooyen ex L.	ncbitaxon:310456	0	0	0	0	0	0	0	0	0	0
+Solanum laxum Spreng.	ncbitaxon:205558	0	0	0	0	0	0	0	0	0	0
+Solanum lycocarpum A.St.-Hil.	ncbitaxon:329783	0	0	0	0	0	0	0	0	0	0
+Solanum palinacanthum Dunal	ncbitaxon:238978	0	0	0	0	0	0	0	0	0	0
+Solanum paniculatum L.	ncbitaxon:329794	0	0	0	0	0	0	0	0	0	0
+Solanum viarum Dunal	ncbitaxon:215581	0	0	0	0	0	0	0	0	0	0
+Symplocos tenuifolia Brand	ncbitaxon:251604	0	0	0	0	0	0	0	0	0	0
+Turnera diffusa Willd. ex Schult.	ncbitaxon:329212	0	0	0	0	0	0	0	0	0	0
+Turnera subulata Sm.	ncbitaxon:218843	0	0	0	0	0	0	0	0	0	0
+Lippia origanoides Kunth	ncbitaxon:542673	0	0	0	0	0	0	0	0	0	0
+Hedychium coronarium J.Koenig	ncbitaxon:71610	0	0	0	0	0	0	0	0	0	0
+Artemisia capillaris Thunb.	ncbitaxon:265783	0	0	0	0	0	0	0	0	0	0
+Fagonia indica Burm.f.	ncbitaxon:66629	0	0	0	0	0	0	0	0	0	0
+Mesembryanthemum crystallinum L.	ncbitaxon:3544	0	0	0	0	0	0	0	0	0	0
+Pergularia tomentosa L.	ncbitaxon:264979	0	0	0	0	0	0	0	0	0	0
+Tribulus terrestris L.	ncbitaxon:210369	0	0	0	0	0	0	0	0	0	0
+Xylocarpus granatum J.Koenig	ncbitaxon:241841	0	0	0	0	0	0	0	0	0	0
+Rhodobryum ontariense	ncbitaxon:188012	0	0	0	0	0	0	0	0	0	0
+Rhodobryum roseum	ncbitaxon:65534	0	0	0	0	0	0	0	0	0	0
+Frullania dilatata	ncbitaxon:106129	0	0	0	0	0	0	0	0	0	0
+Rhododendron anthopogon	ncbitaxon:49619	0	0	0	1	0	0	0	0	1	0	30.11	Arctic/Alpine	5.1	4.1	1557	BWh			3550								0	13.75
+Betula utilis	ncbitaxon:228163	0	0	0	0	0	1	0	0	0	0	30.29	temperate	5.8		884	Dwb			3250								7	13
+Rhododendron campanulatum	ncbitaxon:479661	0	0	0	0	0	1	0	0	0	0	30.29	temperate	5.8			Dwb			3350								7	13
+Terminalia paniculata	ncbitaxon:1609107	0	0	0	0	0	0	0	1	1	0	8.29	tropical	5.88	27	3146	Aw			380								26	28
+Incarvillea compacta	ncbitaxon:291318	0	0	0	0	0	1	0	0	0	1	30.95	semi-arid		0	300	ET			4750
+Pinus kesiya	ncbitaxon:71636	0	0	0	0	0	1	1	0	1	0	25.56666667	subtropical	5.14		2315				1500								5.3	24.9
+Alternanthera sessilis	ncbitaxon:221762	0	0	0	0	0	1	0	1	1	0	21.93333333	Tropical		21.4	1513	Cwa			600
+Bauhinia championii	ncbitaxon:228514	0	0	0	0	0	1	0	0	0	0	25.86666667	Temperate		20.2	995	Cwb			1357.5
+Akebia quinata	ncbitaxon:13331	0	0	0	0	0	1	0	0	0	1	31.68333333	temperate semi-arid	5.45	10.4	738.8	Cwb			1830								-1.4	18.7
+Artemisia gmelinii	ncbitaxon:401898	0	0	0	0	0	1	0	0	0	1	31.68333333	temperate semi-arid	5.45	10.4	738.8	Cwb			1830								-1.4	18.7
+Rosa soulieeana	ncbitaxon:577515	0	0	0	0	0	1	0	0	0	1	31.68333333	temperate semi-arid	5.45	10.4	738.8	Cwb			1830								-1.4	18.7
+Prunus sibirica	ncbitaxon:151440	1	0	0	0	0	1	0	0	0	0	45.38333333	continental temperate monsoon		2.8	723	Dwb											-19.6	20.9
+Taxus chinensis	ncbitaxon:29808	0	0	0	0	0	1	1	0	1	0	24.56847222	typical subtropical	4.5	16.4	2156	Cfa											6.8	24.4
+Eucalyptus citriodora	ncbitaxon:34329	0	0	0	0	0	1	1	0	1	0	22.68333333	Subtropical	4	21.7	1801	Cwa			471								13.1	28.7
+Rubus chorchorifolius	ncbitaxon:190223	0	0	0	0	0	1	1	0	1	0	26.74416667	typical subtropical		17.9	1489	Cfa											6.4	28.8
+Acacia nilotica	ncbitaxon:138033	0	0	0	0	0	1	1	0	0	1	27.16666667	sub-tropical semi-arid			725				165								5	39
+Plantago albicans	ncbitaxon:197790	0	0	0	0	0	1	0	0	0	1	34.8731	Arid			199	BWh			142
+Ephedra alata alenda	ncbitaxon:302006	0	0	0	0	0	1	0	0	0	1	33.38027778	Arid			47	BWh			44
+Ipomoea leptophylla	ncbitaxon:89648	0	0	0	0	0	1	0	0	0	1	35.4248	Arid				BSk			1652
+Solanum elaeagnifolium	ncbitaxon:115664	0	0	0	0	0	1	0	0	0	1	35.3818	Arid			247	BSk			1685
+Yucca elata	ncbitaxon:39551	0	0	0	0	0	1	0	0	0	1	32.606	Xeric			247	BWk			1326
+Prosopis chilensis	ncbitaxon:35716	0	0	0	0	0	0	1	0	0	0	-6.8437	Subtropical			870	Aw			504
+Torreya nucifera	ncbitaxon:50189	0	0	0	0	0	1	0	0	0	0	35.40974	Temperate				Cfa
+Retama Retam	ncbitaxon:49837	0	0	0	0	0	1	0	0	0	1	31.7462	Arid				Csa			-411
+Erica australis	ncbitaxon:13510	0	1	0	0	0	1	0	0	0	0	40.2781	Mediterranean			812	Csa			1005
+Albizia amara	ncbitaxon:1179215	0	0	0	0	0	0	1	0	0	0	-15.5158	Subtropical			800	Cwa			1241
+Albizia versicolor	ncbitaxon:138525	0	0	0	0	0	0	1	0	0	0	-15.52	Subtropical			800	Cwa			1238
+Phyllanthus muelleranus	ncbitaxon:319598	0	0	0	0	0	0	1	0	0	0	-15.5505	Subtropical			800	Cwa			1203
+Paronychia argentea Lam.	ncbitaxon:157622	0	0	0	0	0	1	0	0	0	0	36.68
+Cistus creticus L.	ncbitaxon:191224	0	0	0	0	0	1	0	0	0	0	44.37
+Pistacia atlantica Desf.	ncbitaxon:434234	0	0	0	0	0	0	0	0	0	0
+Echinops spinosissimus Turra	ncbitaxon:143198	0	0	0	0	0	1	0	0	0	0	36.68
+Salvia lavandulifolia Vahl.	ncbitaxon:49214	0	0	0	0	0	1	0	0	0	0	40
+Teucrium fruticans L.	ncbitaxon:28514	0	0	0	0	0	0	0	0	0	0
+Thymus mastichina L.	ncbitaxon:157259	0	0	0	0	0	1	0	0	0	0	40
+Aegilops speltoides Tausch	ncbitaxon:4573	0	0	0	0	0	1	0	0	0	0	36.68
+Fagonia cretica L.	ncbitaxon:90528	0	0	0	0	0	0	0	0	0	0
+Viscum cruciatum Sieber ex Boiss.	ncbitaxon:104251	0	0	0	0	0	0	0	0	0	0
+Limonium sinuatum	ncbitaxon:70371	0	0	0	0	0	0	0	0	0	0
+Limonium virgatum	ncbitaxon:70367	0	0	0	0	0	0	0	0	0	0
+Canarium pimela	ncbitaxon:210350	0	0	0	0	0	1	1	0	1	0	23.15	subtropical monsoon climate	3.9	22.3	1900	subtropical evergreen monsoon forest			250
+Evodia lepta	ncbitaxon:354501	0	0	0	0	0	1	1	0	1	0	23.15	subtropical monsoon climate	3.9	22.3	1900	subtropical evergreen monsoon forest			250
+Osmunda japonica	ncbitaxon:90693	0	0	0	0	0	1	1	0	1	0	29Â°48'25''Â–29Â°51'53''N	Subtropical		13.6	1600
+Bauhinia purpurea L	ncbitaxon:3806	0	0	0	0	0	0	0	1	0	0	4,45N								1230-1315
+Bougainvillea glabra choisy	ncbitaxon:3541	0	0	0	0	0	0	0	1	0	0	4,45N								1230-1318
+Elaeis guineensis Jacq.	ncbitaxon:51953	0	0	0	0	0	0	0	1	0	0	4,45N								1230-1372
+Euphorbia pulcherrima Willel	ncbitaxon:37495	0	0	0	0	0	0	0	1	0	0	4,45N								1230-1385
+Fraxinus chinensis Roxb	ncbitaxon:56033	0	0	0	0	0	0	0	1	0	0	4,45N								1230-1392
+Jatropha integerrima Jacq	ncbitaxon:316874	0	0	0	0	0	0	0	1	0	0	4,45N								1230-1410
+Jatropha multifida L.	ncbitaxon:3996	0	0	0	0	0	0	0	1	0	0	4,45N								1230-1411
+Phoenix roebelinii O'Brien	ncbitaxon:446125	0	0	0	0	0	0	0	1	0	0	4,45N								1230-1441
+Ficus hirta	ncbitaxon:309429	0	0	0	0	0	1	1	0	1	0	23Â°27?N	humid  subtropical  monsoon  climate	4.56	19.6	1740				150 to 1000
+Styrax tonkinensis	ncbitaxon:153559	0	0	0	0	0	1	1	0	1	0	23Â°27?N	humid  subtropical  monsoon  climate	4.486586995	19.6	1740				150 to 1000
+Dichroa febrifuga	ncbitaxon:152286	0	0	0	0	0	1	1	0	1	0	23Â°27?N	humid  subtropical  monsoon  climate	4.379822771	19.6	1740				150 to 1000
+Toxicodendron succedaneum	ncbitaxon:269721	0	0	0	0	0	1	1	0	1	0	23Â°27?N	humid  subtropical  monsoon  climate	4.404813066	19.6	1740				150 to 1000
+Ilex rotunda	ncbitaxon:53211	0	0	0	0	0	1	1	0	1	0	23Â°27?N	humid  subtropical  monsoon  climate	4.555	19.6	1740				150 to 1000
+Breynia fruticosa	ncbitaxon:296042	0	0	0	0	0	1	1	0	1	0	23Â°27?N	humid  subtropical  monsoon  climate	4.41332615	19.6	1740				150 to 1000
+Callicarpa macrophylla	ncbitaxon:536997	0	0	0	0	0	1	1	0	1	0	23Â°27?N	humid  subtropical  monsoon  climate	4.567454742	19.6	1740				150 to 1000
+Symplocos cochinchinensis	ncbitaxon:239694	0	0	0	0	0	1	1	0	1	0	23Â°27?N	humid  subtropical  monsoon  climate	4.617940748	19.6	1740				150 to 1000
+Cinnamomum subavenium	ncbitaxon:977953	0	0	0	0	0	1	1	0	1	0	23Â°27?N	humid  subtropical  monsoon  climate	4.6	19.6	1740				150 to 1000
+Betula luminifera	ncbitaxon:312789	0	0	0	0	0	1	1	0	1	0	23Â°27?N	humid  subtropical  monsoon  climate	4.450819439	19.6	1740				150 to 1000

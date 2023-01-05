@@ -3,6 +3,7 @@
 """Utils to be used in notebooks"""
 
 from collections import defaultdict
+from functools import lru_cache
 from typing import Set, Tuple, Any, Dict
 
 import networkx as nx
@@ -10,14 +11,20 @@ import obonet
 from tqdm import tqdm
 
 
+@lru_cache(maxsize=None)
+def get_ncbiontology():
+    """Wrapper to get the ncbiontology."""
+    return obonet.read_obo(
+        'http://purl.obolibrary.org/obo/ncbitaxon.obo'
+    )
+
+
 def get_genus_and_family_info_for_plants(
     plant_ids: Set[str]
 ) -> Tuple[Dict[Any, list], Dict[Any, list]]:
     """Return dictionaries mapping plant species to their genus/families."""
     # Load ncbitaxon taxonomy. This might take a couple of mins
-    ncbitaxon_ontology = obonet.read_obo(
-        'http://purl.obolibrary.org/obo/ncbitaxon.obo'
-    )
+    ncbitaxon_ontology = get_ncbiontology()
 
     # Get the childs of Viridiplantae (all plants)
     plant_childs = nx.ancestors(ncbitaxon_ontology, 'NCBITaxon:33090')

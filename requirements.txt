@@ -5,7 +5,7 @@ networkx==2.8.3
 itertools
 statannotations==0.5.0
 rdkit==2022.9.1
-numpy==1.1.0
+numpy==1.22.0
 seaborn==0.11.0
 matplotlib_venn
 pygal_maps_world

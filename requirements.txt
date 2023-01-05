@@ -3,7 +3,7 @@ obonet
 tqdm
 networkx
 itertools
-statannot
+statannotations
 rdkit
 numpy
 seaborn

@@ -139,3 +139,5 @@ nbconvert/
 log/*
 
 .dvc/*
+.RData
+.gitignore

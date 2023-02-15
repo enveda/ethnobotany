@@ -7,10 +7,10 @@ library(ggplot2)
 library(ggnewscale)
 library(reshape)
 
-tree <- read.newick("./temp_phylogenetic_viz/np_family_tree.nwk")
+tree <- read.newick("./np_family_tree.nwk")
 dat2 <-
   read.table(
-    "./temp_phylogenetic_viz/family_indication_count_normalized.tsv",
+    "./family_indication_count_normalized.tsv",
     sep = "\t",
     header = TRUE,
     row.names = 1,

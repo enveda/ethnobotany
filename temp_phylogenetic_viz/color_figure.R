@@ -27,9 +27,9 @@ labdf <-
 # The circular layout tree.
 p <-
   ggtree(tree,
-         layout = "fan",
-         size = 0.5,# line thickness
-         open.angle = 0) + # gives it a nice gap
+         layout="fan",
+         size = 0.5, # line thickness
+         open.angle = 90) + # gives it a nice gap
   geom_tiplab(align=TRUE, geom = 'text', size=2) +
   new_scale_fill() +
   geom_fruit(
@@ -38,21 +38,24 @@ p <-
     geom = geom_tile, # basically a heat map
     mapping = aes(y = rowname, x = variable, fill = value),
     color = "#666666", # color of the lines
-    offset = 0.15,
+    offset = 0.08,
     size = 0.02 # width of lines (maybe)
   ) +
-  scale_fill_viridis_b(option = "viridis", name = "value") #+ #bins before coloring
+  # scale_fill_viridis_b(option = "viridis", name = "value") #+ #bins before coloring
 # scale_fill_gradient(high = "#F67280", low = "#16EB96") + # use if you want enveda colors (looks gross, might need a lot of massaging in illustrator)
 # theme_minimal() #+
 # scale_fill_viridis_c(option = "magma", name = "value") # could use continuous viridis theme
-# scale_alpha_continuous(range = c(0, 1), guide = guide_legend(keywidth = 0.3,keyheight = 0.3,order = 5)) # alpha = transparency
-
+scale_alpha_continuous(range = c(0, 1), guide = guide_legend(keywidth = 0.3,keyheight = 0.3,order = 5)) # alpha = transparency
 p
+# ggplot(dat2, aes(x = rowname, y = variable, fill = value)) +
+#   geom_tile() +
+#   coord_fixed()
+#
 
 #install.packages("svglite")
 library(svglite)
 ggsave(
-  "with_text.svg", #infinite zoom; good for editing in illustrator
+  "straight.png", #infinite zoom; good for editing in illustrator
   plot = p,
   width = 12,
   height = 12,

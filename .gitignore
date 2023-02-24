@@ -1,3 +1,6 @@
+# svg
+*.svg
+
 # R
 .Rhistory
 

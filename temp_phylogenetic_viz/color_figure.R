@@ -26,27 +26,52 @@ labdf <-
 
 # The circular layout tree.
 p <-
-  ggtree(tree,
-         layout="fan",
-         size = 0.5, # line thickness
-         open.angle = 90) + # gives it a nice gap
-  geom_tiplab(align=TRUE, geom = 'text', size=2) +
+  ggtree(
+    tree,
+    layout = "fan",
+    branch.length = 'none',
+    size = 0.5,
+    # line thickness
+    open.angle = 90
+  ) + # gives it a nice gap
+  geom_tiplab(# align = TRUE,
+    geom = 'text',
+    size = 2,
+    offset = 0.1) +
   new_scale_fill() +
   geom_fruit(
     # lets you map whatever plot to a histogram
     data = dat2,
-    geom = geom_tile, # basically a heat map
-    mapping = aes(y = rowname, x = variable, fill = value),
-    color = "#666666", # color of the lines
-    offset = 0.08,
-    size = 0.02 # width of lines (maybe)
+    geom = geom_tile,
+    # basically a heat map
+    mapping = aes(y = rowname, x = variable, fill = variable, alpha=value),
+    color = "#666666",
+    # color of the lines
+    offset = 0.16,
+    size = 0.02,
+    # width of lines (maybe)
+    lwd = 0.1,
+    axis.params = list(
+      axis = "x",
+      # title = "disease area",
+      text.angle = -90,
+      text.size = 2,
+      line.size = 0,
+      vjust = 0
+    )
   ) +
   # scale_fill_viridis_b(option = "viridis", name = "value") #+ #bins before coloring
-# scale_fill_gradient(high = "#F67280", low = "#16EB96") + # use if you want enveda colors (looks gross, might need a lot of massaging in illustrator)
-# theme_minimal() #+
-# scale_fill_viridis_c(option = "magma", name = "value") # could use continuous viridis theme
-scale_alpha_continuous(range = c(0, 1), guide = guide_legend(keywidth = 0.3,keyheight = 0.3,order = 5)) # alpha = transparency
-p
+  # scale_fill_gradient(high = "#F67280", low = "#16EB96") + # use if you want enveda colors (looks gross, might need a lot of massaging in illustrator)
+  # theme_minimal() #+
+  # scale_fill_viridis_c(option = "magma", name = "value") # could use continuous viridis theme
+  scale_alpha_continuous(range = c(0.0, 0.63),
+                         guide = guide_legend(
+                           keywidth = 0.3,
+                           keyheight = 0.3,
+                           order = 5
+                         )) +  # alpha = transparency
+  geom_treescale(fontsize=2, linesize=0.3, x=4.9, y=0.1)
+  p
 # ggplot(dat2, aes(x = rowname, y = variable, fill = value)) +
 #   geom_tile() +
 #   coord_fixed()
@@ -55,7 +80,8 @@ p
 #install.packages("svglite")
 library(svglite)
 ggsave(
-  "straight.png", #infinite zoom; good for editing in illustrator
+  "90-blue.svg",
+  #infinite zoom; good for editing in illustrator
   plot = p,
   width = 12,
   height = 12,

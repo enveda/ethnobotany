@@ -82,16 +82,16 @@ p <- p + new_scale_fill() +
   scale_alpha_continuous(range=c(0, 1),
                          guide=guide_legend(keywidth = 0.3,
                                             keyheight = 0.3, order=5)) +
-  geom_fruit(data=dat3, geom=geom_bar,
-             mapping=aes(y=ID, x=HigherAbundance, fill=Sites),
-             pwidth=0.38,
-             orientation="y",
-             stat="identity",
-  ) +
-  scale_fill_manual(values=c("#0000FF","#FFA500","#FF0000",
-                                      "#800000", "#006400","#800080","#696969"),
-                                      guide=guide_legend(keywidth = 0.3,
-                                                         keyheight = 0.3, order=4))+
+  # geom_fruit(data=dat3, geom=geom_bar,
+  #            mapping=aes(y=ID, x=HigherAbundance, fill=Sites),
+  #            pwidth=0.38,
+  #            orientation="y",
+  #            stat="identity",
+  # ) +
+  # scale_fill_manual(values=c("#0000FF","#FFA500","#FF0000",
+  #                                     "#800000", "#006400","#800080","#696969"),
+  #                                     guide=guide_legend(keywidth = 0.3,
+  #                                                        keyheight = 0.3, order=4))+
   geom_treescale(fontsize=2, linesize=0.3, x=4.9, y=0.1) +
   theme(legend.position=c(0.93, 0.5),
         legend.background=element_rect(fill=NA),

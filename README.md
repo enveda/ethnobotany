@@ -13,7 +13,7 @@ This repository contains code and data described in detail in our paper, "Modern
 If you have found our manuscript useful in your work, please consider citing:
 
 > Domingo-Fernandez, D.†, Gadiya, Y.†, Mubeen, S., Bollerman, T.J., Chanana, S., Gura, R., Healey, D., Colluru, V. (2023).
-Modern drug discovery using ethnobotany: A large-scale cross-cultural analysis of traditional medicine reveals common therapeutic uses. *iScience*, in press [DOI](https://doi.org/10.1016/j.isci.2023.107729)
+Modern drug discovery using ethnobotany: A large-scale cross-cultural analysis of traditional medicine reveals common therapeutic uses. *iScience*, Volume 26, Issue 9, 107729 [DOI](https://doi.org/10.1016/j.isci.2023.107729).
 
 ## Reproducibility
 
